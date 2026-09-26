@@ -1,12 +1,12 @@
 [
   {
-    "name": "Example Greenhouse Company",
+    "name": "Company Name",
     "ats": "greenhouse",
-    "slug": "example"
+    "slug": "company-greenhouse-slug"
   },
   {
-    "name": "Example Lever Company",
+    "name": "Another Company",
     "ats": "lever",
-    "slug": "example"
+    "slug": "another-company"
   }
 ]
