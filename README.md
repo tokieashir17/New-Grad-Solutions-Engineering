@@ -2,7 +2,7 @@
 
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Engineering, and related roles.
 
-**Last updated:** 2026-09-26  
+**Last updated:** 2026-09-27  
 **Matching jobs:** 0
 
 ## Categories
