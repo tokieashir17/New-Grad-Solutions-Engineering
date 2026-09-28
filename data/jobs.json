@@ -1,39 +1,5 @@
 [
   {
-    "id": "a0c40a0ca70e1020",
-    "company": "Asana",
-    "title": "Forward Deployed Engineer, Command by Asana",
-    "category": "Forward Deployed Engineering",
-    "location": "San Francisco",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://www.asana.com/jobs/apply/8031595?gh_jid=8031595",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "ba1deb9d18418f9d",
-    "company": "Asana",
-    "title": "Forward Deployed Engineer, Command by Asana",
-    "category": "Forward Deployed Engineering",
-    "location": "New York City",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://www.asana.com/jobs/apply/8044789?gh_jid=8044789",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "f8ac887544bf2f69",
     "company": "Brex",
     "title": "Software Engineer, Forward Deployed Agent Builder",
@@ -85,6 +51,42 @@
     "last_seen": "2026-09-28"
   },
   {
+    "id": "7c1c82ba4097bc48",
+    "company": "Databricks",
+    "title": "AI Engineer – Forward Deployed Engineering (AI FDE)",
+    "category": "Forward Deployed Engineering",
+    "location": "United States",
+    "remote": true,
+    "early_career": true,
+    "score": 21,
+    "signals": [
+      "Forward Deployed Engineering",
+      "new grad",
+      "entry level"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+    "source": "greenhouse",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28"
+  },
+  {
+    "id": "4364cc84349c5813",
+    "company": "Databricks",
+    "title": "AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)",
+    "category": "Forward Deployed Engineering",
+    "location": "Maryland; Virginia; Washington, D.C.",
+    "remote": true,
+    "early_career": false,
+    "score": 13,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
+    "source": "greenhouse",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28"
+  },
+  {
     "id": "5f53d8e2616719fb",
     "company": "Flexport",
     "title": "Forward Deployed Engineer - Supply Chain Solutions",
@@ -120,42 +122,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "f9348ea50702eb95",
-    "company": "Together AI",
-    "title": "Forward Deployed Engineer (Inference & Post-Training)",
-    "category": "Forward Deployed Engineering",
-    "location": "San Francisco",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Forward Deployed Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5131941007",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "ee31f244bbd7acfe",
-    "company": "Together AI",
-    "title": "Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking",
-    "category": "Forward Deployed Engineering",
-    "location": "Singapore",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Forward Deployed Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5199993007",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "3ea0ba910f0573d6",
     "company": "Zipline",
     "title": "Forward Deployed AI Engineer, Operations",
@@ -168,144 +134,6 @@
       "Forward Deployed Engineering"
     ],
     "url": "https://www.zipline.com/open-roles/7764239003?gh_jid=7764239003",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "e4be3e429a2f78bc",
-    "company": "Adyen",
-    "title": "Implementation Engineer",
-    "category": "Implementation Engineering",
-    "location": "Mexico City",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/adyen/jobs/7842201",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "1dc657ecb9474562",
-    "company": "Cloudflare",
-    "title": "Network Deployment Engineer",
-    "category": "Implementation Engineering",
-    "location": "Hybrid",
-    "remote": true,
-    "early_career": true,
-    "score": 17,
-    "signals": [
-      "Implementation Engineering",
-      "junior"
-    ],
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8099671?gh_jid=8099671",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "aac578e02cbe4eb6",
-    "company": "Cloudflare",
-    "title": "Network Deployment Engineer - APJC",
-    "category": "Implementation Engineering",
-    "location": "Hybrid",
-    "remote": true,
-    "early_career": true,
-    "score": 17,
-    "signals": [
-      "Implementation Engineering",
-      "junior"
-    ],
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8088046?gh_jid=8088046",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "6c4bb28c966bc15b",
-    "company": "Algolia",
-    "title": "Commercial Account Executive, DACH",
-    "category": "Sales Engineering",
-    "location": "London, England",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/algolia/jobs/5854568004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "6e2b9556022ee289",
-    "company": "Algolia",
-    "title": "Commercial Account Executive, DACH",
-    "category": "Sales Engineering",
-    "location": "Paris, France",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/algolia/jobs/5842399004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "27cdbd2572a6494f",
-    "company": "Algolia",
-    "title": "Commercial Account Executive, DACH",
-    "category": "Sales Engineering",
-    "location": "Remote - Germany",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/algolia/jobs/5854606004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "eae28b6c3f46151e",
-    "company": "Algolia",
-    "title": "Sales Engineer - Italian Speaking",
-    "category": "Sales Engineering",
-    "location": "London, England",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/algolia/jobs/6009000004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "93298d17b0f7b70e",
-    "company": "Brex",
-    "title": "Enterprise Account Executive II",
-    "category": "Sales Engineering",
-    "location": "Vancouver, British Columbia, Canada",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://www.brex.com/careers/7814866002?gh_jid=7814866002",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -379,87 +207,54 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "fa24ab83619357f2",
-    "company": "Cribl",
-    "title": "Sales Engineer, Storage & Analysis (EMEA)",
+    "id": "7c2d0424f5d0e70a",
+    "company": "Databricks",
+    "title": "Business Development Representative",
     "category": "Sales Engineering",
-    "location": "Remote - United Kingdom",
-    "remote": true,
+    "location": "Chicago, Illinois",
+    "remote": false,
     "early_career": false,
-    "score": 12,
+    "score": 10,
+    "signals": [
+      "Sales Engineering"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423165002",
+    "source": "greenhouse",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28"
+  },
+  {
+    "id": "4151653f84931d5a",
+    "company": "Databricks",
+    "title": "Solutions Architect Opportunities - Lakebase (Solutions Architect, Sr. Solutions Architect)",
+    "category": "Sales Engineering",
+    "location": "Northeast - United States",
+    "remote": false,
+    "early_career": false,
+    "score": 11,
     "signals": [
       "Sales Engineering",
-      "Forward Deployed Engineering"
+      "Technical Consulting"
     ],
-    "url": "https://cribl.io/job-detail/?gh_jid=6190561004",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407197002",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
   },
   {
-    "id": "538810a37c4406ae",
-    "company": "Datadog",
-    "title": "Commercial & Mid-Market Sales Engineer",
+    "id": "07f97a6a8db92042",
+    "company": "Databricks",
+    "title": "Sr. Solutions Architect, Customer Lake",
     "category": "Sales Engineering",
-    "location": "Tokyo, Japan",
+    "location": "United States",
     "remote": false,
     "early_career": false,
-    "score": 10,
+    "score": 11,
     "signals": [
-      "Sales Engineering"
+      "Sales Engineering",
+      "Technical Consulting"
     ],
-    "url": "https://careers.datadoghq.com/detail/8138342/?gh_jid=8138342",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "b2e9333e94755b58",
-    "company": "Datadog",
-    "title": "Commercial & Mid-Market Sales Engineer",
-    "category": "Sales Engineering",
-    "location": "Seoul, South Korea",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8131949/?gh_jid=8131949",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "193cc6b1b948a82e",
-    "company": "Datadog",
-    "title": "Commercial & Mid-Market Sales Engineer",
-    "category": "Sales Engineering",
-    "location": "Seoul, South Korea",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8130580/?gh_jid=8130580",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "214c89921623518a",
-    "company": "Datadog",
-    "title": "Commercial & Mid-Market Sales Engineer",
-    "category": "Sales Engineering",
-    "location": "Tokyo, Japan",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8131985/?gh_jid=8131985",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8762360002",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -477,57 +272,6 @@
       "Sales Engineering"
     ],
     "url": "https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "163ed00a47a51328",
-    "company": "Datadog",
-    "title": "Commercial Sales Engineer (Bahasa Indonesia-speaking)",
-    "category": "Sales Engineering",
-    "location": "Singapore, Singapore",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8177097/?gh_jid=8177097",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "4e8c5b7dafb4a6ee",
-    "company": "Datadog",
-    "title": "Commercial Sales Engineer (Sao Paulo)",
-    "category": "Sales Engineering",
-    "location": "Sao Paulo, Brazil",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8211090/?gh_jid=8211090",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "3624f7fcd7f2e087",
-    "company": "Datadog",
-    "title": "Commercial Sales Engineer (Spanish-Speaking)",
-    "category": "Sales Engineering",
-    "location": "Amsterdam, The Netherlands; Dublin, Ireland",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8080628/?gh_jid=8080628",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -567,91 +311,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "3037e8e7527a2e45",
-    "company": "Datadog",
-    "title": "Commercial Sales Engineer 2 (Sao Paulo)",
-    "category": "Sales Engineering",
-    "location": "Sao Paulo, Brazil",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8080601/?gh_jid=8080601",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "6a1dc43ee915d41f",
-    "company": "Datadog",
-    "title": "Enterprise Sales Engineer",
-    "category": "Sales Engineering",
-    "location": "Osaka, Japan",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/6703351/?gh_jid=6703351",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "afc72343b95bcae7",
-    "company": "Datadog",
-    "title": "Enterprise Sales Engineer - Brazil",
-    "category": "Sales Engineering",
-    "location": "Sao Paulo, Brazil",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/7255532/?gh_jid=7255532",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "8f4881c665df5789",
-    "company": "Datadog",
-    "title": "Mid-Market Sales Engineer",
-    "category": "Sales Engineering",
-    "location": "Bangalore, India",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8164122/?gh_jid=8164122",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "baf45856d7ea51f1",
-    "company": "Datadog",
-    "title": "Mid-Market Sales Engineer (Sao Paulo)",
-    "category": "Sales Engineering",
-    "location": "Sao Paulo, Brazil",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8080606/?gh_jid=8080606",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "aa0a8100db97ccf0",
     "company": "Datadog",
     "title": "Sales Engineer (Customer Success)",
@@ -665,23 +324,6 @@
       "1+ years"
     ],
     "url": "https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "4b570a5140e2a995",
-    "company": "Datadog",
-    "title": "Sales Engineer - Enterprise",
-    "category": "Sales Engineering",
-    "location": "Tokyo, Japan",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8090275/?gh_jid=8090275",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -717,193 +359,6 @@
     ],
     "url": "https://jobs.lever.co/finch/e5a29b88-c0dd-45d3-8f90-6321197a4420",
     "source": "lever",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "44d8e5e0987d39a5",
-    "company": "Formlabs",
-    "title": "French speaking Technical Sales Representative",
-    "category": "Sales Engineering",
-    "location": "Berlin, Germany",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.formlabs.com/job/8173501/apply/?gh_jid=8173501",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "df09710729aa3b3d",
-    "company": "Formlabs",
-    "title": "German speaking Technical Sales Representative",
-    "category": "Sales Engineering",
-    "location": "Berlin, Germany",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.formlabs.com/job/8176339/apply/?gh_jid=8176339",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "024dbdba64489639",
-    "company": "Formlabs",
-    "title": "Technical Sales Consultant - French Speaking",
-    "category": "Sales Engineering",
-    "location": "Berlin, Germany",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.formlabs.com/job/8176334/apply/?gh_jid=8176334",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "b26015c0f0f57545",
-    "company": "Formlabs",
-    "title": "Technical Sales Consultant - German Speaking",
-    "category": "Sales Engineering",
-    "location": "Berlin, Germany",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.formlabs.com/job/8129972/apply/?gh_jid=8129972",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "0dc28df06af9af89",
-    "company": "Formlabs",
-    "title": "Technical Sales Consultant - Italian Speaking",
-    "category": "Sales Engineering",
-    "location": "Berlin, Germany",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.formlabs.com/job/8176358/apply/?gh_jid=8176358",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "a4bdf87fd3e3c30e",
-    "company": "Formlabs",
-    "title": "Technical Sales Consultant - Spanish Speaking (2026 Grads)",
-    "category": "Sales Engineering",
-    "location": "Berlin, Germany",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.formlabs.com/job/8176386/apply/?gh_jid=8176386",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "1c25a1b400261acd",
-    "company": "Formlabs",
-    "title": "Technical Sales Representative - French Speaking",
-    "category": "Sales Engineering",
-    "location": "Berlin, Germany",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.formlabs.com/job/7989288/apply/?gh_jid=7989288",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "101a0590e4e5f4c2",
-    "company": "Formlabs",
-    "title": "Technical Sales Representative - German Speaking",
-    "category": "Sales Engineering",
-    "location": "Berlin, Germany",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.formlabs.com/job/7988991/apply/?gh_jid=7988991",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "421fde940ddfdccf",
-    "company": "Formlabs",
-    "title": "Technical Sales Representative - Italian Speaking",
-    "category": "Sales Engineering",
-    "location": "Berlin, Germany",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.formlabs.com/job/8000746/apply/?gh_jid=8000746",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "46d019f9d6ea26fc",
-    "company": "Formlabs",
-    "title": "Technical Sales Representative - Spanish Speaking",
-    "category": "Sales Engineering",
-    "location": "Berlin, Germany",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.formlabs.com/job/8130001/apply/?gh_jid=8130001",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "2f677adfdf81bcb5",
-    "company": "GitLab",
-    "title": "Customer Success Architect, CEUR",
-    "category": "Sales Engineering",
-    "location": "Remote, Germany",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646852002",
-    "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
   },
@@ -957,110 +412,6 @@
       "1+ years"
     ],
     "url": "https://job-boards.greenhouse.io/gusto/jobs/8175108",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "445dd43c549d87b1",
-    "company": "Okta",
-    "title": "Account Executive Auth0",
-    "category": "Sales Engineering",
-    "location": "Madrid, Spain",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://www.okta.com/company/careers/opportunity/8079108?gh_jid=8079108",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "8e3a799fa204da76",
-    "company": "Okta",
-    "title": "Account Executive Large Enterprise Public Sector",
-    "category": "Sales Engineering",
-    "location": "London, United Kingdom",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://www.okta.com/company/careers/opportunity/8093704?gh_jid=8093704",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "cf98f68afbdc253a",
-    "company": "Okta",
-    "title": "Enterprise Account Executive - Auth0",
-    "category": "Sales Engineering",
-    "location": "London, United Kingdom",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://www.okta.com/company/careers/opportunity/8059294?gh_jid=8059294",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "d86e609ae023b020",
-    "company": "Okta",
-    "title": "Enterprise Account Executive, Okta - UKI",
-    "category": "Sales Engineering",
-    "location": "London, United Kingdom",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://www.okta.com/company/careers/opportunity/8018533?gh_jid=8018533",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "d8b3e7aeec30f750",
-    "company": "Okta",
-    "title": "Large Enterprise Account Executive Auth0",
-    "category": "Sales Engineering",
-    "location": "Germany",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://www.okta.com/company/careers/opportunity/8095974?gh_jid=8095974",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "8e1d9006ee6d6acb",
-    "company": "Pendo",
-    "title": "CONTRACTOR: Forward Deployed Engineer, Pendo Predict",
-    "category": "Sales Engineering",
-    "location": "Herzliya, Israel",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering",
-      "Forward Deployed Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://job-boards.greenhouse.io/pendo/jobs/8839291002",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -1161,23 +512,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "277d8fa635434957",
-    "company": "Samsara",
-    "title": "Enterprise Sales Engineer - Public Sector - East",
-    "category": "Sales Engineering",
-    "location": "Remote - US",
-    "remote": true,
-    "early_career": false,
-    "score": 13,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/8120538?gh_jid=8120538",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "a31a565fe2172ac6",
     "company": "Sigma Computing",
     "title": "Technical Support Engineer",
@@ -1212,160 +546,18 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "d1d84657a961ab97",
-    "company": "Sigma Computing",
-    "title": "Technical Support Engineer  - EMEA",
+    "id": "86e4013ce403aeb4",
+    "company": "Vercel",
+    "title": "Business Development Representative, Majors",
     "category": "Sales Engineering",
-    "location": "London, UK",
+    "location": "Hybrid - San Francisco, New York City, Austin",
     "remote": false,
     "early_career": false,
     "score": 11,
     "signals": [
       "Sales Engineering"
     ],
-    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767923003",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "a45c298c22a5b6fd",
-    "company": "Twist Bioscience",
-    "title": "NGS Sales Specialist - NY/NJ/PA",
-    "category": "Sales Engineering",
-    "location": "USA - Remote",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/twistbioscience/jobs/8054419",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "7daae29e8f2a73db",
-    "company": "Adyen",
-    "title": "GTM Engineer",
-    "category": "Solutions Engineering",
-    "location": "New York",
-    "remote": true,
-    "early_career": false,
-    "score": 13,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/adyen/jobs/7939712",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "691892a2067a900c",
-    "company": "Adyen",
-    "title": "Implementation Engineer",
-    "category": "Solutions Engineering",
-    "location": "New York",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering",
-      "Implementation Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://job-boards.greenhouse.io/adyen/jobs/7532705",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "9621d1e953a7caf1",
-    "company": "Adyen",
-    "title": "Technical Support Engineer",
-    "category": "Solutions Engineering",
-    "location": "Tokyo",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/adyen/jobs/8050022",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "daabb4047061915a",
-    "company": "Algolia",
-    "title": "Channel Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "London, England",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://job-boards.greenhouse.io/algolia/jobs/6008981004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "6b46e7a997fa4402",
-    "company": "Algolia",
-    "title": "Solutions Engineer - Italian Speaking",
-    "category": "Solutions Engineering",
-    "location": "Paris, France",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/algolia/jobs/6115415004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "add1b966e35e379a",
-    "company": "Asana",
-    "title": "Software Engineer",
-    "category": "Solutions Engineering",
-    "location": "San Francisco",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://www.asana.com/jobs/apply/8078102?gh_jid=8078102",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "2dfc26d9ad5dfd87",
-    "company": "Asana",
-    "title": "Software Engineer, Product",
-    "category": "Solutions Engineering",
-    "location": "Vancouver, BC",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://www.asana.com/jobs/apply/7961454?gh_jid=7961454",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5039945004",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -1388,75 +580,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "a4da9b205309ad7e",
-    "company": "Chainguard",
-    "title": "Partner Sales Engineer",
-    "category": "Solutions Engineering",
-    "location": "France - Remote; Germany - Remote",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4701683006",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "e0922dfc479dbada",
-    "company": "Cloudflare",
-    "title": "Account Executive, FedCiv",
-    "category": "Solutions Engineering",
-    "location": "Hybrid",
-    "remote": false,
-    "early_career": false,
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7695702?gh_jid=7695702",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "8542747842a5b988",
-    "company": "Cloudflare",
-    "title": "GRC Engineer",
-    "category": "Solutions Engineering",
-    "location": "Hybrid",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8045914?gh_jid=8045914",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "a3241c2421eb3b6f",
-    "company": "Cloudflare",
-    "title": "Software Engineer, Enterprise Integrations",
-    "category": "Solutions Engineering",
-    "location": "Hybrid",
-    "remote": false,
-    "early_career": false,
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8155495?gh_jid=8155495",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "a4a0daa542453dcc",
     "company": "Coinbase",
     "title": "Threat Intelligence Platform Engineer",
@@ -1469,42 +592,6 @@
       "Solutions Engineering"
     ],
     "url": "https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "42b2ec0177339875",
-    "company": "Cribl",
-    "title": "Partner Solutions Engineer, Southern Europe",
-    "category": "Solutions Engineering",
-    "location": "Remote - France",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://cribl.io/job-detail/?gh_jid=6140843004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "caae7f4e2c34ada9",
-    "company": "Cribl",
-    "title": "Sales Engineer, Italy",
-    "category": "Solutions Engineering",
-    "location": "Remote - Italy",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://cribl.io/job-detail/?gh_jid=6108265004",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -1523,24 +610,6 @@
       "Sales Engineering"
     ],
     "url": "https://cribl.io/job-detail/?gh_jid=5745375004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "fefa25967ca1cc7b",
-    "company": "Cribl",
-    "title": "Sales Engineer, UK",
-    "category": "Solutions Engineering",
-    "location": "Remote - United Kingdom",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://cribl.io/job-detail/?gh_jid=6185771004",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -1580,23 +649,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "3a18bd57608135a6",
-    "company": "Cribl",
-    "title": "Solutions Engineer, Japan",
-    "category": "Solutions Engineering",
-    "location": "Remote - Japan",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://cribl.io/job-detail/?gh_jid=6179246004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "8cb1172615686e4a",
     "company": "Cribl",
     "title": "Solutions Engineer, New York (Enterprise)",
@@ -1631,52 +683,21 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "bf7b0980477f4073",
-    "company": "Cribl",
-    "title": "Solutions Engineer, Singapore",
+    "id": "503c01c8936a73b2",
+    "company": "Databricks",
+    "title": "Solutions Architect - Communications, Media, Entertainment & Gaming",
     "category": "Solutions Engineering",
-    "location": "Remote - Singapore",
+    "location": "United States",
     "remote": true,
-    "early_career": false,
-    "score": 12,
+    "early_career": true,
+    "score": 16,
     "signals": [
-      "Solutions Engineering"
+      "Solutions Engineering",
+      "Sales Engineering",
+      "Technical Consulting",
+      "junior"
     ],
-    "url": "https://cribl.io/job-detail/?gh_jid=5746407004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "7f88051bb3b3f2d9",
-    "company": "Cribl",
-    "title": "Solutions Engineer, Sydney",
-    "category": "Solutions Engineering",
-    "location": "Remote - Australia",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://cribl.io/job-detail/?gh_jid=6185756004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "26146e755f1cdd08",
-    "company": "Datadog",
-    "title": "Field CTO (Japan)",
-    "category": "Solutions Engineering",
-    "location": "Tokyo, Japan",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/7703553/?gh_jid=7703553",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6117756002",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -1699,40 +720,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "5629e12381b79a3a",
-    "company": "Datadog",
-    "title": "Services Architect 3 - Denver",
-    "category": "Solutions Engineering",
-    "location": "Denver, Colorado, USA",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/7807783/?gh_jid=7807783",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "148c6e99107dde05",
-    "company": "Datadog",
-    "title": "Services Architect 3 - Paris/London",
-    "category": "Solutions Engineering",
-    "location": "London, United Kingdom; Paris, France",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8128182/?gh_jid=8128182",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "b07081068588b962",
     "company": "Datadog",
     "title": "Technical Support Engineer 2, Premier - NYC (Japanese Speaking)",
@@ -1745,57 +732,6 @@
       "Solutions Engineering"
     ],
     "url": "https://careers.datadoghq.com/detail/8109441/?gh_jid=8109441",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "91fd76eea18a5b73",
-    "company": "Datadog",
-    "title": "Technical Support Engineer 2, Premier - Sao Paulo",
-    "category": "Solutions Engineering",
-    "location": "Sao Paulo, Brazil",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8096181/?gh_jid=8096181",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "9bb6184c3b9f11eb",
-    "company": "Datadog",
-    "title": "Technical Support Engineer 3, Premier - Sao Paulo",
-    "category": "Solutions Engineering",
-    "location": "Sao Paulo, Brazil",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8097533/?gh_jid=8097533",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "4b102ef9a90254ec",
-    "company": "Dataiku",
-    "title": "Infrastructure Engineer",
-    "category": "Solutions Engineering",
-    "location": "France, Remote",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/dataiku/jobs/6148066004",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -1819,23 +755,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "fe245320c326fe18",
-    "company": "Flexport",
-    "title": "Software Engineer II",
-    "category": "Solutions Engineering",
-    "location": "Amsterdam, Netherlands",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/7977047",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "c66695cc4cd4d0eb",
     "company": "Formlabs",
     "title": "Digital Systems Engineer",
@@ -1853,74 +772,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "7b02a8877e007acd",
-    "company": "Formlabs",
-    "title": "Digital Systems Engineer",
-    "category": "Solutions Engineering",
-    "location": "Budapest, Hungary",
-    "remote": false,
-    "early_career": false,
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://careers.formlabs.com/job/7510762/apply/?gh_jid=7510762",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "0098baa6ecbccaf4",
-    "company": "Formlabs",
-    "title": "Ecommerce Engineer (Shopify)",
-    "category": "Solutions Engineering",
-    "location": "Budapest, Hungary",
-    "remote": false,
-    "early_career": false,
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://careers.formlabs.com/job/7597959/apply/?gh_jid=7597959",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "2c3fb3ef40fb1a6c",
-    "company": "Formlabs",
-    "title": "Shopify Architect",
-    "category": "Solutions Engineering",
-    "location": "Budapest, Hungary",
-    "remote": false,
-    "early_career": false,
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://careers.formlabs.com/job/7597958/apply/?gh_jid=7597958",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "0239fb79268df235",
-    "company": "GitLab",
-    "title": "Commercial Account Executive - Mid-Market, East",
-    "category": "Solutions Engineering",
-    "location": "Remote",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8790102002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "67998475d8a904c1",
     "company": "Intenseye",
     "title": "Pre -Sales Solutions Engineer (New York)",
@@ -1933,40 +784,6 @@
       "Solutions Engineering"
     ],
     "url": "https://jobs.lever.co/intenseye/24343ab2-9803-4804-a28f-7472f6148a17",
-    "source": "lever",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "d26da680f89db65d",
-    "company": "Iru",
-    "title": "Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "Miami",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://jobs.lever.co/iru/a082fbfc-b965-4a2c-b414-6171055e753d",
-    "source": "lever",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "d1f27cb3b3cd2e5a",
-    "company": "Iru",
-    "title": "Solutions Engineer, EMEA",
-    "category": "Solutions Engineering",
-    "location": "London",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://jobs.lever.co/iru/21ceaf05-f90d-4f97-916a-e1d4eb915c5e",
     "source": "lever",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -2024,60 +841,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "9788e6eb22b6ad66",
-    "company": "Okta",
-    "title": "Associate Solutions Engineer, Okta",
-    "category": "Solutions Engineering",
-    "location": "Bengaluru, India",
-    "remote": false,
-    "early_career": true,
-    "score": 14,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering",
-      "associate"
-    ],
-    "url": "https://www.okta.com/company/careers/opportunity/8155883?gh_jid=8155883",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "3ee15d2ce8213a20",
-    "company": "OneTrust",
-    "title": "Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "Atlanta, Georgia",
-    "remote": false,
-    "early_career": false,
-    "score": 11,
-    "signals": [
-      "Solutions Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8233207",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "31b2cc3eb897d92e",
-    "company": "Pendo",
-    "title": "Sr. AI Backend & Data Engineer",
-    "category": "Solutions Engineering",
-    "location": "Herzliya, Tel Aviv, Israel",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/pendo/jobs/8446575002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "9ffade23fe7fc7c3",
     "company": "Reddit",
     "title": "Front End Software Engineer, Consumer Engineering",
@@ -2112,23 +875,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "fb9520ec411ea625",
-    "company": "Robinhood",
-    "title": "Software Developer, Ops Platform and Fraud Investigations",
-    "category": "Solutions Engineering",
-    "location": "Toronto, Canada",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7737164?t=gh_src=&gh_jid=7737164",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "b89b35637df1a78e",
     "company": "Robinhood",
     "title": "Software Engineer, Backend",
@@ -2158,23 +904,6 @@
       "Solutions Engineering"
     ],
     "url": "https://boards.greenhouse.io/robinhood/jobs/8189005?t=gh_src=&gh_jid=8189005",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "0aa8e5cbf5f0279b",
-    "company": "Robinhood",
-    "title": "Software Engineer, Tokenization",
-    "category": "Solutions Engineering",
-    "location": "Toronto, Canada",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8189007?t=gh_src=&gh_jid=8189007",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -2294,23 +1023,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "935399b1e028895f",
-    "company": "Scale AI",
-    "title": "Frontier Agents Engineer",
-    "category": "Solutions Engineering",
-    "location": "London, UK",
-    "remote": false,
-    "early_career": false,
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4536659005",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "9a64ff680a5c9245",
     "company": "Sigma Computing",
     "title": "Commercial Solution Engineer",
@@ -2364,25 +1076,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "eddee6d3ff019044",
-    "company": "Tanium",
-    "title": "Business Analyst - Salesforce",
-    "category": "Solutions Engineering",
-    "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
-    "remote": false,
-    "early_career": false,
-    "score": 11,
-    "signals": [
-      "Solutions Engineering",
-      "Implementation Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://job-boards.greenhouse.io/tanium/jobs/8126765",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "b57b06ba56a047e7",
     "company": "Toast",
     "title": "Retail Solutions Engineer",
@@ -2395,77 +1088,6 @@
       "Solutions Engineering"
     ],
     "url": "https://careers.toasttab.com/jobs?gh_jid=8211318",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "9f4ef64f6f804743",
-    "company": "Toast",
-    "title": "Sales Engineer",
-    "category": "Solutions Engineering",
-    "location": "London, UK",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8210977",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "47663b34d0191768",
-    "company": "Toast",
-    "title": "Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "Toronto, Ontario",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8215834",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "4871146ea41795fe",
-    "company": "Toast",
-    "title": "Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "London, UK",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8162094",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "6486daa120391e19",
-    "company": "Together AI",
-    "title": "Solutions Architect",
-    "category": "Solutions Engineering",
-    "location": "San Francisco",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/4627491007",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -2484,75 +1106,6 @@
       "1+ years"
     ],
     "url": "https://job-boards.greenhouse.io/twilio/jobs/8122899",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "55c8ce2bb98856fe",
-    "company": "Twilio",
-    "title": "Strategic Account Executive",
-    "category": "Solutions Engineering",
-    "location": "Remote - United Kingdom",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7785025",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "8a3078679fdc58e3",
-    "company": "Twilio",
-    "title": "Strategic Account Executive",
-    "category": "Solutions Engineering",
-    "location": "Remote - United Kingdom",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8160532",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "0ed696ab437d7add",
-    "company": "Twilio",
-    "title": "Strategic Account Executive (German Speaking)",
-    "category": "Solutions Engineering",
-    "location": "Remote - Spain",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7865849",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "680c4d99f7e52845",
-    "company": "Twist Bioscience",
-    "title": "Field Application Scientist, SynBio and NGS Panel Design - CHINA",
-    "category": "Solutions Engineering",
-    "location": "APAC - Remote",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/twistbioscience/jobs/7461855",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -2621,40 +1174,6 @@
       "Solutions Engineering"
     ],
     "url": "https://www.zipline.com/open-roles/7990632003?gh_jid=7990632003",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "ef2d54eb70638433",
-    "company": "Elastic",
-    "title": "Snr Solutions Architect",
-    "category": "Technical Consulting",
-    "location": "Dubai, United Arab Emirates",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8067195&gh_jid=8067195",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "5a5c6e34a4614e6a",
-    "company": "Elastic",
-    "title": "Solutions Architect - Search Specialist",
-    "category": "Technical Consulting",
-    "location": "United Kingdom",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8153272&gh_jid=8153272",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
