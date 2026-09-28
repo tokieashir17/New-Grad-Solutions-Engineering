@@ -1,23 +1,5 @@
 [
   {
-    "id": "309a6aeeb62c454a",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "Chicago, Illinois, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": "Not stated",
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "203152b05ead11b5",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -31,6 +13,24 @@
       "Forward Deployed Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
+    "source": "greenhouse",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28"
+  },
+  {
+    "id": "309a6aeeb62c454a",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "Chicago, Illinois, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": "Not stated",
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -581,24 +581,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "a31a565fe2172ac6",
-    "company": "Sigma Computing",
-    "title": "Technical Support Engineer",
-    "category": "Sales Engineering",
-    "location": "San Francisco, CA",
-    "remote": false,
-    "early_career": false,
-    "experience": "2+ yrs",
-    "score": 11,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767925003",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "ade9c07174dd8bc9",
     "company": "Sigma Computing",
     "title": "Technical Support Engineer",
@@ -612,6 +594,24 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767924003",
+    "source": "greenhouse",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28"
+  },
+  {
+    "id": "a31a565fe2172ac6",
+    "company": "Sigma Computing",
+    "title": "Technical Support Engineer",
+    "category": "Sales Engineering",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "early_career": false,
+    "experience": "2+ yrs",
+    "score": 11,
+    "signals": [
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767925003",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -1163,11 +1163,11 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "7463fda0c15bf452",
+    "id": "e7a42fdf55c134ef",
     "company": "Brex",
     "title": "Technical Consultant I",
     "category": "Technical Consulting",
-    "location": "Salt Lake City, Utah, United States",
+    "location": "New York, New York, United States",
     "remote": true,
     "early_career": false,
     "experience": "2+ yrs",
@@ -1175,7 +1175,7 @@
     "signals": [
       "Technical Consulting"
     ],
-    "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
+    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -1199,24 +1199,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "e7a42fdf55c134ef",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "New York, New York, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": "2+ yrs",
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "19c15c5042274b7e",
     "company": "Brex",
     "title": "Technical Consultant I",
@@ -1230,6 +1212,24 @@
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002",
+    "source": "greenhouse",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28"
+  },
+  {
+    "id": "7463fda0c15bf452",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "Salt Lake City, Utah, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": "2+ yrs",
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"

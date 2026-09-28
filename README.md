@@ -43,10 +43,10 @@
 | Abnormal Security | MidMarket Sales Engineer - Ohio Valley | Remote - USA | Sales Engineering | Not stated | [Apply](https://abnormal.ai/careers/jobs/7894691003?gh_jid=7894691003) |
 | Block | Software Engineer, Finance Applications | Bay Area, CA, United States of America | Solutions Engineering | Not stated | [Apply](http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008) |
 | Brex | Enterprise Implementation Consultant | Salt Lake City, Utah, United States | Implementation Engineering | Not stated | [Apply](https://www.brex.com/careers/8152968002?gh_jid=8152968002) |
-| Brex | Technical Consultant I | Salt Lake City, Utah, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579215002?gh_jid=8579215002) |
-| Brex | Technical Consultant I | Seattle, Washington, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579204002?gh_jid=8579204002) |
 | Brex | Technical Consultant I | New York, New York, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579199002?gh_jid=8579199002) |
+| Brex | Technical Consultant I | Seattle, Washington, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579204002?gh_jid=8579204002) |
 | Brex | Technical Consultant I | San Francisco, California, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
+| Brex | Technical Consultant I | Salt Lake City, Utah, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579215002?gh_jid=8579215002) |
 | Cribl | Sales Engineer, San Francisco (Enterprise) | Remote - San Francisco, California | Solutions Engineering | Not stated | [Apply](https://cribl.io/job-detail/?gh_jid=5745375004) |
 | GitLab | Customer Success Architect | Remote, United States | Sales Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8742716002) |
 | GitLab | Field CTO, Public Sector | Remote, United States | Sales Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8792585002) |
@@ -64,8 +64,8 @@
 | Formlabs | Digital Systems Engineer | Somerville, MA | Solutions Engineering | 4+ yrs | [Apply](https://careers.formlabs.com/job/7506561/apply/?gh_jid=7506561) |
 | MongoDB | Salesforce Engineer III, FedRAMP | United States | Solutions Engineering | 6+ yrs | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7948530) |
 | Okta | Solutions Engineer, Okta (Enterprise) | San Francisco, California | Solutions Engineering | 5+ yrs | [Apply](https://www.okta.com/company/careers/opportunity/8051063?gh_jid=8051063) |
-| Sigma Computing | Technical Support Engineer | San Francisco, CA | Sales Engineering | 2+ yrs | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767925003) |
 | Sigma Computing | Technical Support Engineer | New York City, NY | Sales Engineering | 2+ yrs | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767924003) |
+| Sigma Computing | Technical Support Engineer | San Francisco, CA | Sales Engineering | 2+ yrs | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767925003) |
 | Zipline | Data Analytics Intern (Spring 2027) | South San Francisco, California, USA | Solutions Engineering | Not stated | [Apply](https://www.zipline.com/open-roles/7990420003?gh_jid=7990420003) |
 | Zipline | Data Analytics Intern (Summer 2027) | South San Francisco, California, USA | Solutions Engineering | Not stated | [Apply](https://www.zipline.com/open-roles/7990632003?gh_jid=7990632003) |
 
@@ -75,8 +75,8 @@
 |---|---|---|---|---|---|
 | GitLab | Forward Deployed Engineer, AI and Agentic SDLC | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8517171002) |
 | Toast | GTM Engineer - Sales Workflow Automation, Revenue Intelligence | Remote, US | Not stated | Review | [Apply](https://careers.toasttab.com/jobs?gh_jid=7947082) |
-| Flexport | Rotational Development Program | Chicago, Illinois, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8172300) |
 | Flexport | Rotational Development Program | New York City, New York, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8224715) |
+| Flexport | Rotational Development Program | Chicago, Illinois, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8172300) |
 | Zipline | Forward Deployed AI Engineer, Operations | South San Francisco, California, USA | Not stated | Review | [Apply](https://www.zipline.com/open-roles/7764239003?gh_jid=7764239003) |
 
 ## GTM Engineering
@@ -111,8 +111,8 @@
 | GitLab | Field CTO, Public Sector | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8792585002) |
 | Mixpanel | Delivery Engineer III (GTM) | Remote, US | Not stated | Review | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/8142644) |
 | Elastic | Customer Architect | United States | Not stated | Review | [Apply](https://jobs.elastic.co/jobs?gh_jid=8161887&gh_jid=8161887) |
-| Sigma Computing | Technical Support Engineer | San Francisco, CA | 2+ yrs | Review | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767925003) |
 | Sigma Computing | Technical Support Engineer | New York City, NY | 2+ yrs | Review | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767924003) |
+| Sigma Computing | Technical Support Engineer | San Francisco, CA | 2+ yrs | Review | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767925003) |
 | Braze | Applied AI Architect, GTM | New York City | 6+ yrs | Review | [Apply](https://job-boards.greenhouse.io/braze/jobs/8024690) |
 | Databricks | Program Analyst, Legal Ops | Bellevue, Washington; Denver, Colorado; Seattle, Washington; Washington, D.C. | Not stated | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199399002) |
 | Datadog | Commercial Sales Engineer (AMER - West) | Denver, Colorado, USA | Not stated | Review | [Apply](https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226) |
@@ -160,10 +160,10 @@
 
 | Company | Role | Location | Experience | Early Career | Apply |
 |---|---|---|---|---|---|
-| Brex | Technical Consultant I | Salt Lake City, Utah, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579215002?gh_jid=8579215002) |
-| Brex | Technical Consultant I | Seattle, Washington, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579204002?gh_jid=8579204002) |
 | Brex | Technical Consultant I | New York, New York, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579199002?gh_jid=8579199002) |
+| Brex | Technical Consultant I | Seattle, Washington, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579204002?gh_jid=8579204002) |
 | Brex | Technical Consultant I | San Francisco, California, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
+| Brex | Technical Consultant I | Salt Lake City, Utah, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579215002?gh_jid=8579215002) |
 
 ---
 
