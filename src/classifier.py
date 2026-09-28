@@ -17,6 +17,7 @@ ROLE_RULES = {
         r"\bforward deployed engineer\b",
         r"\bfield engineer\b",
         r"\bcustomer engineer\b",
+        r"\bdeployment strategist\b",
     ],
     "Implementation Engineering": [
         r"\bimplementation engineer\b",
@@ -28,7 +29,32 @@ ROLE_RULES = {
         r"\btechnical consulting\b",
         r"\bsolutions architect\b",
     ],
+    "GTM Engineering": [
+        r"\bgtm engineers?\b",
+        r"\bgo[- ]to[- ]market engineers?\b",
+        r"\btechnical gtm\b",
+    ],
 }
+
+# True: a role keyword anywhere in the posting counts (original behavior).
+# False: only the title counts. False is stricter and avoids matching postings that
+# merely say "you will work with solutions engineers" in the body.
+MATCH_ROLE_IN_DESCRIPTION = True
+
+# Non-technical GTM and sales titles. Checked against the title only.
+EXCLUDE_TITLE_RULES = [
+    r"\bsdr\b",
+    r"\bbdr\b",
+    r"\bsales development\b",
+    r"\bbusiness development\b",
+    r"\baccount executive\b",
+    r"\brevenue operations\b",
+    r"\brevops\b",
+    r"\bsales operations\b",
+    r"\bmarketing\b",
+    r"\bdemand gen",
+    r"\brecruit",
+]
 
 EARLY_RULES = [
     ("new grad", r"\bnew[- ]grad(?:uate)?\b"),
@@ -42,15 +68,21 @@ EARLY_RULES = [
     ("1+ years", r"\b1\+?\s+years?\b"),
 ]
 
+# Applied to the TITLE only. Descriptions say things like "work with senior
+# engineers" or "report to the hiring manager" on entry-level postings too.
 SENIOR_RULES = [
+    r"(?<!\w)sr\.?(?!\w)",
     r"\bsenior\b",
     r"\bstaff\b",
     r"\bprincipal\b",
-    r"\blead\b",
+    r"\blead\b(?!\s*gen)",
     r"\bmanager\b",
+    r"\bmgr\b",
     r"\bdirector\b",
+    r"\bhead of\b",
     r"\bvice president\b",
     r"\bvp\b",
+    r"\bdistinguished\b",
 ]
 
 REMOTE_RULES = [
@@ -79,19 +111,22 @@ def _matches(text: str, rules: list[str]) -> list[str]:
 
 def classify(title: str, description: str, location: str) -> dict:
     text = f"{title}\n{description}".lower()
+    role_text = text if MATCH_ROLE_IN_DESCRIPTION else title.lower()
 
     categories = []
     for category, rules in ROLE_RULES.items():
-        if _matches(text, rules):
+        if _matches(role_text, rules):
             categories.append(category)
 
-    senior_hits = _matches(text, SENIOR_RULES)
     early_hits = []
     for label, rule in EARLY_RULES:
         if re.search(rule, text, re.I):
             early_hits.append(label)
 
     remote = bool(_matches(text, REMOTE_RULES)) or "remote" in location.lower()
+
+    title_senior = bool(_matches(title.lower(), SENIOR_RULES))
+    title_excluded = bool(_matches(title.lower(), EXCLUDE_TITLE_RULES))
 
     score = 0
     if categories:
@@ -101,14 +136,11 @@ def classify(title: str, description: str, location: str) -> dict:
         score += 2
     if re.search(r"\bbachelor'?s\b|\bcomputer science\b|\bengineering degree\b", text, re.I):
         score += 1
-    if senior_hits:
+    if title_senior:
         score -= 20
 
-    # Strong title-level exclusion.
-    title_senior = bool(_matches(title.lower(), SENIOR_RULES))
-
-    early_career = bool(early_hits) and not title_senior and not senior_hits
-    relevant = bool(categories) and not title_senior and not senior_hits
+    early_career = bool(early_hits) and not title_senior
+    relevant = bool(categories) and not title_senior and not title_excluded
 
     if not relevant:
         return {
