@@ -1,3 +1,5 @@
+import html
+import re
 from datetime import datetime, timezone
 import requests
 
@@ -21,6 +23,66 @@ def _post_json(url: str, payload: dict) -> dict | list:
 
 def _join(*parts: str | None, sep: str = ", ") -> str:
     return sep.join(p for p in parts if p)
+
+
+# ---------------------------------------------------------------------------
+# Senior role filter
+# ---------------------------------------------------------------------------
+
+SALARY_CAP = 130_000  # drop a posting if its LOWEST listed salary is above this
+
+_TAG_RE = re.compile(r"<[^>]+>")
+
+_SENIOR_TITLE_RE = re.compile(
+    r"(?<!\w)(?:sr\.?|senior|staff|principal|lead(?!\s*gen)|manager|mgr|"
+    r"director|head of|vp|vice president|distinguished)(?!\w)",
+    re.I,
+)
+
+# $150,000 or $150k or $150.5K (not $150 kids, $10M, $2B)
+_SALARY_RE = re.compile(
+    r"\$\s?(?:(\d{1,3}(?:,\d{3})+)|(\d{2,3}(?:\.\d+)?)\s?[kK]\b)(?![\d,])"
+)
+
+# Only trust a dollar figure if pay-related words are nearby
+_PAY_CONTEXT_RE = re.compile(
+    r"\b(?:salary|compensation|pay|base|range|annual|annually|per year|yearly|ote|target)\b",
+    re.I,
+)
+
+
+def _clean_text(text: str) -> str:
+    # Greenhouse returns HTML-escaped HTML: unescape, strip tags, unescape again
+    text = html.unescape(text or "")
+    text = _TAG_RE.sub(" ", text)
+    return html.unescape(text)
+
+
+def _salary_figures(text: str) -> list[float]:
+    figures = []
+    for m in _SALARY_RE.finditer(text):
+        window = text[max(0, m.start() - 150): m.end() + 150]
+        if not _PAY_CONTEXT_RE.search(window):
+            continue
+        value = int(m.group(1).replace(",", "")) if m.group(1) else float(m.group(2)) * 1000
+        if 20_000 <= value <= 600_000:  # ignore bonuses, revenue, funding, etc.
+            figures.append(value)
+    return figures
+
+
+def is_senior(job: dict) -> bool:
+    """True if the title signals a senior role or the posted salary is above SALARY_CAP."""
+    if _SENIOR_TITLE_RE.search(job.get("title", "")):
+        return True
+
+    figures = _salary_figures(_clean_text(job.get("description", "")))
+    return bool(figures) and min(figures) > SALARY_CAP
+
+
+def _ashby_comp(job: dict) -> str:
+    comp = job.get("compensation") or {}
+    summary = comp.get("compensationTierSummary") or comp.get("scrapeableCompensationSalarySummary") or ""
+    return f"Compensation: {summary}" if summary else ""
 
 
 def greenhouse(company: str, slug: str) -> list[dict]:
@@ -52,12 +114,29 @@ def lever(company: str, slug: str, host: str = "api.lever.co", source: str = "le
         locations = categories.get("allLocations") or []
         location = categories.get("location") or ", ".join(locations)
 
+        description = job.get("descriptionPlain", "") or ""
+
+        salary_note = job.get("salaryDescriptionPlain") or ""
+        salary = job.get("salaryRange") or {}
+        if (
+            salary.get("min")
+            and salary.get("max")
+            and "year" in (salary.get("interval") or "")
+            and (salary.get("currency") or "USD") == "USD"
+        ):
+            salary_note = _join(
+                salary_note,
+                f"Salary range: ${int(salary['min']):,} - ${int(salary['max']):,} per year",
+                sep="\n",
+            )
+        description = _join(description, salary_note, sep="\n\n")
+
         jobs.append({
             "source_id": str(job["id"]),
             "company": company,
             "title": job.get("text", ""),
             "location": location,
-            "description": job.get("descriptionPlain", "") or "",
+            "description": description,
             "url": job.get("hostedUrl", ""),
             "source": source,
         })
@@ -89,7 +168,11 @@ def ashby(company: str, slug: str) -> list[dict]:
             "company": company,
             "title": job.get("title", ""),
             "location": location,
-            "description": job.get("descriptionPlain") or job.get("descriptionHtml") or "",
+            "description": _join(
+                job.get("descriptionPlain") or job.get("descriptionHtml") or "",
+                _ashby_comp(job),
+                sep="\n\n",
+            ),
             "url": job.get("jobUrl", ""),
             "source": "ashby",
         })
@@ -250,12 +333,15 @@ def collect_company(company: dict) -> list[dict]:
         raise ValueError(f"Unsupported ATS: {ats}")
 
     if ats in DETAIL_ATS:
-        return collector(
+        jobs = collector(
             company["name"],
             company["slug"],
             fetch_details=company.get("fetch_details", False),
         )
-    return collector(company["name"], company["slug"])
+    else:
+        jobs = collector(company["name"], company["slug"])
+
+    return [job for job in jobs if not is_senior(job)]
 
 
 def utc_today() -> str:
