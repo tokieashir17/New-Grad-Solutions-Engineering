@@ -104,7 +104,7 @@ def generate_readme(jobs: list[dict], path: Path) -> None:
                 f"| {_cell(job['company'])} | {_cell(job['title'])} "
                 f"| {_cell(job['location']) or 'Not specified'} "
                 f"| {_cell(job['category'])} | {extract_years(job)} "
-                f"| [Apply]({job['url']}) |"
+                f"| <a href="{job["url"]}" target="_blank" rel="noopener noreferrer">Apply</a>  |"
             )
     else:
         lines.append("_No jobs have been added in the last 7 days._")
@@ -123,7 +123,8 @@ def generate_readme(jobs: list[dict], path: Path) -> None:
                 lines.append(
                     f"| {_cell(job['company'])} | {_cell(job['title'])} "
                     f"| {_cell(job['location']) or 'Not specified'} "
-                    f"| {extract_years(job)} | {early} | [Apply]({job['url']}) |"
+                    f"| {extract_years(job)} | {early} "
+                    f'| <a href="{job["url"]}" target="_blank" rel="noopener noreferrer">Apply</a> |'
                 )
     else:
         lines += [
