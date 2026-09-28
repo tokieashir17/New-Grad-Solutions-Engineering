@@ -44,11 +44,6 @@
 | Brex | Software Engineer, Forward Deployed Agent Builder | New York, New York, United States | Forward Deployed Engineering | Not stated | [Apply](https://www.brex.com/careers/8523177002?gh_jid=8523177002) |
 | Coinbase | Forward Deployed Engineer, Compliance [Office of the CTO] | Remote - USA | Forward Deployed Engineering | Not stated | [Apply](https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099) |
 | Coinbase | Threat Intelligence Platform Engineer | Remote - USA | Solutions Engineering | Not stated | [Apply](https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619) |
-| Cribl | Sales Engineer, San Francisco (Enterprise) | Remote - San Francisco, California | Solutions Engineering | Not stated | [Apply](https://cribl.io/job-detail/?gh_jid=5745375004) |
-| Cribl | Solutions Engineer, Chicago (Enterprise) | Remote - Chicago, Illinois | Solutions Engineering | Not stated | [Apply](https://cribl.io/job-detail/?gh_jid=6190446004) |
-| Cribl | Solutions Engineer, Florida (Enterprise) | Remote - United States | Solutions Engineering | Not stated | [Apply](https://cribl.io/job-detail/?gh_jid=6199340004) |
-| Cribl | Solutions Engineer, New York (Enterprise) | Remote - United States | Solutions Engineering | Not stated | [Apply](https://cribl.io/job-detail/?gh_jid=6196253004) |
-| Cribl | Solutions Engineer, Ohio (Enterprise) | Remote - Cincinnati, Ohio | Solutions Engineering | Not stated | [Apply](https://cribl.io/job-detail/?gh_jid=6203143004) |
 | GitLab | Field CTO, Public Sector | Remote, United States | Sales Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8792585002) |
 | LaunchDarkly | Strategic Account Executive - East | Remote - US | Solutions Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7894901003) |
 | New Relic | Account Executive - Enterprise Sales (Greenfield) | Los Angeles, California, USA; San Diego, California, USA | Solutions Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5434516008) |
