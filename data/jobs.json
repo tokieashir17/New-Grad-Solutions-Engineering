@@ -1,127 +1,5 @@
 [
   {
-    "id": "f8ac887544bf2f69",
-    "company": "Brex",
-    "title": "Software Engineer, Forward Deployed Agent Builder",
-    "category": "Forward Deployed Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8523203002?gh_jid=8523203002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "c1cf7b8b4ccd8a57",
-    "company": "Brex",
-    "title": "Software Engineer, Forward Deployed Agent Builder",
-    "category": "Forward Deployed Engineering",
-    "location": "New York, New York, United States",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8523177002?gh_jid=8523177002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "2f26b2a139711019",
-    "company": "Coinbase",
-    "title": "Forward Deployed Engineer, Compliance [Office of the CTO]",
-    "category": "Forward Deployed Engineering",
-    "location": "Remote - USA",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "7c1c82ba4097bc48",
-    "company": "Databricks",
-    "title": "AI Engineer – Forward Deployed Engineering (AI FDE)",
-    "category": "Forward Deployed Engineering",
-    "location": "United States",
-    "remote": true,
-    "early_career": true,
-    "score": 21,
-    "signals": [
-      "Forward Deployed Engineering",
-      "new grad",
-      "entry level"
-    ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "4364cc84349c5813",
-    "company": "Databricks",
-    "title": "AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)",
-    "category": "Forward Deployed Engineering",
-    "location": "Maryland; Virginia; Washington, D.C.",
-    "remote": true,
-    "early_career": false,
-    "score": 13,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "5f53d8e2616719fb",
-    "company": "Flexport",
-    "title": "Forward Deployed Engineer - Supply Chain Solutions",
-    "category": "Forward Deployed Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": false,
-    "early_career": false,
-    "score": 11,
-    "signals": [
-      "Forward Deployed Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8110413",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "a8401bdfc83c65a0",
-    "company": "Intenseye",
-    "title": "Forward Deployed Engineer",
-    "category": "Forward Deployed Engineering",
-    "location": "New York, New York",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://jobs.lever.co/intenseye/1f675582-34cc-469d-9e08-0ff733d3064b",
-    "source": "lever",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "3ea0ba910f0573d6",
     "company": "Zipline",
     "title": "Forward Deployed AI Engineer, Operations",
@@ -139,74 +17,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "02aafc0354b31c3c",
-    "company": "Brex",
-    "title": "Enterprise Account Executive II",
-    "category": "Sales Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://www.brex.com/careers/7732107002?gh_jid=7732107002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "2505d45a1a1f38bb",
-    "company": "Brex",
-    "title": "Enterprise Account Executive II",
-    "category": "Sales Engineering",
-    "location": "Salt Lake City, Utah, United States",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8326211002?gh_jid=8326211002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "0602faaa822a37e3",
-    "company": "Brex",
-    "title": "Enterprise Account Executive II",
-    "category": "Sales Engineering",
-    "location": "New York, New York, United States",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://www.brex.com/careers/7732133002?gh_jid=7732133002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "a831ebd5e8e62c84",
-    "company": "Brex",
-    "title": "Enterprise Account Executive II",
-    "category": "Sales Engineering",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8659812002?gh_jid=8659812002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "7c2d0424f5d0e70a",
     "company": "Databricks",
     "title": "Business Development Representative",
@@ -219,42 +29,6 @@
       "Sales Engineering"
     ],
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423165002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "4151653f84931d5a",
-    "company": "Databricks",
-    "title": "Solutions Architect Opportunities - Lakebase (Solutions Architect, Sr. Solutions Architect)",
-    "category": "Sales Engineering",
-    "location": "Northeast - United States",
-    "remote": false,
-    "early_career": false,
-    "score": 11,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407197002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "07f97a6a8db92042",
-    "company": "Databricks",
-    "title": "Sr. Solutions Architect, Customer Lake",
-    "category": "Sales Engineering",
-    "location": "United States",
-    "remote": false,
-    "early_career": false,
-    "score": 11,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8762360002",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -342,23 +116,6 @@
     ],
     "url": "https://careers.datadoghq.com/detail/8185903/?gh_jid=8185903",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "9cfa21139c66ba60",
-    "company": "Finch",
-    "title": "Account Executive",
-    "category": "Sales Engineering",
-    "location": "San Francisco, New York City",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://jobs.lever.co/finch/e5a29b88-c0dd-45d3-8f90-6321197a4420",
-    "source": "lever",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
   },
@@ -563,40 +320,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "ab00ac0827332aa6",
-    "company": "Avante",
-    "title": "Founding Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "Seattle or New York",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://jobs.lever.co/avante/0f82bcf5-4370-469d-8fc0-56fbd5c5604e",
-    "source": "lever",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "a4a0daa542453dcc",
-    "company": "Coinbase",
-    "title": "Threat Intelligence Platform Engineer",
-    "category": "Solutions Engineering",
-    "location": "Remote - USA",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "672c326d386e3422",
     "company": "Cribl",
     "title": "Sales Engineer, San Francisco (Enterprise)",
@@ -610,94 +333,6 @@
       "Sales Engineering"
     ],
     "url": "https://cribl.io/job-detail/?gh_jid=5745375004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "67373d820d26e870",
-    "company": "Cribl",
-    "title": "Solutions Engineer, Chicago (Enterprise)",
-    "category": "Solutions Engineering",
-    "location": "Remote - Chicago, Illinois",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://cribl.io/job-detail/?gh_jid=6190446004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "2c52d00c05acad66",
-    "company": "Cribl",
-    "title": "Solutions Engineer, Florida (Enterprise)",
-    "category": "Solutions Engineering",
-    "location": "Remote - United States",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://cribl.io/job-detail/?gh_jid=6199340004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "8cb1172615686e4a",
-    "company": "Cribl",
-    "title": "Solutions Engineer, New York (Enterprise)",
-    "category": "Solutions Engineering",
-    "location": "Remote - United States",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://cribl.io/job-detail/?gh_jid=6196253004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "6503bdd9f90ab0c4",
-    "company": "Cribl",
-    "title": "Solutions Engineer, Ohio (Enterprise)",
-    "category": "Solutions Engineering",
-    "location": "Remote - Cincinnati, Ohio",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://cribl.io/job-detail/?gh_jid=6203143004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "503c01c8936a73b2",
-    "company": "Databricks",
-    "title": "Solutions Architect - Communications, Media, Entertainment & Gaming",
-    "category": "Solutions Engineering",
-    "location": "United States",
-    "remote": true,
-    "early_career": true,
-    "score": 16,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering",
-      "Technical Consulting",
-      "junior"
-    ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6117756002",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -737,24 +372,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "id": "cabe668fe17b7495",
-    "company": "Finch",
-    "title": "Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "San Francisco, New York City",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://jobs.lever.co/finch/d7f9be31-6420-4b25-b565-db103be26afc",
-    "source": "lever",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "id": "c66695cc4cd4d0eb",
     "company": "Formlabs",
     "title": "Digital Systems Engineer",
@@ -767,57 +384,6 @@
       "Solutions Engineering"
     ],
     "url": "https://careers.formlabs.com/job/7506561/apply/?gh_jid=7506561",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "67998475d8a904c1",
-    "company": "Intenseye",
-    "title": "Pre -Sales Solutions Engineer (New York)",
-    "category": "Solutions Engineering",
-    "location": "New York, New York",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://jobs.lever.co/intenseye/24343ab2-9803-4804-a28f-7472f6148a17",
-    "source": "lever",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "a66dae3b464942dc",
-    "company": "LaunchDarkly",
-    "title": "Strategic Account Executive - East",
-    "category": "Solutions Engineering",
-    "location": "Remote - US",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7894901003",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "5a22f35a4d027e4f",
-    "company": "New Relic",
-    "title": "Account Executive - Enterprise Sales (Greenfield)",
-    "category": "Solutions Engineering",
-    "location": "Los Angeles, California, USA; San Diego, California, USA",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/newrelic/jobs/5434516008",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
@@ -836,74 +402,6 @@
       "1+ years"
     ],
     "url": "https://job-boards.greenhouse.io/newrelic/jobs/5287663008",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "9ffade23fe7fc7c3",
-    "company": "Reddit",
-    "title": "Front End Software Engineer, Consumer Engineering",
-    "category": "Solutions Engineering",
-    "location": "Remote - United States",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8147559",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "c98cd3ab5898d90f",
-    "company": "Reddit",
-    "title": "Software Engineer, Consumer Engineering",
-    "category": "Solutions Engineering",
-    "location": "Remote - United States",
-    "remote": true,
-    "early_career": false,
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8172457",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "b89b35637df1a78e",
-    "company": "Robinhood",
-    "title": "Software Engineer, Backend",
-    "category": "Solutions Engineering",
-    "location": "Menlo Park, CA; New York, NY",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "00e4826f7ccabf3d",
-    "company": "Robinhood",
-    "title": "Software Engineer, Tokenization",
-    "category": "Solutions Engineering",
-    "location": "Menlo Park, CA; New York, NY",
-    "remote": false,
-    "early_career": false,
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8189005?t=gh_src=&gh_jid=8189005",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
