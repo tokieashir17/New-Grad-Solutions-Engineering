@@ -7,7 +7,7 @@ from html import unescape
 
 from src.collectors import collect_company
 from src.classifier import classify
-from src.readme import generate_readme
+from src.readme import extract_years, generate_readme
 from src.storage import load_jobs, save_jobs, stable_id
 
 ROOT = Path(__file__).parent
@@ -117,6 +117,7 @@ def main() -> None:
                 "location": raw["location"].strip(),
                 "remote": result["remote"],
                 "early_career": result["early_career"],
+                "experience": extract_years(raw),
                 "score": result["score"],
                 "signals": result["signals"],
                 "url": raw["url"],
