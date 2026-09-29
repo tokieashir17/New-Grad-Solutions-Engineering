@@ -448,5 +448,25 @@
     "name": "WorkOS",
     "ats": "ashby",
     "slug": "Workos"
+  },
+  {
+    "name": "Vizcom",
+    "ats": "ashby",
+    "slug": "vizcom"
+  },
+  {
+    "name": "Daydream",
+    "ats": "ashby",
+    "slug": "daydream"
+  },
+  {
+    "name": "Archive",
+    "ats": "ashby",
+    "slug": "Archive"
+  },
+  {
+    "name": "Phia",
+    "ats": "ashby",
+    "slug": "phia"
   }
 ]
