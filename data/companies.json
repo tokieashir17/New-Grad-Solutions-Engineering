@@ -398,5 +398,55 @@
     "name": "Prefect",
     "ats": "ashby",
     "slug": "Prefect"
+  },
+  {
+    "name": "ServiceNow",
+    "ats": "smartrecruiters",
+    "slug": "Servicenow"
+  },
+  {
+    "name": "UiPath",
+    "ats": "ashby",
+    "slug": "Uipath"
+  },
+  {
+    "name": "Neon",
+    "ats": "ashby",
+    "slug": "Neon"
+  },
+  {
+    "name": "Freshworks",
+    "ats": "smartrecruiters",
+    "slug": "Freshworks"
+  },
+  {
+    "name": "Help Scout",
+    "ats": "ashby",
+    "slug": "HelpScout"
+  },
+  {
+    "name": "Kustomer",
+    "ats": "ashby",
+    "slug": "Kustomer"
+  },
+  {
+    "name": "PostHog",
+    "ats": "ashby",
+    "slug": "Posthog"
+  },
+  {
+    "name": "Gainsight",
+    "ats": "ashby",
+    "slug": "Gainsight"
+  },
+  {
+    "name": "Planhat",
+    "ats": "ashby",
+    "slug": "Planhat"
+  },
+  {
+    "name": "WorkOS",
+    "ats": "ashby",
+    "slug": "Workos"
   }
 ]
