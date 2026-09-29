@@ -69,6 +69,76 @@
     "last_seen": "2026-09-29"
   },
   {
+    "id": "9ddd75f6811a1036",
+    "company": "Planhat",
+    "title": "Customer Success Associate | New York",
+    "category": "Forward Deployed Engineering",
+    "location": "New York",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 14,
+    "signals": [
+      "Forward Deployed Engineering",
+      "associate"
+    ],
+    "url": "https://jobs.ashbyhq.com/Planhat/80cac439-9e0d-4dda-99b2-481330ce8d62",
+    "source": "ashby",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
+  },
+  {
+    "id": "cb192fe74d342bbb",
+    "company": "ServiceNow",
+    "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+    "category": "Forward Deployed Engineering",
+    "location": "Montreal, QUEBEC, CA",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Servicenow/744000149073920",
+    "source": "smartrecruiters",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
+  },
+  {
+    "id": "1e3e9e92ea98dee1",
+    "company": "ServiceNow",
+    "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+    "category": "Forward Deployed Engineering",
+    "location": "Santa Clara, California, US | Remote",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Servicenow/744000144639119",
+    "source": "smartrecruiters",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
+  },
+  {
     "id": "a243fa2c90140085",
     "company": "Toast",
     "title": "GTM Engineer - Sales Workflow Automation, Revenue Intelligence",
@@ -303,31 +373,6 @@
     "last_seen": "2026-09-29"
   },
   {
-    "id": "b19a5f4372405684",
-    "company": "Elastic",
-    "title": "Partner Solutions Architect - Public Sector",
-    "category": "Sales Engineering",
-    "location": "Washington, DC, United States",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 15,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting",
-      "1+ years"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
-    "source": "greenhouse",
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-09-29"
-  },
-  {
     "id": "8069d79decc63a1e",
     "company": "Elastic",
     "title": "Partner Solutions Architect - Public Sector",
@@ -348,6 +393,31 @@
       "1+ years"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
+    "source": "greenhouse",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
+  },
+  {
+    "id": "b19a5f4372405684",
+    "company": "Elastic",
+    "title": "Partner Solutions Architect - Public Sector",
+    "category": "Sales Engineering",
+    "location": "Washington, DC, United States",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 15,
+    "signals": [
+      "Sales Engineering",
+      "Technical Consulting",
+      "1+ years"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
     "source": "greenhouse",
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-29"
@@ -644,6 +714,75 @@
     "last_seen": "2026-09-29"
   },
   {
+    "id": "70db36feb9bfb492",
+    "company": "UiPath",
+    "title": "Sales Engineer",
+    "category": "Sales Engineering",
+    "location": "New York; Remote-Florida; Remote-North Carolina; Remote-New Jersey; Remote-Georgia; Remote-Texas",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Engineering"
+    ],
+    "url": "https://jobs.ashbyhq.com/Uipath/cdb6deba-6e5c-4b6d-a7a9-043a04015eed",
+    "source": "ashby",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
+  },
+  {
+    "id": "7b6ebbf413616757",
+    "company": "UiPath",
+    "title": "Sales Engineer, Healthcare - Provider",
+    "category": "Sales Engineering",
+    "location": "Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Georgia",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Engineering"
+    ],
+    "url": "https://jobs.ashbyhq.com/Uipath/75345dfc-f069-481f-8c74-15c8c7d9e9de",
+    "source": "ashby",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
+  },
+  {
+    "id": "d5885e215df771fb",
+    "company": "UiPath",
+    "title": "Sales Engineer, Retail and Manufacturing",
+    "category": "Sales Engineering",
+    "location": "Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-Georgia",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Engineering"
+    ],
+    "url": "https://jobs.ashbyhq.com/Uipath/754a3db2-eae8-4b86-bb3d-4b2d4d60c674",
+    "source": "ashby",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
+  },
+  {
     "id": "9931f07ffd5ddf7e",
     "company": "Block",
     "title": "Software Engineer, Finance Applications",
@@ -807,6 +946,29 @@
     ],
     "url": "https://www.okta.com/company/careers/opportunity/7607557?gh_jid=7607557",
     "source": "greenhouse",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
+  },
+  {
+    "id": "d2c2b2eb7d4a135e",
+    "company": "Planhat",
+    "title": "Technical Deployment Specialist",
+    "category": "Solutions Engineering",
+    "location": "Los Angeles; New York",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering"
+    ],
+    "url": "https://jobs.ashbyhq.com/Planhat/7ca188de-4f4b-43aa-969d-4a59a2243067",
+    "source": "ashby",
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-29"
   },
@@ -1000,25 +1162,26 @@
     "last_seen": "2026-09-29"
   },
   {
-    "id": "e7a42fdf55c134ef",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "New York, New York, United States",
+    "id": "24fe07e165f891fd",
+    "company": "UiPath",
+    "title": "Sales Engineer - Healthcare, Provider",
+    "category": "Solutions Engineering",
+    "location": "Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-South Carolina",
     "remote": true,
     "early_career": false,
     "experience": {
-      "min_years": 2,
+      "min_years": null,
       "max_years": null,
-      "is_plus": true,
-      "is_required": true
+      "is_plus": false,
+      "is_required": false
     },
     "score": 12,
     "signals": [
-      "Technical Consulting"
+      "Solutions Engineering",
+      "Sales Engineering"
     ],
-    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
-    "source": "greenhouse",
+    "url": "https://jobs.ashbyhq.com/Uipath/04456834-b035-4bcf-8515-e8fc7f111571",
+    "source": "ashby",
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-29"
   },
@@ -1069,6 +1232,29 @@
     "last_seen": "2026-09-29"
   },
   {
+    "id": "e7a42fdf55c134ef",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "New York, New York, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
+    "source": "greenhouse",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
+  },
+  {
     "id": "7463fda0c15bf452",
     "company": "Brex",
     "title": "Technical Consultant I",
@@ -1088,6 +1274,29 @@
     ],
     "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
     "source": "greenhouse",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
+  },
+  {
+    "id": "343f58b390607576",
+    "company": "ServiceNow",
+    "title": "Technical Consultant",
+    "category": "Technical Consulting",
+    "location": "Chicago, ILLINOIS, US | Remote",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Servicenow/744000150737589",
+    "source": "smartrecruiters",
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-29"
   }
