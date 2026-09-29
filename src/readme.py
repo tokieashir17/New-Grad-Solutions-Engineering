@@ -1,56 +1,22 @@
-import html
 import re
 from collections import Counter, defaultdict
 from datetime import date, timedelta
 from pathlib import Path
 
-
-_TAG_RE = re.compile(r"<[^>]+>")
-_YEARS_RE = re.compile(
-    r"(\d{1,2})\s*(\+|(?:-|–|to)\s*(\d{1,2}))?\s*(?:or more\s*)?(?:years?|yrs?)\b",
-    re.I,
-)
+from src.experience import parse_experience, format_experience
 
 
-def _clean_text(text: str) -> str:
-    # Greenhouse returns HTML-escaped HTML, so unescape, strip tags, unescape again
-    text = html.unescape(text or "")
-    text = _TAG_RE.sub(" ", text)
-    return html.unescape(text)
+def _experience_label(job: dict) -> str:
+    """Display string for a job's experience requirement. Prefers a
+    structured dict stored under job["experience"] (see experience.py);
+    falls back to parsing the description directly for older job records
+    that don't have it yet."""
+    exp = job.get("experience")
+    if isinstance(exp, dict):
+        return format_experience(exp)
+    return format_experience(parse_experience(f"{job.get('title', '')}. {job.get('description', '')}"))
 
 
-def extract_years(job: dict) -> str:
-    """minimum years of experience listed."""
-    if job.get("experience"):
-        return job["experience"]
-
-    text = _clean_text(f"{job.get('title', '')}. {job.get('description', '')}")
-    found = []
-
-    for m in _YEARS_RE.finditer(text):
-        window = text[max(0, m.start() - 60): m.end() + 60].lower()
-        if "experience" not in window:
-            continue
-
-        low = int(m.group(1))
-        high = int(m.group(3)) if m.group(3) else None
-        before = text[max(0, m.start() - 20): m.start()].lower()
-        plus = (
-            m.group(2) == "+"
-            or "or more" in m.group(0).lower()
-            or "at least" in before
-            or "minimum" in before
-        )
-        found.append((low, high, plus))
-
-    if not found:
-        return "Not stated"
-
-    # prefers the lowest listed number
-    low, high, plus = min(found, key=lambda f: f[0])
-    if high:
-        return f"{low}-{high} yrs"
-    return f"{low}+ yrs" if plus else f"{low} yrs"
 
 
 def _cell(value) -> str:
@@ -103,7 +69,7 @@ def generate_readme(jobs: list[dict], path: Path) -> None:
             lines.append(
                 f"| {_cell(job['company'])} | {_cell(job['title'])} "
                 f"| {_cell(job['location']) or 'Not specified'} "
-                f"| {_cell(job['category'])} | {extract_years(job)} "
+                f"| {_cell(job['category'])} | {_experience_label(job)} "
                 f"| [Apply]({job['url']}) |"
             )
     else:
@@ -123,7 +89,7 @@ def generate_readme(jobs: list[dict], path: Path) -> None:
                 lines.append(
                     f"| {_cell(job['company'])} | {_cell(job['title'])} "
                     f"| {_cell(job['location']) or 'Not specified'} "
-                    f"| {extract_years(job)} | {early} | [Apply]({job['url']}) |"
+                    f"| {_experience_label(job)} | {early} | [Apply]({job['url']}) |"
                 )
     else:
         lines += [
