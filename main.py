@@ -7,8 +7,9 @@ from html import unescape
 
 from src.collectors import collect_company
 from src.classifier import classify
-from src.readme import extract_years, generate_readme
+from src.readme import generate_readme
 from src.storage import load_jobs, save_jobs, stable_id
+from src.experience import parse_experience, is_over_experienced
 
 ROOT = Path(__file__).parent
 COMPANIES_PATH = ROOT / "data" / "companies.json"
@@ -99,7 +100,8 @@ def main() -> None:
             if not is_us_location(raw["location"]):
                 filtered_location += 1
                 continue
-            if not max_required_experience(raw["description"]):
+            exp = parse_experience(f"{raw['title']}. {raw['description']}")
+            if is_over_experienced(exp, cap=2):
                 filtered_experience += 1
                 continue
 
@@ -117,7 +119,7 @@ def main() -> None:
                 "location": raw["location"].strip(),
                 "remote": result["remote"],
                 "early_career": result["early_career"],
-                "experience": extract_years(raw),
+                "experience": exp,
                 "score": result["score"],
                 "signals": result["signals"],
                 "url": raw["url"],
