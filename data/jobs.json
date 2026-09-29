@@ -7,15 +7,20 @@
     "location": "New York City, New York, United States",
     "remote": false,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 10,
     "signals": [
       "Forward Deployed Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "309a6aeeb62c454a",
@@ -25,15 +30,20 @@
     "location": "Chicago, Illinois, United States",
     "remote": false,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 10,
     "signals": [
       "Forward Deployed Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "2a596470c42af07a",
@@ -43,15 +53,20 @@
     "location": "Remote, United States",
     "remote": true,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 12,
     "signals": [
       "Forward Deployed Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8517171002",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "a243fa2c90140085",
@@ -61,7 +76,12 @@
     "location": "Remote, US",
     "remote": true,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 12,
     "signals": [
       "Forward Deployed Engineering",
@@ -69,44 +89,8 @@
     ],
     "url": "https://careers.toasttab.com/jobs?gh_jid=7947082",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "3ea0ba910f0573d6",
-    "company": "Zipline",
-    "title": "Forward Deployed AI Engineer, Operations",
-    "category": "Forward Deployed Engineering",
-    "location": "South San Francisco, California, USA",
-    "remote": false,
-    "early_career": false,
-    "experience": "Not stated",
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://www.zipline.com/open-roles/7764239003?gh_jid=7764239003",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "252b3e681f7f5204",
-    "company": "Suger",
-    "title": "GTM Engineer",
-    "category": "GTM Engineering",
-    "location": "San Francisco, CA",
-    "remote": false,
-    "early_career": false,
-    "experience": "Not stated",
-    "score": 10,
-    "signals": [
-      "GTM Engineering"
-    ],
-    "url": "https://jobs.lever.co/suger/5ec19116-4614-4931-ab8c-8d8fa0afd52a",
-    "source": "lever",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "a9e1bac65a99db09",
@@ -116,15 +100,20 @@
     "location": "Salt Lake City, Utah, United States",
     "remote": true,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 12,
     "signals": [
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8152968002?gh_jid=8152968002",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "d85922949680fcef",
@@ -134,33 +123,20 @@
     "location": "Remote - USA",
     "remote": true,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 12,
     "signals": [
       "Sales Engineering"
     ],
     "url": "https://abnormal.ai/careers/jobs/7894691003?gh_jid=7894691003",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "8cdb05efb91a52ca",
-    "company": "Braze",
-    "title": "Applied AI Architect, GTM",
-    "category": "Sales Engineering",
-    "location": "New York City",
-    "remote": false,
-    "early_career": false,
-    "experience": "6+ yrs",
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/braze/jobs/8024690",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "bce6f1676f612cc9",
@@ -170,15 +146,20 @@
     "location": "Bellevue, Washington; Denver, Colorado; Seattle, Washington; Washington, D.C.",
     "remote": false,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 10,
     "signals": [
       "Sales Engineering"
     ],
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8199399002",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "2a1310e4971612ac",
@@ -188,15 +169,20 @@
     "location": "Denver, Colorado, USA",
     "remote": false,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 10,
     "signals": [
       "Sales Engineering"
     ],
     "url": "https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "c95c53e15adc4c78",
@@ -206,15 +192,20 @@
     "location": "Boston, Massachusetts, USA",
     "remote": false,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 10,
     "signals": [
       "Sales Engineering"
     ],
     "url": "https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "bce25cbdeda0e167",
@@ -224,15 +215,20 @@
     "location": "Denver, Colorado, USA",
     "remote": false,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 10,
     "signals": [
       "Sales Engineering"
     ],
     "url": "https://careers.datadoghq.com/detail/8053714/?gh_jid=8053714",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "aa0a8100db97ccf0",
@@ -242,7 +238,12 @@
     "location": "Denver, Colorado, USA",
     "remote": false,
     "early_career": true,
-    "experience": "1 yrs",
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": true
+    },
     "score": 14,
     "signals": [
       "Sales Engineering",
@@ -250,26 +251,8 @@
     ],
     "url": "https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "55be68a19a799c90",
-    "company": "Datadog",
-    "title": "Sales Engineer 2 (Customer Success) - Denver",
-    "category": "Sales Engineering",
-    "location": "Denver, Colorado, USA",
-    "remote": false,
-    "early_career": false,
-    "experience": "Not stated",
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8185903/?gh_jid=8185903",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "234c2bfd23100892",
@@ -279,7 +262,12 @@
     "location": "United States",
     "remote": false,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 11,
     "signals": [
       "Sales Engineering",
@@ -287,8 +275,8 @@
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8161887&gh_jid=8161887",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "2557dff4e9bec2d3",
@@ -298,7 +286,12 @@
     "location": "Colorado, United States",
     "remote": false,
     "early_career": false,
-    "experience": "3+ yrs",
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
     "score": 10,
     "signals": [
       "Sales Engineering",
@@ -306,8 +299,8 @@
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8080876&gh_jid=8080876",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "b19a5f4372405684",
@@ -317,7 +310,12 @@
     "location": "Washington, DC, United States",
     "remote": false,
     "early_career": true,
-    "experience": "1+ yrs",
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
     "score": 15,
     "signals": [
       "Sales Engineering",
@@ -326,8 +324,8 @@
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "8069d79decc63a1e",
@@ -337,7 +335,12 @@
     "location": "Florida, United States",
     "remote": false,
     "early_career": true,
-    "experience": "1+ yrs",
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
     "score": 15,
     "signals": [
       "Sales Engineering",
@@ -346,8 +349,8 @@
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "38735da069b158e2",
@@ -357,15 +360,20 @@
     "location": "Remote, United States",
     "remote": true,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 12,
     "signals": [
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8742716002",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "b00b803cd38e4789",
@@ -375,7 +383,12 @@
     "location": "Remote, United States",
     "remote": true,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 12,
     "signals": [
       "Sales Engineering",
@@ -383,8 +396,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8792585002",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "91a82ed7bf31a35b",
@@ -394,7 +407,12 @@
     "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid",
     "remote": false,
     "early_career": true,
-    "experience": "1+ yrs",
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
     "score": 14,
     "signals": [
       "Sales Engineering",
@@ -402,8 +420,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/gusto/jobs/8227773",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "3422ae81322b0997",
@@ -413,7 +431,12 @@
     "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid",
     "remote": false,
     "early_career": true,
-    "experience": "1+ yrs",
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
     "score": 14,
     "signals": [
       "Sales Engineering",
@@ -421,8 +444,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/gusto/jobs/8175108",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "00f9de7fd1450c86",
@@ -432,33 +455,20 @@
     "location": "Remote, US",
     "remote": true,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 12,
     "signals": [
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8142644",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "ea39ca8c77835570",
-    "company": "Salesloft",
-    "title": "Future Sales Engineer Opportunities at Salesloft",
-    "category": "Sales Engineering",
-    "location": "United States",
-    "remote": false,
-    "early_career": false,
-    "experience": "Not stated",
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://www.salesloft.com/company/careers?gh_jid=6674655",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "a13ad4d8f6a7bca8",
@@ -468,7 +478,12 @@
     "location": "Remote - US",
     "remote": true,
     "early_career": true,
-    "experience": "1+ yrs",
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
     "score": 21,
     "signals": [
       "Sales Engineering",
@@ -477,8 +492,8 @@
     ],
     "url": "https://www.samsara.com/company/careers/roles/7624120?gh_jid=7624120",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "fb76f941cd907044",
@@ -488,7 +503,12 @@
     "location": "Remote - US",
     "remote": true,
     "early_career": true,
-    "experience": "1+ yrs",
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
     "score": 21,
     "signals": [
       "Sales Engineering",
@@ -497,8 +517,8 @@
     ],
     "url": "https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "211670e60e2f1891",
@@ -508,7 +528,12 @@
     "location": "Remote - US",
     "remote": true,
     "early_career": true,
-    "experience": "1+ yrs",
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
     "score": 21,
     "signals": [
       "Sales Engineering",
@@ -517,8 +542,8 @@
     ],
     "url": "https://www.samsara.com/company/careers/roles/7311741?gh_jid=7311741",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "658c58924fe2eea2",
@@ -528,7 +553,12 @@
     "location": "Remote - US",
     "remote": true,
     "early_career": true,
-    "experience": "1+ yrs",
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
     "score": 21,
     "signals": [
       "Sales Engineering",
@@ -537,8 +567,8 @@
     ],
     "url": "https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "7ebd6732822db04d",
@@ -548,7 +578,12 @@
     "location": "Remote - US",
     "remote": true,
     "early_career": true,
-    "experience": "1+ yrs",
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
     "score": 21,
     "signals": [
       "Sales Engineering",
@@ -557,8 +592,8 @@
     ],
     "url": "https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "03be2a1efb57f653",
@@ -568,7 +603,12 @@
     "location": "Remote - US",
     "remote": true,
     "early_career": true,
-    "experience": "2+ yrs",
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
     "score": 16,
     "signals": [
       "Sales Engineering",
@@ -577,44 +617,31 @@
     ],
     "url": "https://www.samsara.com/company/careers/roles/7717258?gh_jid=7717258",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
-    "id": "ade9c07174dd8bc9",
-    "company": "Sigma Computing",
-    "title": "Technical Support Engineer",
+    "id": "6f04b770b560784e",
+    "company": "Snowflake",
+    "title": "Solution Engineer - GCC (FSI)",
     "category": "Sales Engineering",
-    "location": "New York City, NY",
+    "location": "IN-Bangalore-MSO",
     "remote": false,
     "early_career": false,
-    "experience": "2+ yrs",
+    "experience": {
+      "min_years": 8,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
     "score": 11,
     "signals": [
       "Sales Engineering"
     ],
-    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767924003",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "a31a565fe2172ac6",
-    "company": "Sigma Computing",
-    "title": "Technical Support Engineer",
-    "category": "Sales Engineering",
-    "location": "San Francisco, CA",
-    "remote": false,
-    "early_career": false,
-    "experience": "2+ yrs",
-    "score": 11,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767925003",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "url": "https://jobs.ashbyhq.com/Snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180",
+    "source": "ashby",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "9931f07ffd5ddf7e",
@@ -624,15 +651,20 @@
     "location": "Bay Area, CA, United States of America",
     "remote": true,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 12,
     "signals": [
       "Solutions Engineering"
     ],
     "url": "http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "d10b272bd72ca590",
@@ -642,7 +674,12 @@
     "location": "New York City",
     "remote": false,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 10,
     "signals": [
       "Solutions Engineering",
@@ -650,46 +687,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/braze/jobs/8201757",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "672c326d386e3422",
-    "company": "Cribl",
-    "title": "Sales Engineer, San Francisco (Enterprise)",
-    "category": "Solutions Engineering",
-    "location": "Remote - San Francisco, California",
-    "remote": true,
-    "early_career": false,
-    "experience": "Not stated",
-    "score": 12,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://cribl.io/job-detail/?gh_jid=5745375004",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "b744ef5621254308",
-    "company": "Datadog",
-    "title": "GTM Strategy/Operations Associate - New York",
-    "category": "Solutions Engineering",
-    "location": "New York, New York, USA",
-    "remote": false,
-    "early_career": true,
-    "experience": "Not stated",
-    "score": 14,
-    "signals": [
-      "Solutions Engineering",
-      "associate"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8179647/?gh_jid=8179647",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "c66da0ff00dabd1d",
@@ -699,15 +698,20 @@
     "location": "Boston, Massachusetts, USA; New York, New York, USA",
     "remote": false,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 11,
     "signals": [
       "Solutions Engineering"
     ],
     "url": "https://careers.datadoghq.com/detail/8154643/?gh_jid=8154643",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "b07081068588b962",
@@ -717,33 +721,20 @@
     "location": "New York, New York, USA",
     "remote": false,
     "early_career": false,
-    "experience": "2+ yrs",
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
     "score": 10,
     "signals": [
       "Solutions Engineering"
     ],
     "url": "https://careers.datadoghq.com/detail/8109441/?gh_jid=8109441",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "c66695cc4cd4d0eb",
-    "company": "Formlabs",
-    "title": "Digital Systems Engineer",
-    "category": "Solutions Engineering",
-    "location": "Somerville, MA",
-    "remote": false,
-    "early_career": false,
-    "experience": "4+ yrs",
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://careers.formlabs.com/job/7506561/apply/?gh_jid=7506561",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "c287030a8d76f88a",
@@ -753,7 +744,12 @@
     "location": "Remote, United States",
     "remote": true,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 12,
     "signals": [
       "Solutions Engineering",
@@ -762,8 +758,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8790680002",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "031c1b9315e7901f",
@@ -773,7 +769,12 @@
     "location": "Remote, United States",
     "remote": true,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 12,
     "signals": [
       "Solutions Engineering",
@@ -782,45 +783,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8790317002",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "eac8e87e9c82397a",
-    "company": "MongoDB",
-    "title": "Salesforce Engineer III, FedRAMP",
-    "category": "Solutions Engineering",
-    "location": "United States",
-    "remote": false,
-    "early_career": false,
-    "experience": "6+ yrs",
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7948530",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "e7bd500844356493",
-    "company": "Okta",
-    "title": "Solutions Engineer, Okta (Enterprise)",
-    "category": "Solutions Engineering",
-    "location": "San Francisco, California",
-    "remote": false,
-    "early_career": false,
-    "experience": "5+ yrs",
-    "score": 11,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://www.okta.com/company/careers/opportunity/8051063?gh_jid=8051063",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "48469120b93b72bf",
@@ -830,7 +794,12 @@
     "location": "Connecticut; Massachusetts; New York, New York",
     "remote": true,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 12,
     "signals": [
       "Solutions Engineering",
@@ -838,202 +807,102 @@
     ],
     "url": "https://www.okta.com/company/careers/opportunity/7607557?gh_jid=7607557",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
-    "id": "684c94cf73ead9d9",
-    "company": "Samsara",
-    "title": "Sales Engineer - Mid Market - Southeast",
+    "id": "3867b15186314c67",
+    "company": "Ramp",
+    "title": "Technical Consultant, Commercial",
     "category": "Solutions Engineering",
-    "location": "Remote - US",
+    "location": "Remote (US); San Francisco, CA; New York, NY (HQ)",
     "remote": true,
     "early_career": false,
-    "experience": "2+ yrs",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 13,
     "signals": [
       "Solutions Engineering",
-      "Sales Engineering",
       "Technical Consulting"
     ],
-    "url": "https://www.samsara.com/company/careers/roles/8148274?gh_jid=8148274",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "url": "https://jobs.ashbyhq.com/Ramp/100c09be-f179-406f-893e-8a212f32c642",
+    "source": "ashby",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
-    "id": "0b3f2bf341593464",
-    "company": "Samsara",
-    "title": "Sales Engineer - Mid Market - West",
+    "id": "263ba766d11dfd69",
+    "company": "Snowflake",
+    "title": "Cloud Support Engineer (Night Shift)",
     "category": "Solutions Engineering",
-    "location": "Remote - US",
-    "remote": true,
-    "early_career": false,
-    "experience": "2+ yrs",
-    "score": 13,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/8148328?gh_jid=8148328",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "ec374fb1b3fc2e39",
-    "company": "Samsara",
-    "title": "Sales Engineer, Mid Market - Midwest",
-    "category": "Solutions Engineering",
-    "location": "Remote - US",
-    "remote": true,
-    "early_career": false,
-    "experience": "2+ yrs",
-    "score": 13,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/8148303?gh_jid=8148303",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "1f97d47ccfa4d76e",
-    "company": "Samsara",
-    "title": "Sales Engineer, Mid Market - Northeast",
-    "category": "Solutions Engineering",
-    "location": "Remote - US",
-    "remote": true,
-    "early_career": false,
-    "experience": "2+ yrs",
-    "score": 13,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/7848428?gh_jid=7848428",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "3670e529fa83caf5",
-    "company": "Samsara",
-    "title": "Sales Engineer, Mid Market - Public Sector",
-    "category": "Solutions Engineering",
-    "location": "Remote - US",
-    "remote": true,
-    "early_career": false,
-    "experience": "2+ yrs",
-    "score": 13,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/8036863?gh_jid=8036863",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "f30dbfad3848c668",
-    "company": "Samsara",
-    "title": "Sales Engineer, Mid Market - TOLA",
-    "category": "Solutions Engineering",
-    "location": "Remote - TX",
-    "remote": true,
-    "early_career": false,
-    "experience": "2+ yrs",
-    "score": 13,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/7848459?gh_jid=7848459",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "094c46b869fcac77",
-    "company": "Samsara",
-    "title": "Solutions Integration Engineer IV",
-    "category": "Solutions Engineering",
-    "location": "Remote - US",
-    "remote": true,
-    "early_career": false,
-    "experience": "7+ yrs",
-    "score": 13,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/8094156?gh_jid=8094156",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "9a64ff680a5c9245",
-    "company": "Sigma Computing",
-    "title": "Commercial Solution Engineer",
-    "category": "Solutions Engineering",
-    "location": "San Francisco, CA",
+    "location": "IN-Pune",
     "remote": false,
     "early_career": false,
-    "experience": "Not stated",
-    "score": 10,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 11,
     "signals": [
       "Solutions Engineering"
     ],
-    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7771363003",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "url": "https://jobs.ashbyhq.com/Snowflake/86da04ed-74b3-4cde-aa86-98cb580f63a6",
+    "source": "ashby",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
-    "id": "fc5cffc223cc9f37",
-    "company": "Sigma Computing",
-    "title": "Software Engineer (New Grad Program)",
+    "id": "c4825f8cc948df55",
+    "company": "Snowflake",
+    "title": "Cloud Support Engineer, AI/ML (Night Shift)",
     "category": "Solutions Engineering",
-    "location": "San Francisco, CA and New York City, NY",
+    "location": "IN-Pune",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 11,
+    "signals": [
+      "Solutions Engineering"
+    ],
+    "url": "https://jobs.ashbyhq.com/Snowflake/ff8fe152-e6c9-46d1-bdc7-ea414ea9d436",
+    "source": "ashby",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
+  },
+  {
+    "id": "b00db807b609c3c0",
+    "company": "Snowflake",
+    "title": "Developer Advocate - AI & Developer Experiences",
+    "category": "Solutions Engineering",
+    "location": "US-CA-Menlo Park; US-WA-Bellevue; CA-Ontario-Toronto",
     "remote": false,
     "early_career": true,
-    "experience": "Not stated",
-    "score": 19,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 15,
     "signals": [
       "Solutions Engineering",
-      "new grad",
       "early career"
     ],
-    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "05d302e654ec8c37",
-    "company": "Smarsh",
-    "title": "Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "US - Remote",
-    "remote": true,
-    "early_career": false,
-    "experience": "Not stated",
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://jobs.lever.co/smarsh/1281c735-7117-4ecf-8843-f6b5049f6538",
-    "source": "lever",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "url": "https://jobs.ashbyhq.com/Snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62",
+    "source": "ashby",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "923a5a686b5877aa",
@@ -1043,15 +912,45 @@
     "location": "NC - Charlotte",
     "remote": true,
     "early_career": false,
-    "experience": "2+ yrs",
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
     "score": 13,
     "signals": [
       "Solutions Engineering"
     ],
     "url": "https://sofi.com/careers/job/7990744003?gh_jid=7990744003",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
+  },
+  {
+    "id": "eddee6d3ff019044",
+    "company": "Tanium",
+    "title": "Business Analyst - Salesforce",
+    "category": "Solutions Engineering",
+    "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 11,
+    "signals": [
+      "Solutions Engineering",
+      "Implementation Engineering",
+      "Technical Consulting"
+    ],
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8126765",
+    "source": "greenhouse",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "b57b06ba56a047e7",
@@ -1061,15 +960,20 @@
     "location": "Boston, MA",
     "remote": false,
     "early_career": false,
-    "experience": "Not stated",
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
     "score": 10,
     "signals": [
       "Solutions Engineering"
     ],
     "url": "https://careers.toasttab.com/jobs?gh_jid=8211318",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "51304113b61dac65",
@@ -1079,7 +983,12 @@
     "location": "Remote - US",
     "remote": true,
     "early_career": true,
-    "experience": "1+ yrs",
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
     "score": 16,
     "signals": [
       "Solutions Engineering",
@@ -1087,80 +996,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/twilio/jobs/8122899",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "2fb73c3e8e720899",
-    "company": "Zipline",
-    "title": "Applications Engineer Intern (Spring 2027)",
-    "category": "Solutions Engineering",
-    "location": "South San Francisco, California, USA",
-    "remote": true,
-    "early_career": false,
-    "experience": "Not stated",
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://www.zipline.com/open-roles/7908677003?gh_jid=7908677003",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "40c64ccfe2ef0039",
-    "company": "Zipline",
-    "title": "Applications Engineer Intern (Summer 2027)",
-    "category": "Solutions Engineering",
-    "location": "South San Francisco, California, USA",
-    "remote": true,
-    "early_career": false,
-    "experience": "Not stated",
-    "score": 12,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://www.zipline.com/open-roles/7909946003?gh_jid=7909946003",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "6d7b31982cb0688f",
-    "company": "Zipline",
-    "title": "Data Analytics Intern (Spring 2027)",
-    "category": "Solutions Engineering",
-    "location": "South San Francisco, California, USA",
-    "remote": false,
-    "early_career": false,
-    "experience": "Not stated",
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://www.zipline.com/open-roles/7990420003?gh_jid=7990420003",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "id": "de6f32de4253d3af",
-    "company": "Zipline",
-    "title": "Data Analytics Intern (Summer 2027)",
-    "category": "Solutions Engineering",
-    "location": "South San Francisco, California, USA",
-    "remote": false,
-    "early_career": false,
-    "experience": "Not stated",
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://www.zipline.com/open-roles/7990632003?gh_jid=7990632003",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "e7a42fdf55c134ef",
@@ -1170,15 +1007,20 @@
     "location": "New York, New York, United States",
     "remote": true,
     "early_career": false,
-    "experience": "2+ yrs",
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
     "score": 12,
     "signals": [
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "19cfc1b0382dc322",
@@ -1188,15 +1030,20 @@
     "location": "Seattle, Washington, United States",
     "remote": true,
     "early_career": false,
-    "experience": "2+ yrs",
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
     "score": 12,
     "signals": [
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "19c15c5042274b7e",
@@ -1206,15 +1053,20 @@
     "location": "San Francisco, California, United States",
     "remote": true,
     "early_career": false,
-    "experience": "2+ yrs",
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
     "score": 12,
     "signals": [
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   },
   {
     "id": "7463fda0c15bf452",
@@ -1224,14 +1076,19 @@
     "location": "Salt Lake City, Utah, United States",
     "remote": true,
     "early_career": false,
-    "experience": "2+ yrs",
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
     "score": 12,
     "signals": [
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
     "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
   }
 ]
