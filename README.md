@@ -3,15 +3,15 @@
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Engineering, and related roles.
 
 **Last updated:** 2026-09-30  
-**Matching jobs:** 62
+**Matching jobs:** 58
 
 ## Categories
 
 - [Forward Deployed Engineering](#forward-deployed-engineering) (7)
 - [Implementation Engineering](#implementation-engineering) (5)
-- [Sales Engineering](#sales-engineering) (25)
-- [Solutions Engineering](#solutions-engineering) (20)
-- [Technical Consulting](#technical-consulting) (5)
+- [Sales Engineering](#sales-engineering) (24)
+- [Solutions Engineering](#solutions-engineering) (18)
+- [Technical Consulting](#technical-consulting) (4)
 
 ## Recently Added
 
@@ -23,7 +23,6 @@
 | Samsara | Associate Sales Engineer, SE Desk - Southeast | Remote - US | Sales Engineering | 1+ yrs (preferred) | [Apply](https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351) |
 | Samsara | Associate Sales Engineer, SE Desk - TOLA | Remote - US | Sales Engineering | 1+ yrs (preferred) | [Apply](https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363) |
 | Samsara | Associate Specialist Sales Engineer | Remote - US | Sales Engineering | 2+ yrs | [Apply](https://www.samsara.com/company/careers/roles/7717258?gh_jid=7717258) |
-| Twilio | Digital Sales Representative 2 | Remote - US | Solutions Engineering | 1+ yrs | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8122899) |
 | Elastic | Partner Solutions Architect - Public Sector | Florida, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
 | Snowflake | Developer Advocate - AI & Developer Experiences | US-CA-Menlo Park; US-WA-Bellevue; CA-Ontario-Toronto | Solutions Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62) |
@@ -36,14 +35,14 @@
 | Abnormal Security | MidMarket Sales Engineer - Ohio Valley | Remote - USA | Sales Engineering | Not stated | [Apply](https://abnormal.ai/careers/jobs/7894691003?gh_jid=7894691003) |
 | Block | Software Engineer, Finance Applications | Bay Area, CA, United States of America | Solutions Engineering | Not stated | [Apply](http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008) |
 | Brex | Enterprise Implementation Consultant | Salt Lake City, Utah, United States | Implementation Engineering | Not stated | [Apply](https://www.brex.com/careers/8152968002?gh_jid=8152968002) |
-| Brex | Implementation Consultant I, Commercial | New York, New York, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
 | Brex | Implementation Consultant I, Commercial | San Francisco, California, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536968002?gh_jid=8536968002) |
+| Brex | Implementation Consultant I, Commercial | New York, New York, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
 | Brex | Implementation Consultant I, Commercial | Seattle, Washington, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Brex | Implementation Consultant I, Commercial | Salt Lake City, Utah, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
-| Brex | Technical Consultant I | San Francisco, California, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
 | Brex | Technical Consultant I | Salt Lake City, Utah, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579215002?gh_jid=8579215002) |
 | Brex | Technical Consultant I | Seattle, Washington, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579204002?gh_jid=8579204002) |
 | Brex | Technical Consultant I | New York, New York, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579199002?gh_jid=8579199002) |
+| Brex | Technical Consultant I | San Francisco, California, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
 | GitLab | Customer Success Architect | Remote, United States | Sales Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8742716002) |
 | GitLab | Field CTO, Public Sector | Remote, United States | Sales Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8792585002) |
 | GitLab | Forward Deployed Engineer, AI and Agentic SDLC | Remote, United States | Forward Deployed Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8517171002) |
@@ -52,9 +51,7 @@
 | Mixpanel | Delivery Engineer III (GTM) | Remote, US | Sales Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/8142644) |
 | Okta | Solutions Engineer, Okta (North East) | Connecticut; Massachusetts; New York, New York | Solutions Engineering | Not stated | [Apply](https://www.okta.com/company/careers/opportunity/7607557?gh_jid=7607557) |
 | ServiceNow | Forward Deployed Solution Engineer – Applied AI FDE | Santa Clara, California, US \| Remote | Forward Deployed Engineering | Not stated | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000144639119) |
-| ServiceNow | Technical Consultant | Chicago, ILLINOIS, US \| Remote | Technical Consulting | Not stated | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000150737589) |
 | Toast | GTM Engineer - Sales Workflow Automation, Revenue Intelligence | Remote, US | Forward Deployed Engineering | Not stated | [Apply](https://careers.toasttab.com/jobs?gh_jid=7947082) |
-| UiPath | Sales Engineer | New York; Remote-Florida; Remote-North Carolina; Remote-New Jersey; Remote-Georgia; Remote-Texas | Sales Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Uipath/cdb6deba-6e5c-4b6d-a7a9-043a04015eed) |
 | UiPath | Sales Engineer - Healthcare, Provider | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-South Carolina | Solutions Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
 | UiPath | Sales Engineer, Healthcare - Provider | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Georgia | Sales Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Uipath/75345dfc-f069-481f-8c74-15c8c7d9e9de) |
 | UiPath | Sales Engineer, Retail and Manufacturing | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-Georgia | Sales Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Uipath/754a3db2-eae8-4b86-bb3d-4b2d4d60c674) |
@@ -67,6 +64,9 @@
 | Tanium | Business Analyst - Salesforce | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid) | Solutions Engineering | 3+ yrs (preferred) | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8126765) |
 | Braze | Solutions Consultant | New York City | Solutions Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/braze/jobs/8201757) |
 | Databricks | Program Analyst, Legal Ops | Bellevue, Washington; Denver, Colorado; Seattle, Washington; Washington, D.C. | Sales Engineering | Not stated | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199399002) |
+| Datadog | Commercial Sales Engineer (AMER - West) | Denver, Colorado, USA | Sales Engineering | Not stated | [Apply](https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226) |
+| Datadog | Commercial Sales Engineer - Boston | Boston, Massachusetts, USA | Sales Engineering | Not stated | [Apply](https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669) |
+| Datadog | Commercial Sales Engineer 2 (AMER - West) | Denver, Colorado, USA | Sales Engineering | Not stated | [Apply](https://careers.datadoghq.com/detail/8053714/?gh_jid=8053714) |
 
 ## Forward Deployed Engineering
 
@@ -85,8 +85,8 @@
 | Company | Role | Location | Experience | Early Career | Apply |
 |---|---|---|---|---|---|
 | Brex | Enterprise Implementation Consultant | Salt Lake City, Utah, United States | Not stated | Review | [Apply](https://www.brex.com/careers/8152968002?gh_jid=8152968002) |
-| Brex | Implementation Consultant I, Commercial | New York, New York, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
 | Brex | Implementation Consultant I, Commercial | San Francisco, California, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536968002?gh_jid=8536968002) |
+| Brex | Implementation Consultant I, Commercial | New York, New York, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
 | Brex | Implementation Consultant I, Commercial | Seattle, Washington, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Brex | Implementation Consultant I, Commercial | Salt Lake City, Utah, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
 
@@ -109,7 +109,6 @@
 | GitLab | Customer Success Architect | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8742716002) |
 | GitLab | Field CTO, Public Sector | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8792585002) |
 | Mixpanel | Delivery Engineer III (GTM) | Remote, US | Not stated | Review | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/8142644) |
-| UiPath | Sales Engineer | New York; Remote-Florida; Remote-North Carolina; Remote-New Jersey; Remote-Georgia; Remote-Texas | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Uipath/cdb6deba-6e5c-4b6d-a7a9-043a04015eed) |
 | UiPath | Sales Engineer, Healthcare - Provider | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Georgia | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Uipath/75345dfc-f069-481f-8c74-15c8c7d9e9de) |
 | UiPath | Sales Engineer, Retail and Manufacturing | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-Georgia | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Uipath/754a3db2-eae8-4b86-bb3d-4b2d4d60c674) |
 | Elastic | Customer Architect | United States | Not stated | Review | [Apply](https://jobs.elastic.co/jobs?gh_jid=8161887&gh_jid=8161887) |
@@ -124,7 +123,6 @@
 
 | Company | Role | Location | Experience | Early Career | Apply |
 |---|---|---|---|---|---|
-| Twilio | Digital Sales Representative 2 | Remote - US | 1+ yrs | Yes | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8122899) |
 | Snowflake | Developer Advocate - AI & Developer Experiences | US-CA-Menlo Park; US-WA-Bellevue; CA-Ontario-Toronto | Not stated | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62) |
 | Ramp | Technical Consultant, Commercial | Remote (US); San Francisco, CA; New York, NY (HQ) | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Ramp/100c09be-f179-406f-893e-8a212f32c642) |
 | SoFi | Applications Administrator, Home Lending | NC - Charlotte | 2+ yrs | Review | [Apply](https://sofi.com/careers/job/7990744003?gh_jid=7990744003) |
@@ -140,20 +138,18 @@
 | Tanium | Business Analyst - Salesforce | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid) | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8126765) |
 | Braze | Solutions Consultant | New York City | Not stated | Review | [Apply](https://job-boards.greenhouse.io/braze/jobs/8201757) |
 | Datadog | Technical Support Engineer 2, Premier - NYC (Japanese Speaking) | New York, New York, USA | 2+ yrs | Review | [Apply](https://careers.datadoghq.com/detail/8109441/?gh_jid=8109441) |
-| Flexport | Solutions Consultant | San Francisco, California, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
 | Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
+| Flexport | Solutions Consultant | San Francisco, California, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
 | Planhat | Technical Deployment Specialist | Los Angeles; New York | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
-| Toast | Retail Solutions Engineer | Boston, MA | Not stated | Review | [Apply](https://careers.toasttab.com/jobs?gh_jid=8211318) |
 
 ## Technical Consulting
 
 | Company | Role | Location | Experience | Early Career | Apply |
 |---|---|---|---|---|---|
-| Brex | Technical Consultant I | San Francisco, California, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
 | Brex | Technical Consultant I | Salt Lake City, Utah, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579215002?gh_jid=8579215002) |
 | Brex | Technical Consultant I | Seattle, Washington, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579204002?gh_jid=8579204002) |
 | Brex | Technical Consultant I | New York, New York, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579199002?gh_jid=8579199002) |
-| ServiceNow | Technical Consultant | Chicago, ILLINOIS, US \| Remote | Not stated | Review | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000150737589) |
+| Brex | Technical Consultant I | San Francisco, California, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
 
 ---
 

@@ -186,29 +186,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "id": "5e1ce63c4a672d35",
-    "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
-    "category": "Implementation Engineering",
-    "location": "New York, New York, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-09-30"
-  },
-  {
     "id": "3227ee1e5e901b5c",
     "company": "Brex",
     "title": "Implementation Consultant I, Commercial",
@@ -227,6 +204,29 @@
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
+    "source": "greenhouse",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "id": "5e1ce63c4a672d35",
+    "company": "Brex",
+    "title": "Implementation Consultant I, Commercial",
+    "category": "Implementation Engineering",
+    "location": "New York, New York, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002",
     "source": "greenhouse",
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30"
@@ -806,29 +806,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "id": "70db36feb9bfb492",
-    "company": "UiPath",
-    "title": "Sales Engineer",
-    "category": "Sales Engineering",
-    "location": "New York; Remote-Florida; Remote-North Carolina; Remote-New Jersey; Remote-Georgia; Remote-Texas",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://jobs.ashbyhq.com/Uipath/cdb6deba-6e5c-4b6d-a7a9-043a04015eed",
-    "source": "ashby",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-09-30"
-  },
-  {
     "id": "7b6ebbf413616757",
     "company": "UiPath",
     "title": "Sales Engineer, Healthcare - Provider",
@@ -968,30 +945,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "id": "0677cbc05bafc2e6",
-    "company": "Flexport",
-    "title": "Solutions Consultant",
-    "category": "Solutions Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
-    "source": "greenhouse",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-09-30"
-  },
-  {
     "id": "a138f63207d17304",
     "company": "Flexport",
     "title": "Solutions Consultant",
@@ -1011,6 +964,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
+    "source": "greenhouse",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "id": "0677cbc05bafc2e6",
+    "company": "Flexport",
+    "title": "Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "San Francisco, California, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering",
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
     "source": "greenhouse",
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30"
@@ -1278,53 +1255,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "id": "b57b06ba56a047e7",
-    "company": "Toast",
-    "title": "Retail Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "Boston, MA",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8211318",
-    "source": "greenhouse",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-09-30"
-  },
-  {
-    "id": "51304113b61dac65",
-    "company": "Twilio",
-    "title": "Digital Sales Representative 2",
-    "category": "Solutions Engineering",
-    "location": "Remote - US",
-    "remote": true,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 16,
-    "signals": [
-      "Solutions Engineering",
-      "1+ years"
-    ],
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8122899",
-    "source": "greenhouse",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-09-30"
-  },
-  {
     "id": "24fe07e165f891fd",
     "company": "UiPath",
     "title": "Sales Engineer - Healthcare, Provider",
@@ -1345,29 +1275,6 @@
     ],
     "url": "https://jobs.ashbyhq.com/Uipath/04456834-b035-4bcf-8515-e8fc7f111571",
     "source": "ashby",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-09-30"
-  },
-  {
-    "id": "19c15c5042274b7e",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "San Francisco, California, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002",
-    "source": "greenhouse",
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30"
   },
@@ -1441,25 +1348,25 @@
     "last_seen": "2026-09-30"
   },
   {
-    "id": "343f58b390607576",
-    "company": "ServiceNow",
-    "title": "Technical Consultant",
+    "id": "19c15c5042274b7e",
+    "company": "Brex",
+    "title": "Technical Consultant I",
     "category": "Technical Consulting",
-    "location": "Chicago, ILLINOIS, US | Remote",
+    "location": "San Francisco, California, United States",
     "remote": true,
     "early_career": false,
     "experience": {
-      "min_years": null,
+      "min_years": 2,
       "max_years": null,
-      "is_plus": false,
-      "is_required": false
+      "is_plus": true,
+      "is_required": true
     },
     "score": 12,
     "signals": [
       "Technical Consulting"
     ],
-    "url": "https://jobs.smartrecruiters.com/Servicenow/744000150737589",
-    "source": "smartrecruiters",
+    "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002",
+    "source": "greenhouse",
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30"
   }
