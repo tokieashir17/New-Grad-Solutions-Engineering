@@ -3,14 +3,14 @@
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Engineering, and related roles.
 
 **Last updated:** 2026-09-30  
-**Matching jobs:** 61
+**Matching jobs:** 62
 
 ## Categories
 
 - [Forward Deployed Engineering](#forward-deployed-engineering) (7)
 - [Implementation Engineering](#implementation-engineering) (5)
 - [Sales Engineering](#sales-engineering) (25)
-- [Solutions Engineering](#solutions-engineering) (19)
+- [Solutions Engineering](#solutions-engineering) (20)
 - [Technical Consulting](#technical-consulting) (5)
 
 ## Recently Added
@@ -61,12 +61,12 @@
 | Datadog | Technical Escalations Engineer 2 (Revenue and Cost Management) - US-East | Boston, Massachusetts, USA; New York, New York, USA | Solutions Engineering | Not stated | [Apply](https://careers.datadoghq.com/detail/8154643/?gh_jid=8154643) |
 | Elastic | Customer Architect | United States | Sales Engineering | Not stated | [Apply](https://jobs.elastic.co/jobs?gh_jid=8161887&gh_jid=8161887) |
 | Snowflake | Cloud Support Engineer (Night Shift) | IN-Pune | Solutions Engineering | 2+ yrs (preferred) | [Apply](https://jobs.ashbyhq.com/Snowflake/86da04ed-74b3-4cde-aa86-98cb580f63a6) |
+| Snowflake | Cloud Support Engineer — Application Security (Night Shift) | IN-Pune | Solutions Engineering | 2+ yrs (preferred) | [Apply](https://jobs.ashbyhq.com/Snowflake/92fbaae5-671f-4b4e-bc4e-51dd8c8781f0) |
 | Snowflake | Cloud Support Engineer, AI/ML (Night Shift) | IN-Pune | Solutions Engineering | 2+ yrs (preferred) | [Apply](https://jobs.ashbyhq.com/Snowflake/ff8fe152-e6c9-46d1-bdc7-ea414ea9d436) |
 | Snowflake | Solution Engineer - GCC (FSI) | IN-Bangalore-MSO | Sales Engineering | 8+ yrs (preferred) | [Apply](https://jobs.ashbyhq.com/Snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180) |
 | Tanium | Business Analyst - Salesforce | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid) | Solutions Engineering | 3+ yrs (preferred) | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8126765) |
 | Braze | Solutions Consultant | New York City | Solutions Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/braze/jobs/8201757) |
 | Databricks | Program Analyst, Legal Ops | Bellevue, Washington; Denver, Colorado; Seattle, Washington; Washington, D.C. | Sales Engineering | Not stated | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199399002) |
-| Datadog | Commercial Sales Engineer (AMER - West) | Denver, Colorado, USA | Sales Engineering | Not stated | [Apply](https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226) |
 
 ## Forward Deployed Engineering
 
@@ -76,8 +76,8 @@
 | GitLab | Forward Deployed Engineer, AI and Agentic SDLC | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8517171002) |
 | ServiceNow | Forward Deployed Solution Engineer – Applied AI FDE | Santa Clara, California, US \| Remote | Not stated | Review | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000144639119) |
 | Toast | GTM Engineer - Sales Workflow Automation, Revenue Intelligence | Remote, US | Not stated | Review | [Apply](https://careers.toasttab.com/jobs?gh_jid=7947082) |
-| Flexport | Rotational Development Program | New York City, New York, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8224715) |
 | Flexport | Rotational Development Program | Chicago, Illinois, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8172300) |
+| Flexport | Rotational Development Program | New York City, New York, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8224715) |
 | ServiceNow | Forward Deployed Solution Engineer – Applied AI FDE | Montreal, QUEBEC, CA | Not stated | Review | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000149073920) |
 
 ## Implementation Engineering
@@ -135,6 +135,7 @@
 | UiPath | Sales Engineer - Healthcare, Provider | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-South Carolina | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
 | Datadog | Technical Escalations Engineer 2 (Revenue and Cost Management) - US-East | Boston, Massachusetts, USA; New York, New York, USA | Not stated | Review | [Apply](https://careers.datadoghq.com/detail/8154643/?gh_jid=8154643) |
 | Snowflake | Cloud Support Engineer (Night Shift) | IN-Pune | 2+ yrs (preferred) | Review | [Apply](https://jobs.ashbyhq.com/Snowflake/86da04ed-74b3-4cde-aa86-98cb580f63a6) |
+| Snowflake | Cloud Support Engineer — Application Security (Night Shift) | IN-Pune | 2+ yrs (preferred) | Review | [Apply](https://jobs.ashbyhq.com/Snowflake/92fbaae5-671f-4b4e-bc4e-51dd8c8781f0) |
 | Snowflake | Cloud Support Engineer, AI/ML (Night Shift) | IN-Pune | 2+ yrs (preferred) | Review | [Apply](https://jobs.ashbyhq.com/Snowflake/ff8fe152-e6c9-46d1-bdc7-ea414ea9d436) |
 | Tanium | Business Analyst - Salesforce | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid) | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8126765) |
 | Braze | Solutions Consultant | New York City | Not stated | Review | [Apply](https://job-boards.greenhouse.io/braze/jobs/8201757) |

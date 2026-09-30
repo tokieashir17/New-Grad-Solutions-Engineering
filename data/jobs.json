@@ -1,28 +1,5 @@
 [
   {
-    "id": "203152b05ead11b5",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "New York City, New York, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
-    "source": "greenhouse",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-09-30"
-  },
-  {
     "id": "309a6aeeb62c454a",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -41,6 +18,29 @@
       "Forward Deployed Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
+    "source": "greenhouse",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "id": "203152b05ead11b5",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "New York City, New York, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
     "source": "greenhouse",
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30"
@@ -1155,6 +1155,29 @@
       "Solutions Engineering"
     ],
     "url": "https://jobs.ashbyhq.com/Snowflake/86da04ed-74b3-4cde-aa86-98cb580f63a6",
+    "source": "ashby",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "id": "c1be4912bd5e3788",
+    "company": "Snowflake",
+    "title": "Cloud Support Engineer — Application Security (Night Shift)",
+    "category": "Solutions Engineering",
+    "location": "IN-Pune",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 11,
+    "signals": [
+      "Solutions Engineering"
+    ],
+    "url": "https://jobs.ashbyhq.com/Snowflake/92fbaae5-671f-4b4e-bc4e-51dd8c8781f0",
     "source": "ashby",
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30"
