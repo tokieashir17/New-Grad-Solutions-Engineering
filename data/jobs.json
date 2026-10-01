@@ -186,52 +186,6 @@
     "last_seen": "2026-10-01"
   },
   {
-    "id": "78d131ab5e322761",
-    "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
-    "category": "Implementation Engineering",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-01"
-  },
-  {
-    "id": "5e1ce63c4a672d35",
-    "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
-    "category": "Implementation Engineering",
-    "location": "New York, New York, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-01"
-  },
-  {
     "id": "99c45cbcf84eb37f",
     "company": "Brex",
     "title": "Implementation Consultant I, Commercial",
@@ -255,6 +209,29 @@
     "last_seen": "2026-10-01"
   },
   {
+    "id": "78d131ab5e322761",
+    "company": "Brex",
+    "title": "Implementation Consultant I, Commercial",
+    "category": "Implementation Engineering",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01"
+  },
+  {
     "id": "3227ee1e5e901b5c",
     "company": "Brex",
     "title": "Implementation Consultant I, Commercial",
@@ -273,6 +250,29 @@
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01"
+  },
+  {
+    "id": "5e1ce63c4a672d35",
+    "company": "Brex",
+    "title": "Implementation Consultant I, Commercial",
+    "category": "Implementation Engineering",
+    "location": "New York, New York, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002",
     "source": "greenhouse",
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-01"
@@ -945,30 +945,6 @@
     "last_seen": "2026-10-01"
   },
   {
-    "id": "0677cbc05bafc2e6",
-    "company": "Flexport",
-    "title": "Solutions Consultant",
-    "category": "Solutions Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
-    "source": "greenhouse",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-01"
-  },
-  {
     "id": "a138f63207d17304",
     "company": "Flexport",
     "title": "Solutions Consultant",
@@ -988,6 +964,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
+    "source": "greenhouse",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01"
+  },
+  {
+    "id": "0677cbc05bafc2e6",
+    "company": "Flexport",
+    "title": "Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "San Francisco, California, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering",
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
     "source": "greenhouse",
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-01"
@@ -1230,31 +1230,6 @@
     "last_seen": "2026-10-01"
   },
   {
-    "id": "eddee6d3ff019044",
-    "company": "Tanium",
-    "title": "Business Analyst - Salesforce",
-    "category": "Solutions Engineering",
-    "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 11,
-    "signals": [
-      "Solutions Engineering",
-      "Implementation Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://job-boards.greenhouse.io/tanium/jobs/8126765",
-    "source": "greenhouse",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-01"
-  },
-  {
     "id": "24fe07e165f891fd",
     "company": "UiPath",
     "title": "Sales Engineer - Healthcare, Provider",
@@ -1325,29 +1300,6 @@
     "last_seen": "2026-10-01"
   },
   {
-    "id": "7463fda0c15bf452",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "Salt Lake City, Utah, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-01"
-  },
-  {
     "id": "e7a42fdf55c134ef",
     "company": "Brex",
     "title": "Technical Consultant I",
@@ -1366,6 +1318,29 @@
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01"
+  },
+  {
+    "id": "7463fda0c15bf452",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "Salt Lake City, Utah, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
     "source": "greenhouse",
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-01"
