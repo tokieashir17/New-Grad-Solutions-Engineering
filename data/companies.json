@@ -468,5 +468,10 @@
     "name": "Phia",
     "ats": "ashby",
     "slug": "phia"
+  },
+  {
+    "name": "Default",
+    "ats": "recruitee",
+    "slug": "default"
   }
 ]
