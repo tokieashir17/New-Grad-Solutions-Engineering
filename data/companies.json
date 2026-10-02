@@ -473,5 +473,20 @@
     "name": "Default",
     "ats": "recruitee",
     "slug": "default"
+  },
+  {
+    "name": "Snyk",
+    "ats": "ashby",
+    "slug": "snyk"
+  },
+  {
+    "name": "Posh AI",
+    "ats": "ashby",
+    "slug": "posh-ai"
+  },
+  {
+    "name": "Wayfair",
+    "ats": "smartrecruiters",
+    "slug": "wayfair"
   }
 ]
