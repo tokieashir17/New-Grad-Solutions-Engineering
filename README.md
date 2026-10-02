@@ -3,14 +3,14 @@
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Engineering, and related roles.
 
 **Last updated:** 2026-10-02  
-**Matching jobs:** 58
+**Matching jobs:** 59
 
 ## Categories
 
 - [Forward Deployed Engineering](#forward-deployed-engineering) (8)
 - [Implementation Engineering](#implementation-engineering) (5)
 - [Sales Engineering](#sales-engineering) (24)
-- [Solutions Engineering](#solutions-engineering) (17)
+- [Solutions Engineering](#solutions-engineering) (18)
 - [Technical Consulting](#technical-consulting) (4)
 
 ## Recently Added
@@ -23,6 +23,7 @@
 | Samsara | Associate Sales Engineer, SE Desk - Southeast | Remote - US | Sales Engineering | 1+ yrs (preferred) | [Apply](https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351) |
 | Samsara | Associate Sales Engineer, SE Desk - TOLA | Remote - US | Sales Engineering | 1+ yrs (preferred) | [Apply](https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363) |
 | Samsara | Associate Specialist Sales Engineer | Remote - US | Sales Engineering | 2+ yrs | [Apply](https://www.samsara.com/company/careers/roles/7717258?gh_jid=7717258) |
+| Snowflake | Associate Solution Engineer | US, Remote | Solutions Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Snowflake/a4d05466-3c2e-4509-bfec-8830bccc885b) |
 | Elastic | Partner Solutions Architect - Public Sector | Florida, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
 | Snowflake | Developer Advocate - AI & Developer Experiences | US-CA-Menlo Park; US-WA-Bellevue; CA-Ontario-Toronto | Solutions Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62) |
@@ -36,13 +37,13 @@
 | Block | Software Engineer, Finance Applications | Bay Area, CA, United States of America | Solutions Engineering | Not stated | [Apply](http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008) |
 | Brex | Enterprise Implementation Consultant | Salt Lake City, Utah, United States | Implementation Engineering | Not stated | [Apply](https://www.brex.com/careers/8152968002?gh_jid=8152968002) |
 | Brex | Implementation Consultant I, Commercial | Salt Lake City, Utah, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
-| Brex | Implementation Consultant I, Commercial | Seattle, Washington, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
-| Brex | Implementation Consultant I, Commercial | New York, New York, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
 | Brex | Implementation Consultant I, Commercial | San Francisco, California, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536968002?gh_jid=8536968002) |
+| Brex | Implementation Consultant I, Commercial | New York, New York, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
+| Brex | Implementation Consultant I, Commercial | Seattle, Washington, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Brex | Technical Consultant I | Seattle, Washington, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579204002?gh_jid=8579204002) |
-| Brex | Technical Consultant I | San Francisco, California, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
 | Brex | Technical Consultant I | New York, New York, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579199002?gh_jid=8579199002) |
 | Brex | Technical Consultant I | Salt Lake City, Utah, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579215002?gh_jid=8579215002) |
+| Brex | Technical Consultant I | San Francisco, California, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
 | GitLab | Customer Success Architect | Remote, United States | Sales Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8742716002) |
 | GitLab | Field CTO, Public Sector | Remote, United States | Sales Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8792585002) |
 | GitLab | Forward Deployed Engineer, AI and Agentic SDLC | Remote, United States | Forward Deployed Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8517171002) |
@@ -66,7 +67,6 @@
 | Databricks | Program Analyst, Legal Ops | Bellevue, Washington; Denver, Colorado; Seattle, Washington; Washington, D.C. | Sales Engineering | Not stated | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199399002) |
 | Datadog | Commercial Sales Engineer (AMER - West) | Denver, Colorado, USA | Sales Engineering | Not stated | [Apply](https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226) |
 | Datadog | Commercial Sales Engineer - Boston | Boston, Massachusetts, USA | Sales Engineering | Not stated | [Apply](https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669) |
-| Datadog | Commercial Sales Engineer 2 (AMER - West) | Denver, Colorado, USA | Sales Engineering | Not stated | [Apply](https://careers.datadoghq.com/detail/8053714/?gh_jid=8053714) |
 
 ## Forward Deployed Engineering
 
@@ -87,9 +87,9 @@
 |---|---|---|---|---|---|
 | Brex | Enterprise Implementation Consultant | Salt Lake City, Utah, United States | Not stated | Review | [Apply](https://www.brex.com/careers/8152968002?gh_jid=8152968002) |
 | Brex | Implementation Consultant I, Commercial | Salt Lake City, Utah, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
-| Brex | Implementation Consultant I, Commercial | Seattle, Washington, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
-| Brex | Implementation Consultant I, Commercial | New York, New York, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
 | Brex | Implementation Consultant I, Commercial | San Francisco, California, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536968002?gh_jid=8536968002) |
+| Brex | Implementation Consultant I, Commercial | New York, New York, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
+| Brex | Implementation Consultant I, Commercial | Seattle, Washington, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 
 ## Sales Engineering
 
@@ -124,6 +124,7 @@
 
 | Company | Role | Location | Experience | Early Career | Apply |
 |---|---|---|---|---|---|
+| Snowflake | Associate Solution Engineer | US, Remote | Not stated | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/a4d05466-3c2e-4509-bfec-8830bccc885b) |
 | Snowflake | Developer Advocate - AI & Developer Experiences | US-CA-Menlo Park; US-WA-Bellevue; CA-Ontario-Toronto | Not stated | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62) |
 | Ramp | Technical Consultant, Commercial | Remote (US); San Francisco, CA; New York, NY (HQ) | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Ramp/100c09be-f179-406f-893e-8a212f32c642) |
 | SoFi | Applications Administrator, Home Lending | NC - Charlotte | 2+ yrs | Review | [Apply](https://sofi.com/careers/job/7990744003?gh_jid=7990744003) |
@@ -138,8 +139,8 @@
 | Snowflake | Cloud Support Engineer, AI/ML (Night Shift) | IN-Pune | 2+ yrs (preferred) | Review | [Apply](https://jobs.ashbyhq.com/Snowflake/ff8fe152-e6c9-46d1-bdc7-ea414ea9d436) |
 | Braze | Solutions Consultant | New York City | Not stated | Review | [Apply](https://job-boards.greenhouse.io/braze/jobs/8201757) |
 | Datadog | Technical Support Engineer 2, Premier - NYC (Japanese Speaking) | New York, New York, USA | 2+ yrs | Review | [Apply](https://careers.datadoghq.com/detail/8109441/?gh_jid=8109441) |
-| Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Flexport | Solutions Consultant | San Francisco, California, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
+| Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Planhat | Technical Deployment Specialist | Los Angeles; New York | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
 
 ## Technical Consulting
@@ -147,9 +148,9 @@
 | Company | Role | Location | Experience | Early Career | Apply |
 |---|---|---|---|---|---|
 | Brex | Technical Consultant I | Seattle, Washington, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579204002?gh_jid=8579204002) |
-| Brex | Technical Consultant I | San Francisco, California, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
 | Brex | Technical Consultant I | New York, New York, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579199002?gh_jid=8579199002) |
 | Brex | Technical Consultant I | Salt Lake City, Utah, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579215002?gh_jid=8579215002) |
+| Brex | Technical Consultant I | San Francisco, California, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
 
 ---
 
