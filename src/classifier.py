@@ -34,6 +34,10 @@ ROLE_RULES = {
         r"\bgo[- ]to[- ]market engineers?\b",
         r"\btechnical gtm\b",
     ],
+    "Sales Development Representative": [
+            r"\bsdr\b",
+            r"\bsales development representative\b",
+        ],
 }
 
 # True: a role keyword anywhere in the posting counts (original behavior).
@@ -43,9 +47,7 @@ MATCH_ROLE_IN_DESCRIPTION = True
 
 # Non-technical GTM and sales titles. Checked against the title only.
 EXCLUDE_TITLE_RULES = [
-    r"\bsdr\b",
     r"\bbdr\b",
-    r"\bsales development\b",
     r"\bbusiness development\b",
     r"\baccount executive\b",
     r"\brevenue operations\b",
