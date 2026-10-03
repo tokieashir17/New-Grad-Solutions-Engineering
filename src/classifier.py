@@ -37,7 +37,7 @@ ROLE_RULES = {
     "Sales Development Representative": [
             r"\bsdr\b",
             r"\bsales development representative\b",
-        ],
+    ],
 }
 
 # True: a role keyword anywhere in the posting counts (original behavior).
