@@ -116,6 +116,29 @@
     "last_seen": "2026-10-06"
   },
   {
+    "id": "5b424246b42b4535",
+    "company": "ServiceNow",
+    "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+    "category": "Forward Deployed Engineering",
+    "location": "Santa Clara, California, US",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Servicenow/744000153790887",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06"
+  },
+  {
     "id": "cb192fe74d342bbb",
     "company": "ServiceNow",
     "title": "Forward Deployed Solution Engineer – Applied AI FDE",
@@ -209,6 +232,29 @@
     "last_seen": "2026-10-06"
   },
   {
+    "id": "99c45cbcf84eb37f",
+    "company": "Brex",
+    "title": "Implementation Consultant I, Commercial",
+    "category": "Implementation Engineering",
+    "location": "Salt Lake City, Utah, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06"
+  },
+  {
     "id": "3227ee1e5e901b5c",
     "company": "Brex",
     "title": "Implementation Consultant I, Commercial",
@@ -273,29 +319,6 @@
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06"
-  },
-  {
-    "id": "99c45cbcf84eb37f",
-    "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
-    "category": "Implementation Engineering",
-    "location": "Salt Lake City, Utah, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
     "source": "greenhouse",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06"
@@ -462,29 +485,6 @@
       "1+ years"
     ],
     "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=8193470",
-    "source": "greenhouse",
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06"
-  },
-  {
-    "id": "41d9cfd419e9d36e",
-    "company": "Datadog",
-    "title": "Sales Development Representative (LATAM - Portuguese Speaking)",
-    "category": "Sales Development Representative",
-    "location": "Denver, Colorado, USA",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://careers.datadoghq.com/detail/6685931/?gh_jid=6685931",
     "source": "greenhouse",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06"
@@ -850,29 +850,6 @@
     "last_seen": "2026-10-06"
   },
   {
-    "id": "7451dd5fdc9798b0",
-    "company": "Netskope",
-    "title": "Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Santa Clara, California, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 10,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207",
-    "source": "greenhouse",
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06"
-  },
-  {
     "id": "1233e4cf9b8493e1",
     "company": "Netskope",
     "title": "Sales Development Representative",
@@ -891,6 +868,29 @@
       "Sales Development Representative"
     ],
     "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7306978",
+    "source": "greenhouse",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06"
+  },
+  {
+    "id": "7451dd5fdc9798b0",
+    "company": "Netskope",
+    "title": "Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Santa Clara, California, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 10,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207",
     "source": "greenhouse",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06"
@@ -1922,30 +1922,6 @@
     "last_seen": "2026-10-06"
   },
   {
-    "id": "a138f63207d17304",
-    "company": "Flexport",
-    "title": "Solutions Consultant",
-    "category": "Solutions Engineering",
-    "location": "Chicago, Illinois, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
-    "source": "greenhouse",
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06"
-  },
-  {
     "id": "0677cbc05bafc2e6",
     "company": "Flexport",
     "title": "Solutions Consultant",
@@ -1965,6 +1941,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
+    "source": "greenhouse",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06"
+  },
+  {
+    "id": "a138f63207d17304",
+    "company": "Flexport",
+    "title": "Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "Chicago, Illinois, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering",
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
     "source": "greenhouse",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06"
@@ -2015,34 +2015,6 @@
       "Technical Consulting"
     ],
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8790317002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06"
-  },
-  {
-    "id": "745690042ddb9756",
-    "company": "Netskope",
-    "title": "Associate Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "United States",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 0,
-      "max_years": 2,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 23,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering",
-      "entry level",
-      "early career",
-      "associate",
-      "0-2 years"
-    ],
-    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8226201",
     "source": "greenhouse",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06"
@@ -2236,29 +2208,6 @@
     "last_seen": "2026-10-06"
   },
   {
-    "id": "923a5a686b5877aa",
-    "company": "SoFi",
-    "title": "Applications Administrator, Home Lending",
-    "category": "Solutions Engineering",
-    "location": "NC - Charlotte",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 13,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://sofi.com/careers/job/7990744003?gh_jid=7990744003",
-    "source": "greenhouse",
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06"
-  },
-  {
     "id": "24fe07e165f891fd",
     "company": "UiPath",
     "title": "Sales Engineer - Healthcare, Provider",
@@ -2283,11 +2232,11 @@
     "last_seen": "2026-10-06"
   },
   {
-    "id": "19c15c5042274b7e",
+    "id": "19cfc1b0382dc322",
     "company": "Brex",
     "title": "Technical Consultant I",
     "category": "Technical Consulting",
-    "location": "San Francisco, California, United States",
+    "location": "Seattle, Washington, United States",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -2300,7 +2249,7 @@
     "signals": [
       "Technical Consulting"
     ],
-    "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002",
+    "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
     "source": "greenhouse",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06"
@@ -2329,6 +2278,29 @@
     "last_seen": "2026-10-06"
   },
   {
+    "id": "19c15c5042274b7e",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "San Francisco, California, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06"
+  },
+  {
     "id": "7463fda0c15bf452",
     "company": "Brex",
     "title": "Technical Consultant I",
@@ -2347,29 +2319,6 @@
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06"
-  },
-  {
-    "id": "19cfc1b0382dc322",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
     "source": "greenhouse",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06"
