@@ -1,28 +1,5 @@
 [
   {
-    "id": "203152b05ead11b5",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "New York City, New York, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
-    "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
-  },
-  {
     "id": "309a6aeeb62c454a",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -41,6 +18,29 @@
       "Forward Deployed Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
+    "source": "greenhouse",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07"
+  },
+  {
+    "id": "203152b05ead11b5",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "New York City, New York, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
     "source": "greenhouse",
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07"
@@ -116,6 +116,29 @@
     "last_seen": "2026-10-07"
   },
   {
+    "id": "3d6ad77b30389195",
+    "company": "ServiceNow",
+    "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+    "category": "Forward Deployed Engineering",
+    "location": "Santa Clara, California, US | Remote",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Servicenow/744000154154044",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07"
+  },
+  {
     "id": "5b424246b42b4535",
     "company": "ServiceNow",
     "title": "Forward Deployed Solution Engineer – Applied AI FDE",
@@ -157,29 +180,6 @@
       "Forward Deployed Engineering"
     ],
     "url": "https://jobs.smartrecruiters.com/Servicenow/744000149073920",
-    "source": "smartrecruiters",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
-  },
-  {
-    "id": "1e3e9e92ea98dee1",
-    "company": "ServiceNow",
-    "title": "Forward Deployed Solution Engineer – Applied AI FDE",
-    "category": "Forward Deployed Engineering",
-    "location": "Santa Clara, California, US | Remote",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://jobs.smartrecruiters.com/Servicenow/744000144639119",
     "source": "smartrecruiters",
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07"
@@ -255,6 +255,29 @@
     "last_seen": "2026-10-07"
   },
   {
+    "id": "3227ee1e5e901b5c",
+    "company": "Brex",
+    "title": "Implementation Consultant I, Commercial",
+    "category": "Implementation Engineering",
+    "location": "San Francisco, California, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07"
+  },
+  {
     "id": "5e1ce63c4a672d35",
     "company": "Brex",
     "title": "Implementation Consultant I, Commercial",
@@ -296,29 +319,6 @@
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
-  },
-  {
-    "id": "3227ee1e5e901b5c",
-    "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
-    "category": "Implementation Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
     "source": "greenhouse",
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07"
@@ -1031,6 +1031,30 @@
     ],
     "url": "https://jobs.ashbyhq.com/Ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284",
     "source": "ashby",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07"
+  },
+  {
+    "id": "e1d5e4c67049d5f1",
+    "company": "Scale AI",
+    "title": "Enterprise AI Development Strategist",
+    "category": "Sales Development Representative",
+    "location": "New York, NY; San Francisco, CA",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 4,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 14,
+    "signals": [
+      "Sales Development Representative",
+      "1-2 years"
+    ],
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4741087005",
+    "source": "greenhouse",
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07"
   },
@@ -1780,6 +1804,29 @@
     "last_seen": "2026-10-07"
   },
   {
+    "id": "1a1e4c07118002a9",
+    "company": "UiPath",
+    "title": "Sales Engineer: Retail and Manufacturing",
+    "category": "Sales Engineering",
+    "location": "Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-Georgia; Remote-South Carolina",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Engineering"
+    ],
+    "url": "https://jobs.ashbyhq.com/Uipath/0f1c0517-a967-4104-a25e-90219fadd3cf",
+    "source": "ashby",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07"
+  },
+  {
     "id": "9931f07ffd5ddf7e",
     "company": "Block",
     "title": "Software Engineer, Finance Applications",
@@ -2159,29 +2206,6 @@
     "last_seen": "2026-10-07"
   },
   {
-    "id": "e7a42fdf55c134ef",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "New York, New York, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
-  },
-  {
     "id": "7463fda0c15bf452",
     "company": "Brex",
     "title": "Technical Consultant I",
@@ -2205,29 +2229,6 @@
     "last_seen": "2026-10-07"
   },
   {
-    "id": "19c15c5042274b7e",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "San Francisco, California, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
-  },
-  {
     "id": "19cfc1b0382dc322",
     "company": "Brex",
     "title": "Technical Consultant I",
@@ -2246,6 +2247,52 @@
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07"
+  },
+  {
+    "id": "e7a42fdf55c134ef",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "New York, New York, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07"
+  },
+  {
+    "id": "19c15c5042274b7e",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "San Francisco, California, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002",
     "source": "greenhouse",
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07"
