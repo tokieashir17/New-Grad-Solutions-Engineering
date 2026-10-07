@@ -850,29 +850,6 @@
     "last_seen": "2026-10-07"
   },
   {
-    "id": "7451dd5fdc9798b0",
-    "company": "Netskope",
-    "title": "Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Santa Clara, California, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 10,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207",
-    "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
-  },
-  {
     "id": "1233e4cf9b8493e1",
     "company": "Netskope",
     "title": "Sales Development Representative",
@@ -891,6 +868,29 @@
       "Sales Development Representative"
     ],
     "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7306978",
+    "source": "greenhouse",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07"
+  },
+  {
+    "id": "7451dd5fdc9798b0",
+    "company": "Netskope",
+    "title": "Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Santa Clara, California, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 10,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207",
     "source": "greenhouse",
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07"
@@ -1413,31 +1413,6 @@
     "last_seen": "2026-10-07"
   },
   {
-    "id": "b19a5f4372405684",
-    "company": "Elastic",
-    "title": "Partner Solutions Architect - Public Sector",
-    "category": "Sales Engineering",
-    "location": "Washington, DC, United States",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 15,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting",
-      "1+ years"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
-    "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
-  },
-  {
     "id": "8069d79decc63a1e",
     "company": "Elastic",
     "title": "Partner Solutions Architect - Public Sector",
@@ -1458,6 +1433,31 @@
       "1+ years"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
+    "source": "greenhouse",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07"
+  },
+  {
+    "id": "b19a5f4372405684",
+    "company": "Elastic",
+    "title": "Partner Solutions Architect - Public Sector",
+    "category": "Sales Engineering",
+    "location": "Washington, DC, United States",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 15,
+    "signals": [
+      "Sales Engineering",
+      "Technical Consulting",
+      "1+ years"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
     "source": "greenhouse",
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07"

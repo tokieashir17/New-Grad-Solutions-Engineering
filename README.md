@@ -36,8 +36,8 @@
 | Mercury | Sales Development Representative | San Francisco, CA, New York, NY, Portland, OR, or Remote within United States | Sales Development Representative | 1 yrs | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6167220004) |
 | Ramp | Sales Development Representative, SMB | New York, NY (HQ); Remote | Sales Development Representative | Not stated | [Apply](https://jobs.ashbyhq.com/Ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) |
 | Twilio | Sales Development Representative | Remote - US | Sales Development Representative | 1+ yrs (preferred) | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7481689) |
-| Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
 | Elastic | Partner Solutions Architect - Public Sector | Florida, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
+| Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
 | Snowflake | Developer Advocate - AI & Developer Experiences | US-CA-Menlo Park; US-WA-Bellevue; CA-Ontario-Toronto | Solutions Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62) |
 | Cockroach Labs | Sales Development Representative | Austin, TX | Sales Development Representative | 1 yrs | [Apply](https://www.cockroachlabs.com/careers/job/?gh_jid=8193470) |
 | Datadog | Sales Engineer (Customer Success) | Denver, Colorado, USA | Sales Engineering | 1 yrs | [Apply](https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163) |
@@ -129,8 +129,8 @@
 | Ramp | Sales Development Representative, Strategic Accounts | New York, NY (HQ); Remote | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) |
 | Datadog | Sales Development Representative (LATAM - Spanish Speaking) | Boston, Massachusetts, USA | Not stated | Review | [Apply](https://careers.datadoghq.com/detail/7003239/?gh_jid=7003239) |
 | Datadog | Sales Development Representative - Denver | Denver, Colorado, USA | Not stated | Review | [Apply](https://careers.datadoghq.com/detail/7137624/?gh_jid=7137624) |
-| Netskope | Sales Development Representative | Santa Clara, California, United States | 2+ yrs | Review | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207) |
 | Netskope | Sales Development Representative | Saint Louis, Missouri, United States | 2+ yrs | Review | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=7306978) |
+| Netskope | Sales Development Representative | Santa Clara, California, United States | 2+ yrs | Review | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207) |
 | Okta | Sales Development Representative, Bellevue | Bellevue, Washington | Not stated | Review | [Apply](https://www.okta.com/company/careers/opportunity/7013711?gh_jid=7013711) |
 | Okta | Sales Development Representative, Central | Chicago, Illinois | Not stated | Review | [Apply](https://www.okta.com/company/careers/opportunity/7013622?gh_jid=7013622) |
 | Okta | Sales Development Representative, Latin America | Washington, DC | Not stated | Review | [Apply](https://www.okta.com/company/careers/opportunity/7013739?gh_jid=7013739) |
@@ -147,8 +147,8 @@
 | Samsara | Associate Sales Engineer, SE Desk - TOLA | Remote - US | 1+ yrs (preferred) | Yes | [Apply](https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363) |
 | Snowflake | Sales Development Representative - Portuguese Speaker | US-GA-Atlanta | 1-2 yrs (preferred) | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/2bca874d-6c17-4bc9-ab05-ad230fde040a) |
 | Snowflake | Sales Development Representative - Spanish Speaker | US-GA-Atlanta | 1-2 yrs (preferred) | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/d1823395-6522-4b35-bfbf-365ad939529f) |
-| Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
 | Elastic | Partner Solutions Architect - Public Sector | Florida, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
+| Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
 | Datadog | Sales Engineer (Customer Success) | Denver, Colorado, USA | 1 yrs | Yes | [Apply](https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163) |
 | Gusto | Future Opportunities: Sales Onboarding Advocate | Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid | 1+ yrs | Yes | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8227773) |
 | Abnormal Security | MidMarket Sales Engineer - Ohio Valley | Remote - USA | Not stated | Review | [Apply](https://abnormal.ai/careers/jobs/7894691003?gh_jid=7894691003) |
