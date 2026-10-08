@@ -1,28 +1,5 @@
 [
   {
-    "id": "309a6aeeb62c454a",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "Chicago, Illinois, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
-    "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
-  },
-  {
     "id": "203152b05ead11b5",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -42,8 +19,31 @@
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
+  },
+  {
+    "id": "309a6aeeb62c454a",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "Chicago, Illinois, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
+    "source": "greenhouse",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "2a596470c42af07a",
@@ -65,8 +65,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8517171002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "743c2630a9e033ce",
@@ -88,8 +88,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Hex/b2c81c35-8f47-46f0-b0c7-cab734109c19",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "9ddd75f6811a1036",
@@ -112,8 +112,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Planhat/80cac439-9e0d-4dda-99b2-481330ce8d62",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "3d6ad77b30389195",
@@ -135,8 +135,8 @@
     ],
     "url": "https://jobs.smartrecruiters.com/Servicenow/744000154154044",
     "source": "smartrecruiters",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "5b424246b42b4535",
@@ -158,8 +158,8 @@
     ],
     "url": "https://jobs.smartrecruiters.com/Servicenow/744000153790887",
     "source": "smartrecruiters",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "cb192fe74d342bbb",
@@ -181,8 +181,8 @@
     ],
     "url": "https://jobs.smartrecruiters.com/Servicenow/744000149073920",
     "source": "smartrecruiters",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "a243fa2c90140085",
@@ -205,8 +205,8 @@
     ],
     "url": "https://careers.toasttab.com/jobs?gh_jid=7947082",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "a9e1bac65a99db09",
@@ -228,8 +228,8 @@
     ],
     "url": "https://www.brex.com/careers/8152968002?gh_jid=8152968002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "99c45cbcf84eb37f",
@@ -251,8 +251,8 @@
     ],
     "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "3227ee1e5e901b5c",
@@ -274,8 +274,8 @@
     ],
     "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "5e1ce63c4a672d35",
@@ -297,8 +297,8 @@
     ],
     "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "78d131ab5e322761",
@@ -320,8 +320,8 @@
     ],
     "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "754dd08440e62d2d",
@@ -345,8 +345,8 @@
     ],
     "url": "https://abnormal.ai/careers/jobs/7730831003?gh_jid=7730831003",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "ffed9965c96a9cc3",
@@ -369,8 +369,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Astronomer/587eaa17-f90e-4f59-a3e4-9d8213ef5013",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "dd48fc18eea0df51",
@@ -392,8 +392,8 @@
     ],
     "url": "https://www.brex.com/careers/8814628002?gh_jid=8814628002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "fa2318fc10251949",
@@ -415,8 +415,8 @@
     ],
     "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "b8a5925dfc5593b8",
@@ -438,8 +438,8 @@
     ],
     "url": "https://www.brex.com/careers/8814410002?gh_jid=8814410002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "281c679167f4a576",
@@ -462,8 +462,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/ClickUp/8a00fe9c-3227-4443-ba43-0d0c63d724bc",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "ba569c608728038d",
@@ -486,8 +486,8 @@
     ],
     "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=8193470",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "24c2f5eb56a95d7c",
@@ -509,8 +509,8 @@
     ],
     "url": "https://careers.datadoghq.com/detail/7003239/?gh_jid=7003239",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "b11ee3ccaaf50023",
@@ -532,8 +532,8 @@
     ],
     "url": "https://careers.datadoghq.com/detail/7137624/?gh_jid=7137624",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "0d371f881e57a997",
@@ -556,8 +556,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Drata/009d1981-ea70-4ab7-a439-90a9d4361d02",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "5e55e42dec317fd9",
@@ -580,8 +580,8 @@
     ],
     "url": "https://www.druva.com/why-druva/explore/careers/jobs/8747431002/?gh_jid=8747431002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "18e55ee3891556d0",
@@ -604,8 +604,8 @@
     ],
     "url": "https://www.druva.com/why-druva/explore/careers/jobs/8324608002/?gh_jid=8324608002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "324513c5091a5995",
@@ -628,8 +628,8 @@
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8233841&gh_jid=8233841",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "6c56c54a11a0e361",
@@ -653,8 +653,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8084124",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "c983eb1bdfbb8147",
@@ -679,8 +679,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/5850324",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "9b3b086d37f35c8a",
@@ -704,8 +704,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8084123",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "635cf0e07f8e5dad",
@@ -730,8 +730,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8084127",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "3f2af985946b6959",
@@ -753,8 +753,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6206573004",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "58ef4079196e002e",
@@ -776,8 +776,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6206590004",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "60b34be1789e2c09",
@@ -799,8 +799,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/intercom/jobs/7994073",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "fd9e6e3d841508f1",
@@ -822,8 +822,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Kustomer/348cc65f-ca70-4db6-b7e9-c8523a25b9b8",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "e17052c67cdf0072",
@@ -846,8 +846,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/mercury/jobs/6167220004",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "1233e4cf9b8493e1",
@@ -869,8 +869,8 @@
     ],
     "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7306978",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "7451dd5fdc9798b0",
@@ -892,8 +892,8 @@
     ],
     "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "cd678b72439545d3",
@@ -915,8 +915,8 @@
     ],
     "url": "https://www.okta.com/company/careers/opportunity/7013711?gh_jid=7013711",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "9c5aa44d92501bc4",
@@ -938,8 +938,8 @@
     ],
     "url": "https://www.okta.com/company/careers/opportunity/7013622?gh_jid=7013622",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "3c1d5d81aed37dae",
@@ -961,8 +961,8 @@
     ],
     "url": "https://www.okta.com/company/careers/opportunity/7013739?gh_jid=7013739",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "88dede9a6a101c22",
@@ -984,8 +984,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Ramp/83eec8f4-c37d-43c9-860b-27223eee3643",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "6f1cfd7ac6794d82",
@@ -1008,8 +1008,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "a3697dfcd1f175bb",
@@ -1031,8 +1031,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "e1d5e4c67049d5f1",
@@ -1055,8 +1055,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4741087005",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "dbd730a062e44ad5",
@@ -1079,8 +1079,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Snowflake/a9b5d21f-3ed9-4158-9b05-76e65736a5da",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "3c4d9d261e24b6fe",
@@ -1103,8 +1103,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Snowflake/c9650a88-aeb8-4696-bc88-357d2bc7caaa",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "c0dbc88fe0510441",
@@ -1127,8 +1127,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Snowflake/117c0d64-ab16-4041-b82a-af7b6084305e",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "785825f8af4525a3",
@@ -1151,8 +1151,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Snowflake/3d6cd7d6-67a5-4e17-b6ae-58abdf8ba0df",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "c6bfc02a9c847a08",
@@ -1174,8 +1174,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Snowflake/a4753822-7581-4cf3-8fcc-856f54d684b0",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "217d12e67c19672d",
@@ -1198,8 +1198,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/tanium/jobs/6531353",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "8ca505dba64123fb",
@@ -1222,8 +1222,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/twilio/jobs/7481689",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "e1d00e58719f21c2",
@@ -1246,8 +1246,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/webflow/jobs/7203091",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "d85922949680fcef",
@@ -1269,8 +1269,8 @@
     ],
     "url": "https://abnormal.ai/careers/jobs/7894691003?gh_jid=7894691003",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "bce6f1676f612cc9",
@@ -1292,8 +1292,8 @@
     ],
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8199399002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "2a1310e4971612ac",
@@ -1315,8 +1315,8 @@
     ],
     "url": "https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "c95c53e15adc4c78",
@@ -1338,8 +1338,8 @@
     ],
     "url": "https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "bce25cbdeda0e167",
@@ -1361,8 +1361,8 @@
     ],
     "url": "https://careers.datadoghq.com/detail/8053714/?gh_jid=8053714",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "aa0a8100db97ccf0",
@@ -1385,8 +1385,8 @@
     ],
     "url": "https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "234c2bfd23100892",
@@ -1409,8 +1409,8 @@
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8161887&gh_jid=8161887",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "2557dff4e9bec2d3",
@@ -1433,8 +1433,8 @@
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8080876&gh_jid=8080876",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "8069d79decc63a1e",
@@ -1458,8 +1458,8 @@
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "b19a5f4372405684",
@@ -1483,8 +1483,8 @@
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "5ccafe96a0ac1337",
@@ -1506,8 +1506,8 @@
     ],
     "url": "https://boards.greenhouse.io/faire/jobs/8872787002?gh_jid=8872787002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "38735da069b158e2",
@@ -1529,8 +1529,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8742716002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "b00b803cd38e4789",
@@ -1553,8 +1553,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8792585002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "91a82ed7bf31a35b",
@@ -1577,8 +1577,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/gusto/jobs/8227773",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "a13ad4d8f6a7bca8",
@@ -1602,8 +1602,8 @@
     ],
     "url": "https://www.samsara.com/company/careers/roles/7624120?gh_jid=7624120",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "fb76f941cd907044",
@@ -1627,8 +1627,8 @@
     ],
     "url": "https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "211670e60e2f1891",
@@ -1652,8 +1652,8 @@
     ],
     "url": "https://www.samsara.com/company/careers/roles/7311741?gh_jid=7311741",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "658c58924fe2eea2",
@@ -1677,8 +1677,8 @@
     ],
     "url": "https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "7ebd6732822db04d",
@@ -1702,8 +1702,8 @@
     ],
     "url": "https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "b83bc7eb78fe16c1",
@@ -1728,8 +1728,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Snowflake/2bca874d-6c17-4bc9-ab05-ad230fde040a",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "18f972858f00676e",
@@ -1754,8 +1754,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Snowflake/d1823395-6522-4b35-bfbf-365ad939529f",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "6f04b770b560784e",
@@ -1777,8 +1777,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "7b6ebbf413616757",
@@ -1800,8 +1800,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Uipath/75345dfc-f069-481f-8c74-15c8c7d9e9de",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "1a1e4c07118002a9",
@@ -1823,8 +1823,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Uipath/0f1c0517-a967-4104-a25e-90219fadd3cf",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "9931f07ffd5ddf7e",
@@ -1846,8 +1846,8 @@
     ],
     "url": "http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "d10b272bd72ca590",
@@ -1870,8 +1870,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/braze/jobs/8201757",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "c66da0ff00dabd1d",
@@ -1893,8 +1893,8 @@
     ],
     "url": "https://careers.datadoghq.com/detail/8154643/?gh_jid=8154643",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "b07081068588b962",
@@ -1916,8 +1916,8 @@
     ],
     "url": "https://careers.datadoghq.com/detail/8109441/?gh_jid=8109441",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "a138f63207d17304",
@@ -1940,8 +1940,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "0677cbc05bafc2e6",
@@ -1964,8 +1964,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "c287030a8d76f88a",
@@ -1989,8 +1989,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8790680002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "031c1b9315e7901f",
@@ -2014,8 +2014,8 @@
     ],
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8790317002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "48469120b93b72bf",
@@ -2038,8 +2038,8 @@
     ],
     "url": "https://www.okta.com/company/careers/opportunity/7607557?gh_jid=7607557",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "d2c2b2eb7d4a135e",
@@ -2061,8 +2061,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Planhat/7ca188de-4f4b-43aa-969d-4a59a2243067",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "3867b15186314c67",
@@ -2085,8 +2085,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Ramp/100c09be-f179-406f-893e-8a212f32c642",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "263ba766d11dfd69",
@@ -2108,8 +2108,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Snowflake/86da04ed-74b3-4cde-aa86-98cb580f63a6",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "c1be4912bd5e3788",
@@ -2131,8 +2131,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Snowflake/92fbaae5-671f-4b4e-bc4e-51dd8c8781f0",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "c4825f8cc948df55",
@@ -2154,8 +2154,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Snowflake/ff8fe152-e6c9-46d1-bdc7-ea414ea9d436",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "b00db807b609c3c0",
@@ -2178,8 +2178,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "24fe07e165f891fd",
@@ -2202,8 +2202,8 @@
     ],
     "url": "https://jobs.ashbyhq.com/Uipath/04456834-b035-4bcf-8515-e8fc7f111571",
     "source": "ashby",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "7463fda0c15bf452",
@@ -2225,8 +2225,8 @@
     ],
     "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "19cfc1b0382dc322",
@@ -2248,8 +2248,8 @@
     ],
     "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "e7a42fdf55c134ef",
@@ -2271,8 +2271,8 @@
     ],
     "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   },
   {
     "id": "19c15c5042274b7e",
@@ -2294,7 +2294,7 @@
     ],
     "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002",
     "source": "greenhouse",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07"
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
   }
 ]
