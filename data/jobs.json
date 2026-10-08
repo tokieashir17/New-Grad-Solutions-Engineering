@@ -1,28 +1,5 @@
 [
   {
-    "id": "309a6aeeb62c454a",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "Chicago, Illinois, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
-    "source": "greenhouse",
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-08"
-  },
-  {
     "id": "203152b05ead11b5",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -41,6 +18,29 @@
       "Forward Deployed Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
+    "source": "greenhouse",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
+  },
+  {
+    "id": "309a6aeeb62c454a",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "Chicago, Illinois, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
     "source": "greenhouse",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08"
@@ -232,29 +232,6 @@
     "last_seen": "2026-10-08"
   },
   {
-    "id": "99c45cbcf84eb37f",
-    "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
-    "category": "Implementation Engineering",
-    "location": "Salt Lake City, Utah, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-08"
-  },
-  {
     "id": "3227ee1e5e901b5c",
     "company": "Brex",
     "title": "Implementation Consultant I, Commercial",
@@ -296,6 +273,29 @@
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
+  },
+  {
+    "id": "99c45cbcf84eb37f",
+    "company": "Brex",
+    "title": "Implementation Consultant I, Commercial",
+    "category": "Implementation Engineering",
+    "location": "Salt Lake City, Utah, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
     "source": "greenhouse",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08"
@@ -396,29 +396,6 @@
     "last_seen": "2026-10-08"
   },
   {
-    "id": "fa2318fc10251949",
-    "company": "Brex",
-    "title": "Outbound Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-08"
-  },
-  {
     "id": "b8a5925dfc5593b8",
     "company": "Brex",
     "title": "Outbound Sales Development Representative",
@@ -437,6 +414,29 @@
       "Sales Development Representative"
     ],
     "url": "https://www.brex.com/careers/8814410002?gh_jid=8814410002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
+  },
+  {
+    "id": "fa2318fc10251949",
+    "company": "Brex",
+    "title": "Outbound Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
     "source": "greenhouse",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08"
@@ -1389,30 +1389,6 @@
     "last_seen": "2026-10-08"
   },
   {
-    "id": "234c2bfd23100892",
-    "company": "Elastic",
-    "title": "Customer Architect",
-    "category": "Sales Engineering",
-    "location": "United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 11,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8161887&gh_jid=8161887",
-    "source": "greenhouse",
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-08"
-  },
-  {
     "id": "2557dff4e9bec2d3",
     "company": "Elastic",
     "title": "Partner Solutions Architect",
@@ -1482,29 +1458,6 @@
       "1+ years"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
-    "source": "greenhouse",
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-08"
-  },
-  {
-    "id": "5ccafe96a0ac1337",
-    "company": "Faire",
-    "title": "Sales Engineer",
-    "category": "Sales Engineering",
-    "location": "New York City, NY; San Francisco, CA",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 4,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://boards.greenhouse.io/faire/jobs/8872787002?gh_jid=8872787002",
     "source": "greenhouse",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08"
@@ -1702,6 +1655,29 @@
     ],
     "url": "https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363",
     "source": "greenhouse",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
+  },
+  {
+    "id": "cf1184b5dda087ab",
+    "company": "ServiceNow",
+    "title": "AVP Technical Sales Leader – Identity COE",
+    "category": "Sales Engineering",
+    "location": "New York, NEW YORK, US | Remote",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Engineering"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Servicenow/744000154486659",
+    "source": "smartrecruiters",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08"
   },
@@ -1920,30 +1896,6 @@
     "last_seen": "2026-10-08"
   },
   {
-    "id": "0677cbc05bafc2e6",
-    "company": "Flexport",
-    "title": "Solutions Consultant",
-    "category": "Solutions Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
-    "source": "greenhouse",
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-08"
-  },
-  {
     "id": "a138f63207d17304",
     "company": "Flexport",
     "title": "Solutions Consultant",
@@ -1963,6 +1915,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
+    "source": "greenhouse",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
+  },
+  {
+    "id": "0677cbc05bafc2e6",
+    "company": "Flexport",
+    "title": "Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "San Francisco, California, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering",
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
     "source": "greenhouse",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08"
@@ -2161,7 +2137,7 @@
   {
     "id": "24fe07e165f891fd",
     "company": "UiPath",
-    "title": "Sales Engineer - Healthcare, Provider",
+    "title": "Sales Engineer - Healthcare, Payor",
     "category": "Solutions Engineering",
     "location": "Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-South Carolina",
     "remote": true,
@@ -2179,29 +2155,6 @@
     ],
     "url": "https://jobs.ashbyhq.com/Uipath/04456834-b035-4bcf-8515-e8fc7f111571",
     "source": "ashby",
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-08"
-  },
-  {
-    "id": "7463fda0c15bf452",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "Salt Lake City, Utah, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
-    "source": "greenhouse",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08"
   },
@@ -2224,6 +2177,29 @@
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
+  },
+  {
+    "id": "7463fda0c15bf452",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "Salt Lake City, Utah, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
     "source": "greenhouse",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08"
