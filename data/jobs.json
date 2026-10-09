@@ -1,5 +1,28 @@
 [
   {
+    "id": "b31561ac87ff327e",
+    "company": "Coinbase",
+    "title": "Forward Deployed Engineer Intern (HR Technology)",
+    "category": "Forward Deployed Engineering",
+    "location": "Hybrid - New York, NY",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 13,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
+    "source": "greenhouse",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09"
+  },
+  {
     "id": "203152b05ead11b5",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -41,29 +64,6 @@
       "Forward Deployed Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
-    "source": "greenhouse",
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09"
-  },
-  {
-    "id": "2a596470c42af07a",
-    "company": "GitLab",
-    "title": "Forward Deployed Engineer, AI and Agentic SDLC",
-    "category": "Forward Deployed Engineering",
-    "location": "Remote, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8517171002",
     "source": "greenhouse",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-09"
@@ -139,29 +139,6 @@
     "last_seen": "2026-10-09"
   },
   {
-    "id": "5b424246b42b4535",
-    "company": "ServiceNow",
-    "title": "Forward Deployed Solution Engineer – Applied AI FDE",
-    "category": "Forward Deployed Engineering",
-    "location": "Santa Clara, California, US",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://jobs.smartrecruiters.com/Servicenow/744000153790887",
-    "source": "smartrecruiters",
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09"
-  },
-  {
     "id": "cb192fe74d342bbb",
     "company": "ServiceNow",
     "title": "Forward Deployed Solution Engineer – Applied AI FDE",
@@ -232,52 +209,6 @@
     "last_seen": "2026-10-09"
   },
   {
-    "id": "99c45cbcf84eb37f",
-    "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
-    "category": "Implementation Engineering",
-    "location": "Salt Lake City, Utah, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09"
-  },
-  {
-    "id": "78d131ab5e322761",
-    "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
-    "category": "Implementation Engineering",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09"
-  },
-  {
     "id": "3227ee1e5e901b5c",
     "company": "Brex",
     "title": "Implementation Consultant I, Commercial",
@@ -319,6 +250,52 @@
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09"
+  },
+  {
+    "id": "99c45cbcf84eb37f",
+    "company": "Brex",
+    "title": "Implementation Consultant I, Commercial",
+    "category": "Implementation Engineering",
+    "location": "Salt Lake City, Utah, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09"
+  },
+  {
+    "id": "78d131ab5e322761",
+    "company": "Brex",
+    "title": "Implementation Consultant I, Commercial",
+    "category": "Implementation Engineering",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
     "source": "greenhouse",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-09"
@@ -396,29 +373,6 @@
     "last_seen": "2026-10-09"
   },
   {
-    "id": "fa2318fc10251949",
-    "company": "Brex",
-    "title": "Outbound Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09"
-  },
-  {
     "id": "b8a5925dfc5593b8",
     "company": "Brex",
     "title": "Outbound Sales Development Representative",
@@ -437,6 +391,29 @@
       "Sales Development Representative"
     ],
     "url": "https://www.brex.com/careers/8814410002?gh_jid=8814410002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09"
+  },
+  {
+    "id": "fa2318fc10251949",
+    "company": "Brex",
+    "title": "Outbound Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
     "source": "greenhouse",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-09"
@@ -508,29 +485,6 @@
       "Sales Development Representative"
     ],
     "url": "https://careers.datadoghq.com/detail/7003239/?gh_jid=7003239",
-    "source": "greenhouse",
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09"
-  },
-  {
-    "id": "b11ee3ccaaf50023",
-    "company": "Datadog",
-    "title": "Sales Development Representative - Denver",
-    "category": "Sales Development Representative",
-    "location": "Denver, Colorado, USA",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://careers.datadoghq.com/detail/7137624/?gh_jid=7137624",
     "source": "greenhouse",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-09"
@@ -1486,36 +1440,12 @@
     "last_seen": "2026-10-09"
   },
   {
-    "id": "b00b803cd38e4789",
-    "company": "GitLab",
-    "title": "Field CTO, Public Sector",
-    "category": "Sales Engineering",
-    "location": "Remote, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8792585002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09"
-  },
-  {
     "id": "91a82ed7bf31a35b",
     "company": "Gusto",
     "title": "Future Opportunities: Sales Onboarding Advocate",
     "category": "Sales Engineering",
     "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid",
-    "remote": false,
+    "remote": true,
     "early_career": true,
     "experience": {
       "min_years": 1,
@@ -1523,7 +1453,7 @@
       "is_plus": true,
       "is_required": true
     },
-    "score": 14,
+    "score": 16,
     "signals": [
       "Sales Engineering",
       "1+ years"
@@ -1994,6 +1924,30 @@
     "last_seen": "2026-10-09"
   },
   {
+    "id": "0b4bbeec2b8d96a0",
+    "company": "New Relic",
+    "title": "GTM AI Engineer (Automation & AI)",
+    "category": "Solutions Engineering",
+    "location": "Arlington, Virginia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Dallas, Texas, USA; Denver, Colorado, USA; Detroit, Michigan, USA; Kansas City, Missouri, USA; Newark, New Jersey, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA",
+    "remote": true,
+    "early_career": true,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 16,
+    "signals": [
+      "Solutions Engineering",
+      "1+ years"
+    ],
+    "url": "https://job-boards.greenhouse.io/newrelic/jobs/5436245008",
+    "source": "greenhouse",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09"
+  },
+  {
     "id": "48469120b93b72bf",
     "company": "Okta",
     "title": "Solutions Engineer, Okta (North East)",
@@ -2205,29 +2159,6 @@
     "last_seen": "2026-10-09"
   },
   {
-    "id": "e7a42fdf55c134ef",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "New York, New York, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09"
-  },
-  {
     "id": "19c15c5042274b7e",
     "company": "Brex",
     "title": "Technical Consultant I",
@@ -2246,6 +2177,29 @@
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09"
+  },
+  {
+    "id": "e7a42fdf55c134ef",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "New York, New York, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
     "source": "greenhouse",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-09"
