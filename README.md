@@ -75,7 +75,7 @@
 |---|---|---|---|---|---|
 | Planhat | Customer Success Associate \| New York | New York | Not stated | Yes | [Apply](https://jobs.ashbyhq.com/Planhat/80cac439-9e0d-4dda-99b2-481330ce8d62) |
 | GitLab | Forward Deployed Engineer, AI and Agentic SDLC | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8517171002) |
-| Hex | Product Expert | New York; Remote - US; San Francisco | 2+ yrs | Review | [Apply](https://jobs.ashbyhq.com/Hex/b2c81c35-8f47-46f0-b0c7-cab734109c19) |
+| Hex | Product Expert | New York; Remote | 2+ yrs | Review | [Apply](https://jobs.ashbyhq.com/Hex/b2c81c35-8f47-46f0-b0c7-cab734109c19) |
 | ServiceNow | Forward Deployed Solution Engineer – Applied AI FDE | Santa Clara, California, US \| Remote | Not stated | Review | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000154154044) |
 | Toast | GTM Engineer - Sales Workflow Automation, Revenue Intelligence | Remote, US | Not stated | Review | [Apply](https://careers.toasttab.com/jobs?gh_jid=7947082) |
 | Flexport | Rotational Development Program | New York City, New York, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8224715) |
