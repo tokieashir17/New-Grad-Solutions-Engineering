@@ -60,14 +60,14 @@
 | Block | Software Engineer, Finance Applications | Bay Area, CA, United States of America | Solutions Engineering | Not stated | [Apply](http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008) |
 | Brex | Enterprise Implementation Consultant | Salt Lake City, Utah, United States | Implementation Engineering | Not stated | [Apply](https://www.brex.com/careers/8152968002?gh_jid=8152968002) |
 | Brex | Implementation Consultant I, Commercial | San Francisco, California, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536968002?gh_jid=8536968002) |
-| Brex | Implementation Consultant I, Commercial | Seattle, Washington, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Brex | Implementation Consultant I, Commercial | New York, New York, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
 | Brex | Implementation Consultant I, Commercial | Salt Lake City, Utah, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
+| Brex | Implementation Consultant I, Commercial | Seattle, Washington, United States | Implementation Engineering | 2+ yrs (preferred) | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Brex | Outbound Sales Development Representative | Salt Lake City, Utah, United States | Sales Development Representative | Not stated | [Apply](https://www.brex.com/careers/8814628002?gh_jid=8814628002) |
 | Brex | Outbound Sales Development Representative | San Francisco, California, United States | Sales Development Representative | Not stated | [Apply](https://www.brex.com/careers/8814410002?gh_jid=8814410002) |
 | Brex | Outbound Sales Development Representative | Seattle, Washington, United States | Sales Development Representative | Not stated | [Apply](https://www.brex.com/careers/8831517002?gh_jid=8831517002) |
-| Brex | Technical Consultant I | New York, New York, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579199002?gh_jid=8579199002) |
 | Brex | Technical Consultant I | Salt Lake City, Utah, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579215002?gh_jid=8579215002) |
+| Brex | Technical Consultant I | Seattle, Washington, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579204002?gh_jid=8579204002) |
 
 ## Forward Deployed Engineering
 
@@ -88,9 +88,9 @@
 |---|---|---|---|---|---|
 | Brex | Enterprise Implementation Consultant | Salt Lake City, Utah, United States | Not stated | Review | [Apply](https://www.brex.com/careers/8152968002?gh_jid=8152968002) |
 | Brex | Implementation Consultant I, Commercial | San Francisco, California, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536968002?gh_jid=8536968002) |
-| Brex | Implementation Consultant I, Commercial | Seattle, Washington, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Brex | Implementation Consultant I, Commercial | New York, New York, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
 | Brex | Implementation Consultant I, Commercial | Salt Lake City, Utah, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
+| Brex | Implementation Consultant I, Commercial | Seattle, Washington, United States | 2+ yrs (preferred) | Review | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 
 ## Sales Development Representative
 
@@ -187,10 +187,10 @@
 
 | Company | Role | Location | Experience | Early Career | Apply |
 |---|---|---|---|---|---|
-| Brex | Technical Consultant I | New York, New York, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579199002?gh_jid=8579199002) |
 | Brex | Technical Consultant I | Salt Lake City, Utah, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579215002?gh_jid=8579215002) |
-| Brex | Technical Consultant I | San Francisco, California, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
 | Brex | Technical Consultant I | Seattle, Washington, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579204002?gh_jid=8579204002) |
+| Brex | Technical Consultant I | San Francisco, California, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
+| Brex | Technical Consultant I | New York, New York, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579199002?gh_jid=8579199002) |
 
 ---
 

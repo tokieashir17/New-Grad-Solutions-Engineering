@@ -232,29 +232,6 @@
     "last_seen": "2026-10-10"
   },
   {
-    "id": "78d131ab5e322761",
-    "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
-    "category": "Implementation Engineering",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-10",
-    "last_seen": "2026-10-10"
-  },
-  {
     "id": "5e1ce63c4a672d35",
     "company": "Brex",
     "title": "Implementation Consultant I, Commercial",
@@ -296,6 +273,29 @@
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  {
+    "id": "78d131ab5e322761",
+    "company": "Brex",
+    "title": "Implementation Consultant I, Commercial",
+    "category": "Implementation Engineering",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
     "source": "greenhouse",
     "first_seen": "2026-10-10",
     "last_seen": "2026-10-10"
@@ -2113,29 +2113,6 @@
     "last_seen": "2026-10-10"
   },
   {
-    "id": "e7a42fdf55c134ef",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "New York, New York, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-10",
-    "last_seen": "2026-10-10"
-  },
-  {
     "id": "7463fda0c15bf452",
     "company": "Brex",
     "title": "Technical Consultant I",
@@ -2154,6 +2131,29 @@
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10"
+  },
+  {
+    "id": "19cfc1b0382dc322",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
     "source": "greenhouse",
     "first_seen": "2026-10-10",
     "last_seen": "2026-10-10"
@@ -2182,11 +2182,11 @@
     "last_seen": "2026-10-10"
   },
   {
-    "id": "19cfc1b0382dc322",
+    "id": "e7a42fdf55c134ef",
     "company": "Brex",
     "title": "Technical Consultant I",
     "category": "Technical Consulting",
-    "location": "Seattle, Washington, United States",
+    "location": "New York, New York, United States",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -2199,7 +2199,7 @@
     "signals": [
       "Technical Consulting"
     ],
-    "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
+    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
     "source": "greenhouse",
     "first_seen": "2026-10-10",
     "last_seen": "2026-10-10"
