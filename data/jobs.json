@@ -23,29 +23,6 @@
     "last_seen": "2026-10-13"
   },
   {
-    "id": "203152b05ead11b5",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "New York City, New York, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
-    "source": "greenhouse",
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13"
-  },
-  {
     "id": "309a6aeeb62c454a",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -64,6 +41,29 @@
       "Forward Deployed Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
+    "source": "greenhouse",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13"
+  },
+  {
+    "id": "203152b05ead11b5",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "New York City, New York, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
     "source": "greenhouse",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13"
@@ -255,29 +255,6 @@
     "last_seen": "2026-10-13"
   },
   {
-    "id": "3227ee1e5e901b5c",
-    "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
-    "category": "Implementation Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13"
-  },
-  {
     "id": "5e1ce63c4a672d35",
     "company": "Brex",
     "title": "Implementation Consultant I, Commercial",
@@ -296,6 +273,29 @@
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13"
+  },
+  {
+    "id": "3227ee1e5e901b5c",
+    "company": "Brex",
+    "title": "Implementation Consultant I, Commercial",
+    "category": "Implementation Engineering",
+    "location": "San Francisco, California, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
     "source": "greenhouse",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13"
@@ -485,6 +485,29 @@
       "Sales Development Representative"
     ],
     "url": "https://careers.datadoghq.com/detail/7003239/?gh_jid=7003239",
+    "source": "greenhouse",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13"
+  },
+  {
+    "id": "162a632bfcc3e52a",
+    "company": "Datadog",
+    "title": "Sales Development Representative - Boston",
+    "category": "Sales Development Representative",
+    "location": "Boston, Massachusetts, USA",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://careers.datadoghq.com/detail/6741571/?gh_jid=6741571",
     "source": "greenhouse",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13"
@@ -757,6 +780,75 @@
     "last_seen": "2026-10-13"
   },
   {
+    "id": "9297adcdcdfcf1cf",
+    "company": "Kong",
+    "title": "Account Development Representative (Austin, TX) (Hybrid)",
+    "category": "Sales Development Representative",
+    "location": "Texas, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://jobs.ashbyhq.com/Kong/d93f1b84-9d88-40a1-aff1-2cd456e5cdfd",
+    "source": "ashby",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13"
+  },
+  {
+    "id": "a3ea3b0aa0cb2f06",
+    "company": "Kong",
+    "title": "Account Development Representative (Chicago, IL) (Hybrid)",
+    "category": "Sales Development Representative",
+    "location": "Illinois, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://jobs.ashbyhq.com/Kong/813ebdbc-c0df-4140-bf4c-184cda1a3a53",
+    "source": "ashby",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13"
+  },
+  {
+    "id": "67d6f31c9378b08b",
+    "company": "Kong",
+    "title": "Account Development Representative (Fed)",
+    "category": "Sales Development Representative",
+    "location": "Virginia, United States; Remote",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://jobs.ashbyhq.com/Kong/a215aeeb-bd34-4724-b89c-dc8a2efe8de0",
+    "source": "ashby",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13"
+  },
+  {
     "id": "fd9e6e3d841508f1",
     "company": "Kustomer",
     "title": "Sales Development Representative",
@@ -804,29 +896,6 @@
     "last_seen": "2026-10-13"
   },
   {
-    "id": "1233e4cf9b8493e1",
-    "company": "Netskope",
-    "title": "Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Saint Louis, Missouri, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 10,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7306978",
-    "source": "greenhouse",
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13"
-  },
-  {
     "id": "7451dd5fdc9798b0",
     "company": "Netskope",
     "title": "Sales Development Representative",
@@ -845,6 +914,29 @@
       "Sales Development Representative"
     ],
     "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207",
+    "source": "greenhouse",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13"
+  },
+  {
+    "id": "1233e4cf9b8493e1",
+    "company": "Netskope",
+    "title": "Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Saint Louis, Missouri, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 10,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7306978",
     "source": "greenhouse",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13"
@@ -1367,31 +1459,6 @@
     "last_seen": "2026-10-13"
   },
   {
-    "id": "b19a5f4372405684",
-    "company": "Elastic",
-    "title": "Partner Solutions Architect - Public Sector",
-    "category": "Sales Engineering",
-    "location": "Washington, DC, United States",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 15,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting",
-      "1+ years"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
-    "source": "greenhouse",
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13"
-  },
-  {
     "id": "8069d79decc63a1e",
     "company": "Elastic",
     "title": "Partner Solutions Architect - Public Sector",
@@ -1412,6 +1479,31 @@
       "1+ years"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
+    "source": "greenhouse",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13"
+  },
+  {
+    "id": "b19a5f4372405684",
+    "company": "Elastic",
+    "title": "Partner Solutions Architect - Public Sector",
+    "category": "Sales Engineering",
+    "location": "Washington, DC, United States",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 15,
+    "signals": [
+      "Sales Engineering",
+      "Technical Consulting",
+      "1+ years"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
     "source": "greenhouse",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13"
@@ -1780,29 +1872,6 @@
     "last_seen": "2026-10-13"
   },
   {
-    "id": "c66da0ff00dabd1d",
-    "company": "Datadog",
-    "title": "Technical Escalations Engineer 2 (Revenue and Cost Management) - US-East",
-    "category": "Solutions Engineering",
-    "location": "Boston, Massachusetts, USA; New York, New York, USA",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/8154643/?gh_jid=8154643",
-    "source": "greenhouse",
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13"
-  },
-  {
     "id": "b07081068588b962",
     "company": "Datadog",
     "title": "Technical Support Engineer 2, Premier - NYC (Japanese Speaking)",
@@ -2089,11 +2158,11 @@
     "last_seen": "2026-10-13"
   },
   {
-    "id": "7463fda0c15bf452",
+    "id": "e7a42fdf55c134ef",
     "company": "Brex",
     "title": "Technical Consultant I",
     "category": "Technical Consulting",
-    "location": "Salt Lake City, Utah, United States",
+    "location": "New York, New York, United States",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -2106,7 +2175,7 @@
     "signals": [
       "Technical Consulting"
     ],
-    "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
+    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
     "source": "greenhouse",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13"
@@ -2135,11 +2204,11 @@
     "last_seen": "2026-10-13"
   },
   {
-    "id": "e7a42fdf55c134ef",
+    "id": "7463fda0c15bf452",
     "company": "Brex",
     "title": "Technical Consultant I",
     "category": "Technical Consulting",
-    "location": "New York, New York, United States",
+    "location": "Salt Lake City, Utah, United States",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -2152,7 +2221,7 @@
     "signals": [
       "Technical Consulting"
     ],
-    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
+    "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
     "source": "greenhouse",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13"
