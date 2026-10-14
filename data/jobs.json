@@ -69,29 +69,6 @@
     "last_seen": "2026-10-14"
   },
   {
-    "id": "743c2630a9e033ce",
-    "company": "Hex",
-    "title": "Product Expert",
-    "category": "Forward Deployed Engineering",
-    "location": "New York; Remote",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://jobs.ashbyhq.com/Hex/b2c81c35-8f47-46f0-b0c7-cab734109c19",
-    "source": "ashby",
-    "first_seen": "2026-10-14",
-    "last_seen": "2026-10-14"
-  },
-  {
     "id": "9ddd75f6811a1036",
     "company": "Planhat",
     "title": "Customer Success Associate | New York",
@@ -942,6 +919,29 @@
     "last_seen": "2026-10-14"
   },
   {
+    "id": "62cf104d6ea58ce7",
+    "company": "Okta",
+    "title": "Sales Development Representative, West",
+    "category": "Sales Development Representative",
+    "location": "San Francisco, California",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.okta.com/company/careers/opportunity/7013572?gh_jid=7013572",
+    "source": "greenhouse",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14"
+  },
+  {
     "id": "d1b29c5ca3b233e4",
     "company": "PagerDuty",
     "title": "Sales Development Representative",
@@ -1414,31 +1414,6 @@
     "last_seen": "2026-10-14"
   },
   {
-    "id": "b19a5f4372405684",
-    "company": "Elastic",
-    "title": "Partner Solutions Architect - Public Sector",
-    "category": "Sales Engineering",
-    "location": "Washington, DC, United States",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 15,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting",
-      "1+ years"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
-    "source": "greenhouse",
-    "first_seen": "2026-10-14",
-    "last_seen": "2026-10-14"
-  },
-  {
     "id": "8069d79decc63a1e",
     "company": "Elastic",
     "title": "Partner Solutions Architect - Public Sector",
@@ -1459,6 +1434,31 @@
       "1+ years"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
+    "source": "greenhouse",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14"
+  },
+  {
+    "id": "b19a5f4372405684",
+    "company": "Elastic",
+    "title": "Partner Solutions Architect - Public Sector",
+    "category": "Sales Engineering",
+    "location": "Washington, DC, United States",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 15,
+    "signals": [
+      "Sales Engineering",
+      "Technical Consulting",
+      "1+ years"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
     "source": "greenhouse",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14"
@@ -2090,29 +2090,6 @@
     "last_seen": "2026-10-14"
   },
   {
-    "id": "7463fda0c15bf452",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "Salt Lake City, Utah, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-14",
-    "last_seen": "2026-10-14"
-  },
-  {
     "id": "19cfc1b0382dc322",
     "company": "Brex",
     "title": "Technical Consultant I",
@@ -2177,6 +2154,29 @@
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14"
+  },
+  {
+    "id": "7463fda0c15bf452",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "Salt Lake City, Utah, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
     "source": "greenhouse",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14"
