@@ -23,29 +23,6 @@
     "last_seen": "2026-10-15"
   },
   {
-    "id": "309a6aeeb62c454a",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "Chicago, Illinois, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
-    "source": "greenhouse",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15"
-  },
-  {
     "id": "203152b05ead11b5",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -64,6 +41,29 @@
       "Forward Deployed Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
+    "source": "greenhouse",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15"
+  },
+  {
+    "id": "309a6aeeb62c454a",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "Chicago, Illinois, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
     "source": "greenhouse",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15"
@@ -186,11 +186,11 @@
     "last_seen": "2026-10-15"
   },
   {
-    "id": "3227ee1e5e901b5c",
+    "id": "99c45cbcf84eb37f",
     "company": "Brex",
     "title": "Implementation Consultant I, Commercial",
     "category": "Implementation Engineering",
-    "location": "San Francisco, California, United States",
+    "location": "Salt Lake City, Utah, United States",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -203,7 +203,7 @@
     "signals": [
       "Implementation Engineering"
     ],
-    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
+    "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
     "source": "greenhouse",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15"
@@ -232,6 +232,29 @@
     "last_seen": "2026-10-15"
   },
   {
+    "id": "3227ee1e5e901b5c",
+    "company": "Brex",
+    "title": "Implementation Consultant I, Commercial",
+    "category": "Implementation Engineering",
+    "location": "San Francisco, California, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15"
+  },
+  {
     "id": "78d131ab5e322761",
     "company": "Brex",
     "title": "Implementation Consultant I, Commercial",
@@ -250,29 +273,6 @@
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15"
-  },
-  {
-    "id": "99c45cbcf84eb37f",
-    "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
-    "category": "Implementation Engineering",
-    "location": "Salt Lake City, Utah, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
     "source": "greenhouse",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15"
@@ -850,29 +850,6 @@
     "last_seen": "2026-10-15"
   },
   {
-    "id": "cd678b72439545d3",
-    "company": "Okta",
-    "title": "Sales Development Representative, Bellevue",
-    "category": "Sales Development Representative",
-    "location": "Bellevue, Washington",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.okta.com/company/careers/opportunity/7013711?gh_jid=7013711",
-    "source": "greenhouse",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15"
-  },
-  {
     "id": "9c5aa44d92501bc4",
     "company": "Okta",
     "title": "Sales Development Representative, Central",
@@ -937,30 +914,6 @@
       "Sales Development Representative"
     ],
     "url": "https://www.okta.com/company/careers/opportunity/7013572?gh_jid=7013572",
-    "source": "greenhouse",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15"
-  },
-  {
-    "id": "d1b29c5ca3b233e4",
-    "company": "PagerDuty",
-    "title": "Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Remote (USA)",
-    "remote": true,
-    "early_career": true,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 16,
-    "signals": [
-      "Sales Development Representative",
-      "1+ years"
-    ],
-    "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6217534004",
     "source": "greenhouse",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15"
@@ -1827,6 +1780,29 @@
     "last_seen": "2026-10-15"
   },
   {
+    "id": "31b63b70c61d9780",
+    "company": "Databricks",
+    "title": "Solutions Engineer",
+    "category": "Solutions Engineering",
+    "location": "Chicago, Illinois",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 11,
+    "signals": [
+      "Solutions Engineering"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15"
+  },
+  {
     "id": "b07081068588b962",
     "company": "Datadog",
     "title": "Technical Support Engineer 2, Premier - NYC (Japanese Speaking)",
@@ -2090,52 +2066,6 @@
     "last_seen": "2026-10-15"
   },
   {
-    "id": "19cfc1b0382dc322",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15"
-  },
-  {
-    "id": "e7a42fdf55c134ef",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "New York, New York, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15"
-  },
-  {
     "id": "19c15c5042274b7e",
     "company": "Brex",
     "title": "Technical Consultant I",
@@ -2159,6 +2089,29 @@
     "last_seen": "2026-10-15"
   },
   {
+    "id": "19cfc1b0382dc322",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15"
+  },
+  {
     "id": "7463fda0c15bf452",
     "company": "Brex",
     "title": "Technical Consultant I",
@@ -2177,6 +2130,29 @@
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15"
+  },
+  {
+    "id": "e7a42fdf55c134ef",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "New York, New York, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
     "source": "greenhouse",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15"
