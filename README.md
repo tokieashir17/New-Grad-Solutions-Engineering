@@ -2,7 +2,7 @@
 
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Engineering, and related roles.
 
-**Last updated:** 2026-10-14  
+**Last updated:** 2026-10-15  
 **Matching jobs:** 92
 
 ## Categories
@@ -39,8 +39,8 @@
 | PagerDuty | Sales Development Representative | Remote (USA) | Sales Development Representative | 2+ yrs (preferred) | [Apply](https://job-boards.greenhouse.io/pagerduty/jobs/6217534004) |
 | Ramp | Sales Development Representative, SMB | New York, NY (HQ); Remote | Sales Development Representative | Not stated | [Apply](https://jobs.ashbyhq.com/Ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) |
 | Twilio | Sales Development Representative | Remote - US | Sales Development Representative | 1+ yrs (preferred) | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7481689) |
-| Elastic | Partner Solutions Architect - Public Sector | Florida, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
+| Elastic | Partner Solutions Architect - Public Sector | Florida, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Snowflake | Developer Advocate - AI & Developer Experiences | US-CA-Menlo Park; US-WA-Bellevue; CA-Ontario-Toronto | Solutions Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62) |
 | Cockroach Labs | Sales Development Representative | Austin, TX | Sales Development Representative | 1 yrs | [Apply](https://www.cockroachlabs.com/careers/job/?gh_jid=8193470) |
 | Datadog | Sales Engineer (Customer Success) | Denver, Colorado, USA | Sales Engineering | 1 yrs | [Apply](https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163) |
@@ -149,8 +149,8 @@
 | Snowflake | Sales Development Representative - Portuguese Speaker | US-GA-Atlanta | 1-2 yrs (preferred) | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/2bca874d-6c17-4bc9-ab05-ad230fde040a) |
 | Snowflake | Sales Development Representative - Spanish Speaker | US-GA-Atlanta | 1-2 yrs (preferred) | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/d1823395-6522-4b35-bfbf-365ad939529f) |
 | Gusto | Future Opportunities: Sales Onboarding Advocate | Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid | 1+ yrs | Yes | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8227773) |
-| Elastic | Partner Solutions Architect - Public Sector | Florida, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
+| Elastic | Partner Solutions Architect - Public Sector | Florida, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Datadog | Sales Engineer (Customer Success) | Denver, Colorado, USA | 1 yrs | Yes | [Apply](https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163) |
 | Abnormal Security | MidMarket Sales Engineer - Ohio Valley | Remote - USA | Not stated | Review | [Apply](https://abnormal.ai/careers/jobs/7894691003?gh_jid=7894691003) |
 | ServiceNow | AVP Technical Sales Leader – Identity COE | New York, NEW YORK, US \| Remote | Not stated | Review | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000154486659) |
