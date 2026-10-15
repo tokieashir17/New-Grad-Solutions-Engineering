@@ -1180,6 +1180,52 @@
     "last_seen": "2026-10-15"
   },
   {
+    "id": "19dd7b033761ed8e",
+    "company": "Vanta",
+    "title": "Sales Development Representative, Enterprise",
+    "category": "Sales Development Representative",
+    "location": "San Francisco, CA",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://jobs.ashbyhq.com/Vanta/c4652ceb-a50d-4dad-ab08-a386617a53f5",
+    "source": "ashby",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15"
+  },
+  {
+    "id": "e2901a5bc5591f06",
+    "company": "Vanta",
+    "title": "Sales Development Representative, Enterprise",
+    "category": "Sales Development Representative",
+    "location": "New York, NY; Remote",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://jobs.ashbyhq.com/Vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4",
+    "source": "ashby",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15"
+  },
+  {
     "id": "e1d00e58719f21c2",
     "company": "Webflow",
     "title": "Sales Development Representative (SDR)",
@@ -1367,31 +1413,6 @@
     "last_seen": "2026-10-15"
   },
   {
-    "id": "8069d79decc63a1e",
-    "company": "Elastic",
-    "title": "Partner Solutions Architect - Public Sector",
-    "category": "Sales Engineering",
-    "location": "Florida, United States",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 15,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting",
-      "1+ years"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
-    "source": "greenhouse",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15"
-  },
-  {
     "id": "b19a5f4372405684",
     "company": "Elastic",
     "title": "Partner Solutions Architect - Public Sector",
@@ -1412,6 +1433,31 @@
       "1+ years"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
+    "source": "greenhouse",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15"
+  },
+  {
+    "id": "8069d79decc63a1e",
+    "company": "Elastic",
+    "title": "Partner Solutions Architect - Public Sector",
+    "category": "Sales Engineering",
+    "location": "Florida, United States",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 15,
+    "signals": [
+      "Sales Engineering",
+      "Technical Consulting",
+      "1+ years"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
     "source": "greenhouse",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15"
@@ -1757,29 +1803,6 @@
     "last_seen": "2026-10-15"
   },
   {
-    "id": "4bf0df7dad4f99ef",
-    "company": "Databricks",
-    "title": "Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "New York City, New York",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15"
-  },
-  {
     "id": "31b63b70c61d9780",
     "company": "Databricks",
     "title": "Solutions Engineer",
@@ -1798,6 +1821,29 @@
       "Solutions Engineering"
     ],
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15"
+  },
+  {
+    "id": "4bf0df7dad4f99ef",
+    "company": "Databricks",
+    "title": "Solutions Engineer",
+    "category": "Solutions Engineering",
+    "location": "New York City, New York",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 11,
+    "signals": [
+      "Solutions Engineering"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
     "source": "greenhouse",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15"
@@ -1971,30 +2017,6 @@
     "last_seen": "2026-10-15"
   },
   {
-    "id": "3867b15186314c67",
-    "company": "Ramp",
-    "title": "Technical Consultant, Commercial",
-    "category": "Solutions Engineering",
-    "location": "Remote (US); San Francisco, CA; New York, NY (HQ)",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 13,
-    "signals": [
-      "Solutions Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://jobs.ashbyhq.com/Ramp/100c09be-f179-406f-893e-8a212f32c642",
-    "source": "ashby",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15"
-  },
-  {
     "id": "c4825f8cc948df55",
     "company": "Snowflake",
     "title": "Cloud Support Engineer, AI/ML (Night Shift)",
@@ -2154,6 +2176,29 @@
     ],
     "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
     "source": "greenhouse",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15"
+  },
+  {
+    "id": "609602c5c3aa7e79",
+    "company": "ServiceNow",
+    "title": "Technical Consultant",
+    "category": "Technical Consulting",
+    "location": "Chicago, ILLINOIS, US | Remote",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Servicenow/744000155845509",
+    "source": "smartrecruiters",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15"
   }

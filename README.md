@@ -3,16 +3,16 @@
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Engineering, and related roles.
 
 **Last updated:** 2026-10-15  
-**Matching jobs:** 91
+**Matching jobs:** 93
 
 ## Categories
 
 - [Forward Deployed Engineering](#forward-deployed-engineering) (7)
 - [Implementation Engineering](#implementation-engineering) (5)
-- [Sales Development Representative](#sales-development-representative) (39)
+- [Sales Development Representative](#sales-development-representative) (41)
 - [Sales Engineering](#sales-engineering) (21)
-- [Solutions Engineering](#solutions-engineering) (15)
-- [Technical Consulting](#technical-consulting) (4)
+- [Solutions Engineering](#solutions-engineering) (14)
+- [Technical Consulting](#technical-consulting) (5)
 
 ## Recently Added
 
@@ -38,8 +38,8 @@
 | New Relic | GTM AI Engineer (Automation & AI) | Arlington, Virginia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Dallas, Texas, USA; Denver, Colorado, USA; Detroit, Michigan, USA; Kansas City, Missouri, USA; Newark, New Jersey, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA | Solutions Engineering | 2+ yrs (preferred) | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5436245008) |
 | Ramp | Sales Development Representative, SMB | New York, NY (HQ); Remote | Sales Development Representative | Not stated | [Apply](https://jobs.ashbyhq.com/Ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) |
 | Twilio | Sales Development Representative | Remote - US | Sales Development Representative | 1+ yrs (preferred) | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7481689) |
-| Elastic | Partner Solutions Architect - Public Sector | Florida, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
+| Elastic | Partner Solutions Architect - Public Sector | Florida, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Snowflake | Developer Advocate - AI & Developer Experiences | US-CA-Menlo Park; US-WA-Bellevue; CA-Ontario-Toronto | Solutions Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62) |
 | Cockroach Labs | Sales Development Representative | Austin, TX | Sales Development Representative | 1 yrs | [Apply](https://www.cockroachlabs.com/careers/job/?gh_jid=8193470) |
 | Datadog | Sales Engineer (Customer Success) | Denver, Colorado, USA | Sales Engineering | 1 yrs | [Apply](https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163) |
@@ -55,7 +55,6 @@
 | Tanium | Sales Development Representative | Addison, TX | Sales Development Representative | 1+ yrs | [Apply](https://job-boards.greenhouse.io/tanium/jobs/6531353) |
 | Webflow | Sales Development Representative (SDR) | Chicago, U.S. (Hybrid) | Sales Development Representative | 1+ yrs | [Apply](https://job-boards.greenhouse.io/webflow/jobs/7203091) |
 | Coinbase | Forward Deployed Engineer Intern (HR Technology) | Hybrid - New York, NY | Forward Deployed Engineering | Not stated | [Apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
-| Ramp | Technical Consultant, Commercial | Remote (US); San Francisco, CA; New York, NY (HQ) | Solutions Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Ramp/100c09be-f179-406f-893e-8a212f32c642) |
 | Abnormal Security | MidMarket Sales Engineer - Ohio Valley | Remote - USA | Sales Engineering | Not stated | [Apply](https://abnormal.ai/careers/jobs/7894691003?gh_jid=7894691003) |
 | Block | Software Engineer, Finance Applications | Bay Area, CA, United States of America | Solutions Engineering | Not stated | [Apply](http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008) |
 | Brex | Enterprise Implementation Consultant | Salt Lake City, Utah, United States | Implementation Engineering | Not stated | [Apply](https://www.brex.com/careers/8152968002?gh_jid=8152968002) |
@@ -68,6 +67,7 @@
 | Brex | Outbound Sales Development Representative | San Francisco, California, United States | Sales Development Representative | Not stated | [Apply](https://www.brex.com/careers/8814410002?gh_jid=8814410002) |
 | Brex | Technical Consultant I | San Francisco, California, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
 | Brex | Technical Consultant I | Seattle, Washington, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579204002?gh_jid=8579204002) |
+| Brex | Technical Consultant I | Salt Lake City, Utah, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579215002?gh_jid=8579215002) |
 
 ## Forward Deployed Engineering
 
@@ -126,6 +126,8 @@
 | Kustomer | Sales Development Representative | US - New York, NY; Remote | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Kustomer/348cc65f-ca70-4db6-b7e9-c8523a25b9b8) |
 | Ramp | Sales Development Representative, Mid-Market | New York, NY (HQ); Remote | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Ramp/83eec8f4-c37d-43c9-860b-27223eee3643) |
 | Ramp | Sales Development Representative, Strategic Accounts | New York, NY (HQ); Remote | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) |
+| Vanta | Sales Development Representative, Enterprise | San Francisco, CA | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Vanta/c4652ceb-a50d-4dad-ab08-a386617a53f5) |
+| Vanta | Sales Development Representative, Enterprise | New York, NY; Remote | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4) |
 | Datadog | Sales Development Representative (LATAM - Portuguese Speaking) | Boston, Massachusetts, USA | Not stated | Review | [Apply](https://careers.datadoghq.com/detail/8139396/?gh_jid=8139396) |
 | Datadog | Sales Development Representative (LATAM - Spanish Speaking) | Boston, Massachusetts, USA | Not stated | Review | [Apply](https://careers.datadoghq.com/detail/7003239/?gh_jid=7003239) |
 | Kong | Account Development Representative (Austin, TX) (Hybrid) | Texas, United States | 2+ yrs (preferred) | Review | [Apply](https://jobs.ashbyhq.com/Kong/d93f1b84-9d88-40a1-aff1-2cd456e5cdfd) |
@@ -147,8 +149,8 @@
 | Snowflake | Sales Development Representative - Portuguese Speaker | US-GA-Atlanta | 1-2 yrs (preferred) | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/2bca874d-6c17-4bc9-ab05-ad230fde040a) |
 | Snowflake | Sales Development Representative - Spanish Speaker | US-GA-Atlanta | 1-2 yrs (preferred) | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/d1823395-6522-4b35-bfbf-365ad939529f) |
 | Gusto | Future Opportunities: Sales Onboarding Advocate | Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid | 1+ yrs | Yes | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8227773) |
-| Elastic | Partner Solutions Architect - Public Sector | Florida, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
+| Elastic | Partner Solutions Architect - Public Sector | Florida, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Datadog | Sales Engineer (Customer Success) | Denver, Colorado, USA | 1 yrs | Yes | [Apply](https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163) |
 | Abnormal Security | MidMarket Sales Engineer - Ohio Valley | Remote - USA | Not stated | Review | [Apply](https://abnormal.ai/careers/jobs/7894691003?gh_jid=7894691003) |
 | ServiceNow | AVP Technical Sales Leader – Identity COE | New York, NEW YORK, US \| Remote | Not stated | Review | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000154486659) |
@@ -167,13 +169,12 @@
 |---|---|---|---|---|---|
 | New Relic | GTM AI Engineer (Automation & AI) | Arlington, Virginia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Dallas, Texas, USA; Denver, Colorado, USA; Detroit, Michigan, USA; Kansas City, Missouri, USA; Newark, New Jersey, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA | 2+ yrs (preferred) | Yes | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5436245008) |
 | Snowflake | Developer Advocate - AI & Developer Experiences | US-CA-Menlo Park; US-WA-Bellevue; CA-Ontario-Toronto | Not stated | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62) |
-| Ramp | Technical Consultant, Commercial | Remote (US); San Francisco, CA; New York, NY (HQ) | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Ramp/100c09be-f179-406f-893e-8a212f32c642) |
 | Block | Software Engineer, Finance Applications | Bay Area, CA, United States of America | Not stated | Review | [Apply](http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008) |
 | GitLab | Solutions Architect, Public Sector - East | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8790680002) |
 | GitLab | Solutions Architect, Public Sector - West | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8790317002) |
 | UiPath | Sales Engineer - Healthcare, Payor | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-South Carolina | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
-| Databricks | Solutions Engineer | New York City, New York | 2+ yrs | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002) |
 | Databricks | Solutions Engineer | Chicago, Illinois | 2+ yrs | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
+| Databricks | Solutions Engineer | New York City, New York | 2+ yrs | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002) |
 | Snowflake | Cloud Support Engineer, AI/ML (Night Shift) | IN-Pune | 2+ yrs (preferred) | Review | [Apply](https://jobs.ashbyhq.com/Snowflake/ff8fe152-e6c9-46d1-bdc7-ea414ea9d436) |
 | Braze | Solutions Consultant | New York City | Not stated | Review | [Apply](https://job-boards.greenhouse.io/braze/jobs/8201757) |
 | Datadog | Technical Support Engineer 2, Premier - NYC (Japanese Speaking) | New York, New York, USA | 2+ yrs | Review | [Apply](https://careers.datadoghq.com/detail/8109441/?gh_jid=8109441) |
@@ -189,6 +190,7 @@
 | Brex | Technical Consultant I | Seattle, Washington, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579204002?gh_jid=8579204002) |
 | Brex | Technical Consultant I | Salt Lake City, Utah, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579215002?gh_jid=8579215002) |
 | Brex | Technical Consultant I | New York, New York, United States | 2+ yrs | Review | [Apply](https://www.brex.com/careers/8579199002?gh_jid=8579199002) |
+| ServiceNow | Technical Consultant | Chicago, ILLINOIS, US \| Remote | Not stated | Review | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000155845509) |
 
 ---
 
