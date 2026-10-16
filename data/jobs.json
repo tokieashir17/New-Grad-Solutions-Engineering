@@ -163,6 +163,29 @@
     "last_seen": "2026-10-16"
   },
   {
+    "id": "3126473d77da72e2",
+    "company": "ServiceNow",
+    "title": "Global Head, IT (CIO) Technical GTM",
+    "category": "GTM Engineering",
+    "location": "Santa Clara, CALIFORNIA, US | Remote",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "GTM Engineering"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Servicenow/744000156068749",
+    "source": "smartrecruiters",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16"
+  },
+  {
     "id": "a9e1bac65a99db09",
     "company": "Brex",
     "title": "Enterprise Implementation Consultant",
@@ -186,11 +209,11 @@
     "last_seen": "2026-10-16"
   },
   {
-    "id": "99c45cbcf84eb37f",
+    "id": "78d131ab5e322761",
     "company": "Brex",
     "title": "Implementation Consultant I, Commercial",
     "category": "Implementation Engineering",
-    "location": "Salt Lake City, Utah, United States",
+    "location": "Seattle, Washington, United States",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -203,7 +226,7 @@
     "signals": [
       "Implementation Engineering"
     ],
-    "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
+    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
     "source": "greenhouse",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16"
@@ -255,11 +278,11 @@
     "last_seen": "2026-10-16"
   },
   {
-    "id": "78d131ab5e322761",
+    "id": "99c45cbcf84eb37f",
     "company": "Brex",
     "title": "Implementation Consultant I, Commercial",
     "category": "Implementation Engineering",
-    "location": "Seattle, Washington, United States",
+    "location": "Salt Lake City, Utah, United States",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -272,7 +295,7 @@
     "signals": [
       "Implementation Engineering"
     ],
-    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
+    "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
     "source": "greenhouse",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16"
@@ -350,29 +373,6 @@
     "last_seen": "2026-10-16"
   },
   {
-    "id": "b8a5925dfc5593b8",
-    "company": "Brex",
-    "title": "Outbound Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "San Francisco, California, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.brex.com/careers/8814410002?gh_jid=8814410002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-16"
-  },
-  {
     "id": "fa2318fc10251949",
     "company": "Brex",
     "title": "Outbound Sales Development Representative",
@@ -391,6 +391,29 @@
       "Sales Development Representative"
     ],
     "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16"
+  },
+  {
+    "id": "b8a5925dfc5593b8",
+    "company": "Brex",
+    "title": "Outbound Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "San Francisco, California, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.brex.com/careers/8814410002?gh_jid=8814410002",
     "source": "greenhouse",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16"
@@ -1202,30 +1225,6 @@
     "last_seen": "2026-10-16"
   },
   {
-    "id": "e1d00e58719f21c2",
-    "company": "Webflow",
-    "title": "Sales Development Representative (SDR)",
-    "category": "Sales Development Representative",
-    "location": "Chicago, U.S. (Hybrid)",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 14,
-    "signals": [
-      "Sales Development Representative",
-      "1+ years"
-    ],
-    "url": "https://job-boards.greenhouse.io/webflow/jobs/7203091",
-    "source": "greenhouse",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-16"
-  },
-  {
     "id": "d85922949680fcef",
     "company": "Abnormal Security",
     "title": "MidMarket Sales Engineer - Ohio Valley",
@@ -1779,29 +1778,6 @@
     "last_seen": "2026-10-16"
   },
   {
-    "id": "4bf0df7dad4f99ef",
-    "company": "Databricks",
-    "title": "Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "New York City, New York",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-16"
-  },
-  {
     "id": "31b63b70c61d9780",
     "company": "Databricks",
     "title": "Solutions Engineer",
@@ -1820,6 +1796,29 @@
       "Solutions Engineering"
     ],
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16"
+  },
+  {
+    "id": "4bf0df7dad4f99ef",
+    "company": "Databricks",
+    "title": "Solutions Engineer",
+    "category": "Solutions Engineering",
+    "location": "New York City, New York",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 11,
+    "signals": [
+      "Solutions Engineering"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
     "source": "greenhouse",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16"
@@ -2087,29 +2086,6 @@
     "last_seen": "2026-10-16"
   },
   {
-    "id": "e7a42fdf55c134ef",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "New York, New York, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-16"
-  },
-  {
     "id": "19c15c5042274b7e",
     "company": "Brex",
     "title": "Technical Consultant I",
@@ -2128,6 +2104,29 @@
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16"
+  },
+  {
+    "id": "e7a42fdf55c134ef",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "New York, New York, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
     "source": "greenhouse",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16"
