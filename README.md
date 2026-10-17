@@ -2,8 +2,8 @@
 
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Engineering, and related roles.
 
-**Last updated:** 2026-10-16  
-**Matching jobs:** 92
+**Last updated:** 2026-10-17  
+**Matching jobs:** 93
 
 ## Categories
 
@@ -11,7 +11,7 @@
 - [GTM Engineering](#gtm-engineering) (1)
 - [Implementation Engineering](#implementation-engineering) (5)
 - [Sales Development Representative](#sales-development-representative) (39)
-- [Sales Engineering](#sales-engineering) (21)
+- [Sales Engineering](#sales-engineering) (22)
 - [Solutions Engineering](#solutions-engineering) (14)
 - [Technical Consulting](#technical-consulting) (5)
 
@@ -68,7 +68,7 @@
 | Brex | Technical Consultant I | San Francisco, California, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
 | Brex | Technical Consultant I | New York, New York, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579199002?gh_jid=8579199002) |
 | Brex | Technical Consultant I | Salt Lake City, Utah, United States | Technical Consulting | 2+ yrs | [Apply](https://www.brex.com/careers/8579215002?gh_jid=8579215002) |
-| GitLab | Solutions Architect, Public Sector - East | Remote, United States | Solutions Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8790680002) |
+| GitLab | Customer Success Architect | Remote, United States | Sales Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8877426002) |
 
 ## Forward Deployed Engineering
 
@@ -158,6 +158,7 @@
 | Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
 | Datadog | Sales Engineer (Customer Success) | Denver, Colorado, USA | 1 yrs | Yes | [Apply](https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163) |
 | Abnormal Security | MidMarket Sales Engineer - Ohio Valley | Remote - USA | Not stated | Review | [Apply](https://abnormal.ai/careers/jobs/7894691003?gh_jid=7894691003) |
+| GitLab | Customer Success Architect | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8877426002) |
 | ServiceNow | AVP Technical Sales Leader – Identity COE | New York, NEW YORK, US \| Remote | Not stated | Review | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000154486659) |
 | UiPath | Sales Engineer, Healthcare - Provider | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Georgia | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Uipath/75345dfc-f069-481f-8c74-15c8c7d9e9de) |
 | UiPath | Sales Engineer: Retail and Manufacturing | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-Georgia; Remote-South Carolina | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Uipath/0f1c0517-a967-4104-a25e-90219fadd3cf) |
