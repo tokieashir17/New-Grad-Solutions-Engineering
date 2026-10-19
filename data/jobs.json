@@ -209,6 +209,29 @@
     "last_seen": "2026-10-19"
   },
   {
+    "id": "3227ee1e5e901b5c",
+    "company": "Brex",
+    "title": "Implementation Consultant I, Commercial",
+    "category": "Implementation Engineering",
+    "location": "San Francisco, California, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19"
+  },
+  {
     "id": "78d131ab5e322761",
     "company": "Brex",
     "title": "Implementation Consultant I, Commercial",
@@ -250,29 +273,6 @@
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-19",
-    "last_seen": "2026-10-19"
-  },
-  {
-    "id": "3227ee1e5e901b5c",
-    "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
-    "category": "Implementation Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
     "source": "greenhouse",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19"
@@ -373,29 +373,6 @@
     "last_seen": "2026-10-19"
   },
   {
-    "id": "fa2318fc10251949",
-    "company": "Brex",
-    "title": "Outbound Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-19",
-    "last_seen": "2026-10-19"
-  },
-  {
     "id": "b8a5925dfc5593b8",
     "company": "Brex",
     "title": "Outbound Sales Development Representative",
@@ -414,6 +391,29 @@
       "Sales Development Representative"
     ],
     "url": "https://www.brex.com/careers/8814410002?gh_jid=8814410002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "fa2318fc10251949",
+    "company": "Brex",
+    "title": "Outbound Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
     "source": "greenhouse",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19"
@@ -439,30 +439,6 @@
     ],
     "url": "https://jobs.ashbyhq.com/ClickUp/8a00fe9c-3227-4443-ba43-0d0c63d724bc",
     "source": "ashby",
-    "first_seen": "2026-10-19",
-    "last_seen": "2026-10-19"
-  },
-  {
-    "id": "ba569c608728038d",
-    "company": "Cockroach Labs",
-    "title": "Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Austin, TX",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": true
-    },
-    "score": 14,
-    "signals": [
-      "Sales Development Representative",
-      "1+ years"
-    ],
-    "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=8193470",
-    "source": "greenhouse",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19"
   },
@@ -1294,6 +1270,30 @@
     "last_seen": "2026-10-19"
   },
   {
+    "id": "4357fec66a813ce0",
+    "company": "Databricks",
+    "title": "Solutions Architect - Adtech",
+    "category": "Sales Engineering",
+    "location": "United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 11,
+    "signals": [
+      "Sales Engineering",
+      "Technical Consulting"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893716002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19"
+  },
+  {
     "id": "2a1310e4971612ac",
     "company": "Datadog",
     "title": "Commercial Sales Engineer (AMER - West)",
@@ -1708,29 +1708,6 @@
     "last_seen": "2026-10-19"
   },
   {
-    "id": "6f04b770b560784e",
-    "company": "Snowflake",
-    "title": "Solution Engineer - GCC (FSI)",
-    "category": "Sales Engineering",
-    "location": "IN-Bangalore-MSO",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 8,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 11,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180",
-    "source": "ashby",
-    "first_seen": "2026-10-19",
-    "last_seen": "2026-10-19"
-  },
-  {
     "id": "7b6ebbf413616757",
     "company": "UiPath",
     "title": "Sales Engineer, Healthcare - Provider",
@@ -1991,30 +1968,6 @@
     "last_seen": "2026-10-19"
   },
   {
-    "id": "0b4bbeec2b8d96a0",
-    "company": "New Relic",
-    "title": "GTM AI Engineer (Automation & AI)",
-    "category": "Solutions Engineering",
-    "location": "Arlington, Virginia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Dallas, Texas, USA; Denver, Colorado, USA; Detroit, Michigan, USA; Kansas City, Missouri, USA; Newark, New Jersey, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA",
-    "remote": true,
-    "early_career": true,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 16,
-    "signals": [
-      "Solutions Engineering",
-      "1+ years"
-    ],
-    "url": "https://job-boards.greenhouse.io/newrelic/jobs/5436245008",
-    "source": "greenhouse",
-    "first_seen": "2026-10-19",
-    "last_seen": "2026-10-19"
-  },
-  {
     "id": "d2c2b2eb7d4a135e",
     "company": "Planhat",
     "title": "Technical Deployment Specialist",
@@ -2174,29 +2127,6 @@
     ],
     "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
     "source": "greenhouse",
-    "first_seen": "2026-10-19",
-    "last_seen": "2026-10-19"
-  },
-  {
-    "id": "609602c5c3aa7e79",
-    "company": "ServiceNow",
-    "title": "Technical Consultant",
-    "category": "Technical Consulting",
-    "location": "Chicago, ILLINOIS, US | Remote",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://jobs.smartrecruiters.com/Servicenow/744000155845509",
-    "source": "smartrecruiters",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19"
   }
