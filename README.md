@@ -36,8 +36,8 @@
 | Mercury | Sales Development Representative | San Francisco, CA, New York, NY, Portland, OR, or Remote within United States | Sales Development Representative | 1 yrs | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6167220004) |
 | Ramp | Sales Development Representative, SMB | New York, NY (HQ); Remote | Sales Development Representative | Not stated | [Apply](https://jobs.ashbyhq.com/Ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) |
 | Twilio | Sales Development Representative | Remote - US | Sales Development Representative | 1+ yrs (preferred) | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7481689) |
-| Elastic | Partner Solutions Architect - Public Sector | Florida, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
+| Elastic | Partner Solutions Architect - Public Sector | Florida, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Snowflake | Developer Advocate - AI & Developer Experiences | US-CA-Menlo Park; US-WA-Bellevue; CA-Ontario-Toronto | Solutions Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62) |
 | Datadog | Sales Engineer (Customer Success) | Denver, Colorado, USA | Sales Engineering | 1 yrs | [Apply](https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163) |
 | Druva | Sales Development Representative | Santa Clara, CA | Sales Development Representative | 1+ yrs (preferred) | [Apply](https://www.druva.com/why-druva/explore/careers/jobs/8747431002/?gh_jid=8747431002) |
@@ -153,8 +153,8 @@
 | Snowflake | Sales Development Representative - Portuguese Speaker | US-GA-Atlanta | 1-2 yrs (preferred) | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/2bca874d-6c17-4bc9-ab05-ad230fde040a) |
 | Snowflake | Sales Development Representative - Spanish Speaker | US-GA-Atlanta | 1-2 yrs (preferred) | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/d1823395-6522-4b35-bfbf-365ad939529f) |
 | Gusto | Future Opportunities: Sales Onboarding Advocate | Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid | 1+ yrs | Yes | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8227773) |
-| Elastic | Partner Solutions Architect - Public Sector | Florida, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
+| Elastic | Partner Solutions Architect - Public Sector | Florida, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Datadog | Sales Engineer (Customer Success) | Denver, Colorado, USA | 1 yrs | Yes | [Apply](https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163) |
 | Abnormal Security | MidMarket Sales Engineer - Ohio Valley | Remote - USA | Not stated | Review | [Apply](https://abnormal.ai/careers/jobs/7894691003?gh_jid=7894691003) |
 | GitLab | Customer Success Architect | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8877426002) |
@@ -181,8 +181,8 @@
 | Databricks | Solutions Engineer | New York City, New York | 2+ yrs | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002) |
 | Braze | Solutions Consultant | New York City | Not stated | Review | [Apply](https://job-boards.greenhouse.io/braze/jobs/8201757) |
 | Datadog | Technical Support Engineer 2, Premier - NYC (Japanese Speaking) | New York, New York, USA | 2+ yrs | Review | [Apply](https://careers.datadoghq.com/detail/8109441/?gh_jid=8109441) |
-| Flexport | Solutions Consultant | San Francisco, California, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
 | Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
+| Flexport | Solutions Consultant | San Francisco, California, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
 | Planhat | Technical Deployment Specialist | Los Angeles; New York | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
 
 ## Technical Consulting
