@@ -23,6 +23,31 @@
     "last_seen": "2026-10-22"
   },
   {
+    "id": "93f97ea74dca17d5",
+    "company": "Databricks",
+    "title": "Associate Forward Deployed Engineer",
+    "category": "Forward Deployed Engineering",
+    "location": "New York City, New York",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 19,
+    "signals": [
+      "Forward Deployed Engineering",
+      "early career",
+      "associate"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22"
+  },
+  {
     "id": "203152b05ead11b5",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -211,13 +236,13 @@
   {
     "id": "99c45cbcf84eb37f",
     "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
+    "title": "Implementation Consultant, Commercial",
     "category": "Implementation Engineering",
     "location": "Salt Lake City, Utah, United States",
     "remote": true,
     "early_career": false,
     "experience": {
-      "min_years": 2,
+      "min_years": 4,
       "max_years": null,
       "is_plus": true,
       "is_required": false
@@ -234,13 +259,13 @@
   {
     "id": "5e1ce63c4a672d35",
     "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
+    "title": "Implementation Consultant, Commercial",
     "category": "Implementation Engineering",
     "location": "New York, New York, United States",
     "remote": true,
     "early_career": false,
     "experience": {
-      "min_years": 2,
+      "min_years": 4,
       "max_years": null,
       "is_plus": true,
       "is_required": false
@@ -257,13 +282,13 @@
   {
     "id": "3227ee1e5e901b5c",
     "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
+    "title": "Implementation Consultant, Commercial",
     "category": "Implementation Engineering",
     "location": "San Francisco, California, United States",
     "remote": true,
     "early_career": false,
     "experience": {
-      "min_years": 2,
+      "min_years": 4,
       "max_years": null,
       "is_plus": true,
       "is_required": false
@@ -280,13 +305,13 @@
   {
     "id": "78d131ab5e322761",
     "company": "Brex",
-    "title": "Implementation Consultant I, Commercial",
+    "title": "Implementation Consultant, Commercial",
     "category": "Implementation Engineering",
     "location": "Seattle, Washington, United States",
     "remote": true,
     "early_career": false,
     "experience": {
-      "min_years": 2,
+      "min_years": 4,
       "max_years": null,
       "is_plus": true,
       "is_required": false
@@ -1408,31 +1433,6 @@
     "last_seen": "2026-10-22"
   },
   {
-    "id": "8069d79decc63a1e",
-    "company": "Elastic",
-    "title": "Partner Solutions Architect - Public Sector",
-    "category": "Sales Engineering",
-    "location": "Florida, United States",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 15,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting",
-      "1+ years"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
-    "source": "greenhouse",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-22"
-  },
-  {
     "id": "b19a5f4372405684",
     "company": "Elastic",
     "title": "Partner Solutions Architect - Public Sector",
@@ -1453,6 +1453,31 @@
       "1+ years"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
+    "source": "greenhouse",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22"
+  },
+  {
+    "id": "8069d79decc63a1e",
+    "company": "Elastic",
+    "title": "Partner Solutions Architect - Public Sector",
+    "category": "Sales Engineering",
+    "location": "Florida, United States",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 15,
+    "signals": [
+      "Sales Engineering",
+      "Technical Consulting",
+      "1+ years"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
     "source": "greenhouse",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-22"
@@ -1823,29 +1848,6 @@
     "last_seen": "2026-10-22"
   },
   {
-    "id": "31b63b70c61d9780",
-    "company": "Databricks",
-    "title": "Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "Chicago, Illinois",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-22"
-  },
-  {
     "id": "4bf0df7dad4f99ef",
     "company": "Databricks",
     "title": "Solutions Engineer",
@@ -1864,6 +1866,29 @@
       "Solutions Engineering"
     ],
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22"
+  },
+  {
+    "id": "31b63b70c61d9780",
+    "company": "Databricks",
+    "title": "Solutions Engineer",
+    "category": "Solutions Engineering",
+    "location": "Chicago, Illinois",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 11,
+    "signals": [
+      "Solutions Engineering"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
     "source": "greenhouse",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-22"
