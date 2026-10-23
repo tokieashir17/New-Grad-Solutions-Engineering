@@ -23,24 +23,26 @@
     "last_seen": "2026-10-23"
   },
   {
-    "id": "203152b05ead11b5",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
+    "id": "1b9715e6eecc66b2",
+    "company": "Databricks",
+    "title": "Associate Forward Deployed Engineer",
     "category": "Forward Deployed Engineering",
-    "location": "New York City, New York, United States",
+    "location": "Mountain View, California",
     "remote": false,
-    "early_career": false,
+    "early_career": true,
     "experience": {
-      "min_years": null,
+      "min_years": 2,
       "max_years": null,
-      "is_plus": false,
-      "is_required": false
+      "is_plus": true,
+      "is_required": true
     },
-    "score": 10,
+    "score": 19,
     "signals": [
-      "Forward Deployed Engineering"
+      "Forward Deployed Engineering",
+      "early career",
+      "associate"
     ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
     "source": "greenhouse",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23"
@@ -64,6 +66,29 @@
       "Forward Deployed Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
+    "source": "greenhouse",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "id": "203152b05ead11b5",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "New York City, New York, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
     "source": "greenhouse",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23"
@@ -232,29 +257,6 @@
     "last_seen": "2026-10-23"
   },
   {
-    "id": "78d131ab5e322761",
-    "company": "Brex",
-    "title": "Implementation Consultant, Commercial",
-    "category": "Implementation Engineering",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 4,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23"
-  },
-  {
     "id": "99c45cbcf84eb37f",
     "company": "Brex",
     "title": "Implementation Consultant, Commercial",
@@ -273,6 +275,29 @@
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "id": "78d131ab5e322761",
+    "company": "Brex",
+    "title": "Implementation Consultant, Commercial",
+    "category": "Implementation Engineering",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 4,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
     "source": "greenhouse",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23"
@@ -301,7 +326,7 @@
     "last_seen": "2026-10-23"
   },
   {
-    "id": "62be96ff9f0ab8bd",
+    "id": "b3dda09e5ec195d6",
     "company": "ServiceNow",
     "title": "PS, Solution Architect /Forward Deployment Engineer  ( Armis/ Veza)",
     "category": "Implementation Engineering",
@@ -318,7 +343,7 @@
     "signals": [
       "Implementation Engineering"
     ],
-    "url": "https://jobs.smartrecruiters.com/Servicenow/744000156617679",
+    "url": "https://jobs.smartrecruiters.com/Servicenow/744000157494419",
     "source": "smartrecruiters",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23"
@@ -371,29 +396,6 @@
     "last_seen": "2026-10-23"
   },
   {
-    "id": "fa2318fc10251949",
-    "company": "Brex",
-    "title": "Outbound Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23"
-  },
-  {
     "id": "b8a5925dfc5593b8",
     "company": "Brex",
     "title": "Outbound Sales Development Representative",
@@ -412,6 +414,29 @@
       "Sales Development Representative"
     ],
     "url": "https://www.brex.com/careers/8814410002?gh_jid=8814410002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "id": "fa2318fc10251949",
+    "company": "Brex",
+    "title": "Outbound Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
     "source": "greenhouse",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23"
@@ -576,6 +601,30 @@
       "1+ years"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8233841&gh_jid=8233841",
+    "source": "greenhouse",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "id": "06eba7932d025404",
+    "company": "Elastic",
+    "title": "Sales Development Representative - New York",
+    "category": "Sales Development Representative",
+    "location": "New York, United States",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": true
+    },
+    "score": 14,
+    "signals": [
+      "Sales Development Representative",
+      "1+ years"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8318605&gh_jid=8318605",
     "source": "greenhouse",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23"
@@ -1431,31 +1480,6 @@
     "last_seen": "2026-10-23"
   },
   {
-    "id": "8069d79decc63a1e",
-    "company": "Elastic",
-    "title": "Partner Solutions Architect - Public Sector",
-    "category": "Sales Engineering",
-    "location": "Florida, United States",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 15,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting",
-      "1+ years"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
-    "source": "greenhouse",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23"
-  },
-  {
     "id": "b19a5f4372405684",
     "company": "Elastic",
     "title": "Partner Solutions Architect - Public Sector",
@@ -1481,6 +1505,31 @@
     "last_seen": "2026-10-23"
   },
   {
+    "id": "8069d79decc63a1e",
+    "company": "Elastic",
+    "title": "Partner Solutions Architect - Public Sector",
+    "category": "Sales Engineering",
+    "location": "Florida, United States",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 15,
+    "signals": [
+      "Sales Engineering",
+      "Technical Consulting",
+      "1+ years"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
+    "source": "greenhouse",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23"
+  },
+  {
     "id": "b676d3b404e0b0aa",
     "company": "GitLab",
     "title": "Customer Success Architect",
@@ -1499,6 +1548,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8877426002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "id": "a2411d1da856db50",
+    "company": "GitLab",
+    "title": "Solutions Architect - SLED (West)",
+    "category": "Sales Engineering",
+    "location": "Remote, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Engineering",
+      "Technical Consulting"
+    ],
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907130002",
     "source": "greenhouse",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23"
@@ -1823,29 +1896,6 @@
     "last_seen": "2026-10-23"
   },
   {
-    "id": "31b63b70c61d9780",
-    "company": "Databricks",
-    "title": "Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "Chicago, Illinois",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23"
-  },
-  {
     "id": "4bf0df7dad4f99ef",
     "company": "Databricks",
     "title": "Solutions Engineer",
@@ -1864,6 +1914,29 @@
       "Solutions Engineering"
     ],
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "id": "31b63b70c61d9780",
+    "company": "Databricks",
+    "title": "Solutions Engineer",
+    "category": "Solutions Engineering",
+    "location": "Chicago, Illinois",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 11,
+    "signals": [
+      "Solutions Engineering"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
     "source": "greenhouse",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23"
@@ -1892,30 +1965,6 @@
     "last_seen": "2026-10-23"
   },
   {
-    "id": "0677cbc05bafc2e6",
-    "company": "Flexport",
-    "title": "Solutions Consultant",
-    "category": "Solutions Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
-    "source": "greenhouse",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23"
-  },
-  {
     "id": "a138f63207d17304",
     "company": "Flexport",
     "title": "Solutions Consultant",
@@ -1935,6 +1984,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
+    "source": "greenhouse",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "id": "0677cbc05bafc2e6",
+    "company": "Flexport",
+    "title": "Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "San Francisco, California, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering",
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
     "source": "greenhouse",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23"
@@ -2133,29 +2206,6 @@
     "last_seen": "2026-10-23"
   },
   {
-    "id": "19cfc1b0382dc322",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23"
-  },
-  {
     "id": "7463fda0c15bf452",
     "company": "Brex",
     "title": "Technical Consultant I",
@@ -2174,6 +2224,29 @@
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "id": "19cfc1b0382dc322",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
     "source": "greenhouse",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23"
