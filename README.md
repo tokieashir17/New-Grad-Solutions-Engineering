@@ -3,7 +3,7 @@
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Engineering, and related roles.
 
 **Last updated:** 2026-10-27  
-**Matching jobs:** 93
+**Matching jobs:** 92
 
 ## Categories
 
@@ -12,7 +12,7 @@
 - [Implementation Engineering](#implementation-engineering) (6)
 - [Sales Development Representative](#sales-development-representative) (38)
 - [Sales Engineering](#sales-engineering) (23)
-- [Solutions Engineering](#solutions-engineering) (13)
+- [Solutions Engineering](#solutions-engineering) (12)
 - [Technical Consulting](#technical-consulting) (4)
 
 ## Recently Added
@@ -79,8 +79,8 @@
 | Coinbase | Forward Deployed Engineer Intern (HR Technology) | Hybrid - New York, NY | Not stated | Review | [Apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
 | ServiceNow | Forward Deployed Solution Engineer – Applied AI FDE | Santa Clara, California, US \| Remote | Not stated | Review | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000154154044) |
 | Toast | GTM Engineer - Sales Workflow Automation, Revenue Intelligence | Remote, US | Not stated | Review | [Apply](https://careers.toasttab.com/jobs?gh_jid=7947082) |
-| Flexport | Rotational Development Program | Chicago, Illinois, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8172300) |
 | Flexport | Rotational Development Program | New York City, New York, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8224715) |
+| Flexport | Rotational Development Program | Chicago, Illinois, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8172300) |
 | ServiceNow | Forward Deployed Solution Engineer – Applied AI FDE | Montreal, QUEBEC, CA | Not stated | Review | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000149073920) |
 
 ## GTM Engineering
@@ -128,6 +128,7 @@
 | Hex | Sales Development Representative | San Francisco; New York; Remote | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Hex/93be0230-02b0-422c-95f2-128a430e5673) |
 | Kong | Account Development Representative (Fed) | Virginia, United States; Remote | 2+ yrs (preferred) | Review | [Apply](https://jobs.ashbyhq.com/Kong/a215aeeb-bd34-4724-b89c-dc8a2efe8de0) |
 | Kustomer | Sales Development Representative | US - New York, NY; Remote | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Kustomer/348cc65f-ca70-4db6-b7e9-c8523a25b9b8) |
+| Ramp | Sales Development Representative \| Public Sector | New York, NY (HQ); San Francisco, CA; Washington, D.C.; Remote | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d) |
 | Ramp | Sales Development Representative, Mid-Market | New York, NY (HQ); San Francisco, CA; Remote | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Ramp/83eec8f4-c37d-43c9-860b-27223eee3643) |
 | Ramp | Sales Development Representative, Strategic Accounts | New York, NY (HQ); Remote | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) |
 | Snowflake | Sales Development Representative | IN-Mumbai-MSO; Remote | 2-4 yrs (preferred) | Review | [Apply](https://jobs.ashbyhq.com/Snowflake/d3d801b9-74a5-4e58-9d8f-1e2a79b22890) |
@@ -137,7 +138,6 @@
 | Datadog | Sales Development Representative (LATAM - Spanish Speaking) | Boston, Massachusetts, USA | Not stated | Review | [Apply](https://careers.datadoghq.com/detail/7003239/?gh_jid=7003239) |
 | Kong | Account Development Representative (Austin, TX) (Hybrid) | Texas, United States | 2+ yrs (preferred) | Review | [Apply](https://jobs.ashbyhq.com/Kong/d93f1b84-9d88-40a1-aff1-2cd456e5cdfd) |
 | Kong | Account Development Representative (Chicago, IL) (Hybrid) | Illinois, United States | 2+ yrs (preferred) | Review | [Apply](https://jobs.ashbyhq.com/Kong/813ebdbc-c0df-4140-bf4c-184cda1a3a53) |
-| Okta | Sales Development Representative, Central | Chicago, Illinois | Not stated | Review | [Apply](https://www.okta.com/company/careers/opportunity/7013622?gh_jid=7013622) |
 | Okta | Sales Development Representative, East | Washington, DC | Not stated | Review | [Apply](https://www.okta.com/company/careers/opportunity/7013646?gh_jid=7013646) |
 | Okta | Sales Development Representative, Latin America | Washington, DC | Not stated | Review | [Apply](https://www.okta.com/company/careers/opportunity/7013739?gh_jid=7013739) |
 | Okta | Sales Development Representative, West | San Francisco, California | Not stated | Review | [Apply](https://www.okta.com/company/careers/opportunity/7013572?gh_jid=7013572) |
@@ -184,9 +184,8 @@
 | UiPath | Sales Engineer - Healthcare, Payor | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-South Carolina | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
 | Databricks | Solutions Engineer | Chicago, Illinois | 2+ yrs | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
 | Databricks | Solutions Engineer | New York City, New York | 2+ yrs | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002) |
-| Datadog | Technical Support Engineer 2, Premier - NYC (Japanese Speaking) | New York, New York, USA | 2+ yrs | Review | [Apply](https://careers.datadoghq.com/detail/8109441/?gh_jid=8109441) |
-| Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Flexport | Solutions Consultant | San Francisco, California, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
+| Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Planhat | Technical Deployment Specialist | Los Angeles; New York | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
 
 ## Technical Consulting
