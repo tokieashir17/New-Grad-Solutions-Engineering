@@ -3,14 +3,14 @@
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Engineering, and related roles.
 
 **Last updated:** 2026-10-28  
-**Matching jobs:** 92
+**Matching jobs:** 93
 
 ## Categories
 
 - [Forward Deployed Engineering](#forward-deployed-engineering) (8)
 - [GTM Engineering](#gtm-engineering) (1)
 - [Implementation Engineering](#implementation-engineering) (6)
-- [Sales Development Representative](#sales-development-representative) (38)
+- [Sales Development Representative](#sales-development-representative) (39)
 - [Sales Engineering](#sales-engineering) (23)
 - [Solutions Engineering](#solutions-engineering) (12)
 - [Technical Consulting](#technical-consulting) (4)
@@ -37,8 +37,8 @@
 | New Relic | GTM AI Engineer (Automation & AI) | Arlington, Virginia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Dallas, Texas, USA; Denver, Colorado, USA; Detroit, Michigan, USA; Kansas City, Missouri, USA; Newark, New Jersey, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA | Solutions Engineering | 2+ yrs (preferred) | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5436245008) |
 | Ramp | Sales Development Representative, SMB | New York, NY (HQ); San Francisco, CA; Remote | Sales Development Representative | Not stated | [Apply](https://jobs.ashbyhq.com/Ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) |
 | Twilio | Sales Development Representative | Remote - US | Sales Development Representative | 1+ yrs (preferred) | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7481689) |
-| Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
 | Elastic | Partner Solutions Architect - Public Sector | Florida, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
+| Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
 | Snowflake | Developer Advocate - AI & Developer Experiences | US-CA-Menlo Park; US-WA-Bellevue; CA-Ontario-Toronto | Solutions Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62) |
 | Datadog | Sales Engineer (Customer Success) | Denver, Colorado, USA | Sales Engineering | 1 yrs | [Apply](https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163) |
 | Druva | Sales Development Representative | Santa Clara, CA | Sales Development Representative | 1+ yrs (preferred) | [Apply](https://www.druva.com/why-druva/explore/careers/jobs/8747431002/?gh_jid=8747431002) |
@@ -136,6 +136,7 @@
 | Vanta | Sales Development Representative, Enterprise | New York, NY; Remote | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4) |
 | Datadog | Sales Development Representative (LATAM - Portuguese Speaking) | Boston, Massachusetts, USA | Not stated | Review | [Apply](https://careers.datadoghq.com/detail/8139396/?gh_jid=8139396) |
 | Datadog | Sales Development Representative (LATAM - Spanish Speaking) | Boston, Massachusetts, USA | Not stated | Review | [Apply](https://careers.datadoghq.com/detail/7003239/?gh_jid=7003239) |
+| Datadog | Sales Development Representative - Boston | Boston, Massachusetts, USA | Not stated | Review | [Apply](https://careers.datadoghq.com/detail/6741571/?gh_jid=6741571) |
 | Kong | Account Development Representative (Austin, TX) (Hybrid) | Texas, United States | 2+ yrs (preferred) | Review | [Apply](https://jobs.ashbyhq.com/Kong/d93f1b84-9d88-40a1-aff1-2cd456e5cdfd) |
 | Kong | Account Development Representative (Chicago, IL) (Hybrid) | Illinois, United States | 2+ yrs (preferred) | Review | [Apply](https://jobs.ashbyhq.com/Kong/813ebdbc-c0df-4140-bf4c-184cda1a3a53) |
 | Okta | Sales Development Representative, East | Washington, DC | Not stated | Review | [Apply](https://www.okta.com/company/careers/opportunity/7013646?gh_jid=7013646) |
@@ -155,8 +156,8 @@
 | Snowflake | Sales Development Representative - Portuguese Speaker | US-GA-Atlanta | 1-2 yrs (preferred) | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/2bca874d-6c17-4bc9-ab05-ad230fde040a) |
 | Snowflake | Sales Development Representative - Spanish Speaker | US-GA-Atlanta | 1-2 yrs (preferred) | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/d1823395-6522-4b35-bfbf-365ad939529f) |
 | Gusto | Future Opportunities: Sales Onboarding Advocate | Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid | 1+ yrs | Yes | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8227773) |
-| Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
 | Elastic | Partner Solutions Architect - Public Sector | Florida, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
+| Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
 | Datadog | Sales Engineer (Customer Success) | Denver, Colorado, USA | 1 yrs | Yes | [Apply](https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163) |
 | Abnormal Security | MidMarket Sales Engineer - Ohio Valley | Remote - USA | Not stated | Review | [Apply](https://abnormal.ai/careers/jobs/7894691003?gh_jid=7894691003) |
 | Chainguard | Commercial Sales Engineer- New York | United States - Remote | 2+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4723766006) |
@@ -182,10 +183,10 @@
 | GitLab | Solutions Architect, Public Sector - East | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8790680002) |
 | GitLab | Solutions Architect, Public Sector - West | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8790317002) |
 | UiPath | Sales Engineer - Healthcare, Payor | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-South Carolina | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
-| Databricks | Solutions Engineer | New York City, New York | 2+ yrs | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002) |
 | Databricks | Solutions Engineer | Chicago, Illinois | 2+ yrs | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
-| Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
+| Databricks | Solutions Engineer | New York City, New York | 2+ yrs | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002) |
 | Flexport | Solutions Consultant | San Francisco, California, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
+| Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Planhat | Technical Deployment Specialist | Los Angeles; New York | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
 
 ## Technical Consulting

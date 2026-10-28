@@ -488,6 +488,29 @@
     "last_seen": "2026-10-28"
   },
   {
+    "id": "162a632bfcc3e52a",
+    "company": "Datadog",
+    "title": "Sales Development Representative - Boston",
+    "category": "Sales Development Representative",
+    "location": "Boston, Massachusetts, USA",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://careers.datadoghq.com/detail/6741571/?gh_jid=6741571",
+    "source": "greenhouse",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28"
+  },
+  {
     "id": "5e55e42dec317fd9",
     "company": "Druva",
     "title": "Sales Development Representative",
@@ -1457,31 +1480,6 @@
     "last_seen": "2026-10-28"
   },
   {
-    "id": "b19a5f4372405684",
-    "company": "Elastic",
-    "title": "Partner Solutions Architect - Public Sector",
-    "category": "Sales Engineering",
-    "location": "Washington, DC, United States",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 15,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting",
-      "1+ years"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
-    "source": "greenhouse",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-28"
-  },
-  {
     "id": "8069d79decc63a1e",
     "company": "Elastic",
     "title": "Partner Solutions Architect - Public Sector",
@@ -1502,6 +1500,31 @@
       "1+ years"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
+    "source": "greenhouse",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28"
+  },
+  {
+    "id": "b19a5f4372405684",
+    "company": "Elastic",
+    "title": "Partner Solutions Architect - Public Sector",
+    "category": "Sales Engineering",
+    "location": "Washington, DC, United States",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 15,
+    "signals": [
+      "Sales Engineering",
+      "Technical Consulting",
+      "1+ years"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
     "source": "greenhouse",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28"
@@ -1826,29 +1849,6 @@
     "last_seen": "2026-10-28"
   },
   {
-    "id": "4bf0df7dad4f99ef",
-    "company": "Databricks",
-    "title": "Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "New York City, New York",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-28"
-  },
-  {
     "id": "31b63b70c61d9780",
     "company": "Databricks",
     "title": "Solutions Engineer",
@@ -1872,25 +1872,24 @@
     "last_seen": "2026-10-28"
   },
   {
-    "id": "a138f63207d17304",
-    "company": "Flexport",
-    "title": "Solutions Consultant",
+    "id": "4bf0df7dad4f99ef",
+    "company": "Databricks",
+    "title": "Solutions Engineer",
     "category": "Solutions Engineering",
-    "location": "Chicago, Illinois, United States",
+    "location": "New York City, New York",
     "remote": false,
     "early_career": false,
     "experience": {
-      "min_years": 3,
+      "min_years": 2,
       "max_years": null,
       "is_plus": true,
-      "is_required": false
+      "is_required": true
     },
-    "score": 10,
+    "score": 11,
     "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
+      "Solutions Engineering"
     ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
     "source": "greenhouse",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28"
@@ -1915,6 +1914,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
+    "source": "greenhouse",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28"
+  },
+  {
+    "id": "a138f63207d17304",
+    "company": "Flexport",
+    "title": "Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "Chicago, Illinois, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering",
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
     "source": "greenhouse",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28"
