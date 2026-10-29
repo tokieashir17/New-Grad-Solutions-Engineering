@@ -23,29 +23,6 @@
     "last_seen": "2026-10-29"
   },
   {
-    "id": "203152b05ead11b5",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "New York City, New York, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
-    "source": "greenhouse",
-    "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29"
-  },
-  {
     "id": "309a6aeeb62c454a",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -69,26 +46,25 @@
     "last_seen": "2026-10-29"
   },
   {
-    "id": "9ddd75f6811a1036",
-    "company": "Planhat",
-    "title": "Customer Success Associate | New York",
+    "id": "203152b05ead11b5",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
     "category": "Forward Deployed Engineering",
-    "location": "New York",
+    "location": "New York City, New York, United States",
     "remote": false,
-    "early_career": true,
+    "early_career": false,
     "experience": {
       "min_years": null,
       "max_years": null,
       "is_plus": false,
       "is_required": false
     },
-    "score": 14,
+    "score": 10,
     "signals": [
-      "Forward Deployed Engineering",
-      "associate"
+      "Forward Deployed Engineering"
     ],
-    "url": "https://jobs.ashbyhq.com/Planhat/80cac439-9e0d-4dda-99b2-481330ce8d62",
-    "source": "ashby",
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
+    "source": "greenhouse",
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29"
   },
@@ -209,11 +185,11 @@
     "last_seen": "2026-10-29"
   },
   {
-    "id": "3227ee1e5e901b5c",
+    "id": "78d131ab5e322761",
     "company": "Brex",
     "title": "Implementation Consultant, Commercial",
     "category": "Implementation Engineering",
-    "location": "San Francisco, California, United States",
+    "location": "Seattle, Washington, United States",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -226,7 +202,7 @@
     "signals": [
       "Implementation Engineering"
     ],
-    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
+    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
     "source": "greenhouse",
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29"
@@ -255,11 +231,11 @@
     "last_seen": "2026-10-29"
   },
   {
-    "id": "78d131ab5e322761",
+    "id": "3227ee1e5e901b5c",
     "company": "Brex",
     "title": "Implementation Consultant, Commercial",
     "category": "Implementation Engineering",
-    "location": "Seattle, Washington, United States",
+    "location": "San Francisco, California, United States",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -272,7 +248,7 @@
     "signals": [
       "Implementation Engineering"
     ],
-    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
+    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
     "source": "greenhouse",
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29"
@@ -371,29 +347,6 @@
     "last_seen": "2026-10-29"
   },
   {
-    "id": "fa2318fc10251949",
-    "company": "Brex",
-    "title": "Outbound Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29"
-  },
-  {
     "id": "b8a5925dfc5593b8",
     "company": "Brex",
     "title": "Outbound Sales Development Representative",
@@ -412,6 +365,29 @@
       "Sales Development Representative"
     ],
     "url": "https://www.brex.com/careers/8814410002?gh_jid=8814410002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29"
+  },
+  {
+    "id": "fa2318fc10251949",
+    "company": "Brex",
+    "title": "Outbound Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
     "source": "greenhouse",
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29"
@@ -481,30 +457,6 @@
       "Sales Development Representative"
     ],
     "url": "https://careers.datadoghq.com/detail/6741571/?gh_jid=6741571",
-    "source": "greenhouse",
-    "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29"
-  },
-  {
-    "id": "5e55e42dec317fd9",
-    "company": "Druva",
-    "title": "Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Santa Clara, CA",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 14,
-    "signals": [
-      "Sales Development Representative",
-      "1+ years"
-    ],
-    "url": "https://www.druva.com/why-druva/explore/careers/jobs/8747431002/?gh_jid=8747431002",
     "source": "greenhouse",
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29"
@@ -757,7 +709,7 @@
     "company": "Kong",
     "title": "Account Development Representative (Fed)",
     "category": "Sales Development Representative",
-    "location": "Virginia, United States; Remote",
+    "location": "Texas, United States; Remote",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -1432,31 +1384,6 @@
     "last_seen": "2026-10-29"
   },
   {
-    "id": "8069d79decc63a1e",
-    "company": "Elastic",
-    "title": "Partner Solutions Architect - Public Sector",
-    "category": "Sales Engineering",
-    "location": "Florida, United States",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 15,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting",
-      "1+ years"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
-    "source": "greenhouse",
-    "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29"
-  },
-  {
     "id": "b19a5f4372405684",
     "company": "Elastic",
     "title": "Partner Solutions Architect - Public Sector",
@@ -1477,6 +1404,31 @@
       "1+ years"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333",
+    "source": "greenhouse",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29"
+  },
+  {
+    "id": "8069d79decc63a1e",
+    "company": "Elastic",
+    "title": "Partner Solutions Architect - Public Sector",
+    "category": "Sales Engineering",
+    "location": "Florida, United States",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 15,
+    "signals": [
+      "Sales Engineering",
+      "Technical Consulting",
+      "1+ years"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923",
     "source": "greenhouse",
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29"
@@ -1697,6 +1649,32 @@
     ],
     "url": "https://jobs.smartrecruiters.com/Servicenow/744000154486659",
     "source": "smartrecruiters",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29"
+  },
+  {
+    "id": "8e29e90c6af44b36",
+    "company": "Snowflake",
+    "title": "Sales Development Representative - German Speaker",
+    "category": "Sales Engineering",
+    "location": "DE-Munich-MSO",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 18,
+    "signals": [
+      "Sales Engineering",
+      "Sales Development Representative",
+      "early career",
+      "1+ years"
+    ],
+    "url": "https://jobs.ashbyhq.com/Snowflake/45535603-aa9b-4fce-b3ac-6babf38da22b",
+    "source": "ashby",
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29"
   },
@@ -2086,29 +2064,6 @@
     "last_seen": "2026-10-29"
   },
   {
-    "id": "19cfc1b0382dc322",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29"
-  },
-  {
     "id": "7463fda0c15bf452",
     "company": "Brex",
     "title": "Technical Consultant I",
@@ -2150,6 +2105,29 @@
       "Technical Consulting"
     ],
     "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29"
+  },
+  {
+    "id": "19cfc1b0382dc322",
+    "company": "Brex",
+    "title": "Technical Consultant I",
+    "category": "Technical Consulting",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Consulting"
+    ],
+    "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
     "source": "greenhouse",
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29"
