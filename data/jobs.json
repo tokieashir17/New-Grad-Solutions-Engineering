@@ -1753,6 +1753,29 @@
     "last_seen": "2026-10-29"
   },
   {
+    "id": "6f04b770b560784e",
+    "company": "Snowflake",
+    "title": "Solution Engineer - GCC (FSI)",
+    "category": "Sales Engineering",
+    "location": "IN-Bangalore-MSO",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 10,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 11,
+    "signals": [
+      "Sales Engineering"
+    ],
+    "url": "https://jobs.ashbyhq.com/Snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180",
+    "source": "ashby",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29"
+  },
+  {
     "id": "7e97c5429122980b",
     "company": "Snyk",
     "title": "Implementation Consultant",
@@ -1801,29 +1824,6 @@
     "last_seen": "2026-10-29"
   },
   {
-    "id": "31b63b70c61d9780",
-    "company": "Databricks",
-    "title": "Solutions Engineer",
-    "category": "Solutions Engineering",
-    "location": "Chicago, Illinois",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 11,
-    "signals": [
-      "Solutions Engineering"
-    ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29"
-  },
-  {
     "id": "4bf0df7dad4f99ef",
     "company": "Databricks",
     "title": "Solutions Engineer",
@@ -1847,25 +1847,24 @@
     "last_seen": "2026-10-29"
   },
   {
-    "id": "a138f63207d17304",
-    "company": "Flexport",
-    "title": "Solutions Consultant",
+    "id": "31b63b70c61d9780",
+    "company": "Databricks",
+    "title": "Solutions Engineer",
     "category": "Solutions Engineering",
-    "location": "Chicago, Illinois, United States",
+    "location": "Chicago, Illinois",
     "remote": false,
     "early_career": false,
     "experience": {
-      "min_years": 3,
+      "min_years": 2,
       "max_years": null,
       "is_plus": true,
-      "is_required": false
+      "is_required": true
     },
-    "score": 10,
+    "score": 11,
     "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
+      "Solutions Engineering"
     ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
     "source": "greenhouse",
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29"
@@ -1890,6 +1889,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
+    "source": "greenhouse",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29"
+  },
+  {
+    "id": "a138f63207d17304",
+    "company": "Flexport",
+    "title": "Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "Chicago, Illinois, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering",
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
     "source": "greenhouse",
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29"

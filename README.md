@@ -3,7 +3,7 @@
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Engineering, and related roles.
 
 **Last updated:** 2026-10-29  
-**Matching jobs:** 90
+**Matching jobs:** 91
 
 ## Categories
 
@@ -11,7 +11,7 @@
 - [GTM Engineering](#gtm-engineering) (1)
 - [Implementation Engineering](#implementation-engineering) (6)
 - [Sales Development Representative](#sales-development-representative) (38)
-- [Sales Engineering](#sales-engineering) (23)
+- [Sales Engineering](#sales-engineering) (24)
 - [Solutions Engineering](#solutions-engineering) (11)
 - [Technical Consulting](#technical-consulting) (4)
 
@@ -163,6 +163,7 @@
 | GitLab | Solutions Architect - SLED (West) | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8907130002) |
 | ServiceNow | AVP Technical Sales Leader – Identity COE | New York, NEW YORK, US \| Remote | Not stated | Review | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000154486659) |
 | Databricks | Solutions Architect - Adtech | United States | Not stated | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8893716002) |
+| Snowflake | Solution Engineer - GCC (FSI) | IN-Bangalore-MSO | 10+ yrs (preferred) | Review | [Apply](https://jobs.ashbyhq.com/Snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180) |
 | Snyk | Implementation Consultant | United States - Boston Office | Not stated | Review | [Apply](https://jobs.ashbyhq.com/snyk/c7e4545a-1652-46d0-81d3-54bd8ae46d28) |
 | Databricks | Program Analyst, Legal Ops | Bellevue, Washington; Denver, Colorado; Seattle, Washington; Washington, D.C. | Not stated | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199399002) |
 | Datadog | Commercial Sales Engineer (AMER - West) | Denver, Colorado, USA | Not stated | Review | [Apply](https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226) |
@@ -180,10 +181,10 @@
 | GitLab | Solutions Architect - SLED (East) | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8907111002) |
 | GitLab | Solutions Architect, Public Sector - East | Remote, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8790680002) |
 | UiPath | Sales Engineer - Healthcare, Payor | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-South Carolina | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
-| Databricks | Solutions Engineer | Chicago, Illinois | 2+ yrs | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
 | Databricks | Solutions Engineer | New York City, New York | 2+ yrs | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002) |
-| Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
+| Databricks | Solutions Engineer | Chicago, Illinois | 2+ yrs | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
 | Flexport | Solutions Consultant | San Francisco, California, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
+| Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Planhat | Technical Deployment Specialist | Los Angeles; New York | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
 
 ## Technical Consulting
