@@ -23,29 +23,6 @@
     "last_seen": "2026-10-30"
   },
   {
-    "id": "203152b05ead11b5",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "New York City, New York, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
-    "source": "greenhouse",
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30"
-  },
-  {
     "id": "309a6aeeb62c454a",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -69,12 +46,12 @@
     "last_seen": "2026-10-30"
   },
   {
-    "id": "410874d150a41839",
-    "company": "ServiceNow",
-    "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+    "id": "203152b05ead11b5",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
     "category": "Forward Deployed Engineering",
-    "location": "New York, New York, US | Remote",
-    "remote": true,
+    "location": "New York City, New York, United States",
+    "remote": false,
     "early_career": false,
     "experience": {
       "min_years": null,
@@ -82,12 +59,12 @@
       "is_plus": false,
       "is_required": false
     },
-    "score": 12,
+    "score": 10,
     "signals": [
       "Forward Deployed Engineering"
     ],
-    "url": "https://jobs.smartrecruiters.com/Servicenow/744000158334169",
-    "source": "smartrecruiters",
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
+    "source": "greenhouse",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30"
   },
@@ -139,6 +116,29 @@
     "last_seen": "2026-10-30"
   },
   {
+    "id": "7af3fb41d3640add",
+    "company": "MotherDuck",
+    "title": "Growth Marketer / GTM Engineer",
+    "category": "GTM Engineering",
+    "location": "San Francisco; Seattle; New York City; Remote",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "GTM Engineering"
+    ],
+    "url": "https://jobs.ashbyhq.com/Motherduck/20df87d4-bcb0-42d3-b302-7266fe0830da",
+    "source": "ashby",
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30"
+  },
+  {
     "id": "3126473d77da72e2",
     "company": "ServiceNow",
     "title": "Global Head, IT (CIO) Technical GTM",
@@ -185,11 +185,11 @@
     "last_seen": "2026-10-30"
   },
   {
-    "id": "78d131ab5e322761",
+    "id": "3227ee1e5e901b5c",
     "company": "Brex",
     "title": "Implementation Consultant, Commercial",
     "category": "Implementation Engineering",
-    "location": "Seattle, Washington, United States",
+    "location": "San Francisco, California, United States",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -202,7 +202,7 @@
     "signals": [
       "Implementation Engineering"
     ],
-    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
+    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
     "source": "greenhouse",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30"
@@ -231,11 +231,11 @@
     "last_seen": "2026-10-30"
   },
   {
-    "id": "3227ee1e5e901b5c",
+    "id": "78d131ab5e322761",
     "company": "Brex",
     "title": "Implementation Consultant, Commercial",
     "category": "Implementation Engineering",
-    "location": "San Francisco, California, United States",
+    "location": "Seattle, Washington, United States",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -248,7 +248,7 @@
     "signals": [
       "Implementation Engineering"
     ],
-    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
+    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
     "source": "greenhouse",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30"
@@ -347,29 +347,6 @@
     "last_seen": "2026-10-30"
   },
   {
-    "id": "b8a5925dfc5593b8",
-    "company": "Brex",
-    "title": "Outbound Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "San Francisco, California, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.brex.com/careers/8814410002?gh_jid=8814410002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30"
-  },
-  {
     "id": "fa2318fc10251949",
     "company": "Brex",
     "title": "Outbound Sales Development Representative",
@@ -388,6 +365,29 @@
       "Sales Development Representative"
     ],
     "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30"
+  },
+  {
+    "id": "b8a5925dfc5593b8",
+    "company": "Brex",
+    "title": "Outbound Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "San Francisco, California, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.brex.com/careers/8814410002?gh_jid=8814410002",
     "source": "greenhouse",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30"
@@ -659,6 +659,29 @@
     "last_seen": "2026-10-30"
   },
   {
+    "id": "67d6f31c9378b08b",
+    "company": "Kong",
+    "title": "Account Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Texas, United States; Remote",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://jobs.ashbyhq.com/Kong/a215aeeb-bd34-4724-b89c-dc8a2efe8de0",
+    "source": "ashby",
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30"
+  },
+  {
     "id": "9297adcdcdfcf1cf",
     "company": "Kong",
     "title": "Account Development Representative (Austin, TX) (Hybrid)",
@@ -700,29 +723,6 @@
       "Sales Development Representative"
     ],
     "url": "https://jobs.ashbyhq.com/Kong/813ebdbc-c0df-4140-bf4c-184cda1a3a53",
-    "source": "ashby",
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30"
-  },
-  {
-    "id": "67d6f31c9378b08b",
-    "company": "Kong",
-    "title": "Account Development Representative (Fed)",
-    "category": "Sales Development Representative",
-    "location": "Texas, United States; Remote",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://jobs.ashbyhq.com/Kong/a215aeeb-bd34-4724-b89c-dc8a2efe8de0",
     "source": "ashby",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30"
@@ -1104,30 +1104,6 @@
     "last_seen": "2026-10-30"
   },
   {
-    "id": "8ca505dba64123fb",
-    "company": "Twilio",
-    "title": "Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Remote - US",
-    "remote": true,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 16,
-    "signals": [
-      "Sales Development Representative",
-      "1+ years"
-    ],
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7481689",
-    "source": "greenhouse",
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30"
-  },
-  {
     "id": "19dd7b033761ed8e",
     "company": "Vanta",
     "title": "Sales Development Representative, Enterprise",
@@ -1215,6 +1191,31 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723766006",
+    "source": "greenhouse",
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30"
+  },
+  {
+    "id": "47bbbeb9dbe1fda5",
+    "company": "Cloudflare",
+    "title": "Customer Engineer, Enterprise - Austin/Dallas,TX or Raleigh, NC",
+    "category": "Sales Engineering",
+    "location": "In-Office",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 15,
+    "signals": [
+      "Sales Engineering",
+      "Forward Deployed Engineering",
+      "associate"
+    ],
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8329370?gh_jid=8329370",
     "source": "greenhouse",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30"
@@ -2037,98 +2038,6 @@
     ],
     "url": "https://jobs.ashbyhq.com/Uipath/04456834-b035-4bcf-8515-e8fc7f111571",
     "source": "ashby",
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30"
-  },
-  {
-    "id": "e7a42fdf55c134ef",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "New York, New York, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30"
-  },
-  {
-    "id": "7463fda0c15bf452",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "Salt Lake City, Utah, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30"
-  },
-  {
-    "id": "19c15c5042274b7e",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "San Francisco, California, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30"
-  },
-  {
-    "id": "19cfc1b0382dc322",
-    "company": "Brex",
-    "title": "Technical Consultant I",
-    "category": "Technical Consulting",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting"
-    ],
-    "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002",
-    "source": "greenhouse",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30"
   }
