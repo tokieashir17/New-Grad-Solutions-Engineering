@@ -2,8 +2,8 @@
 
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Engineering, and related roles.
 
-**Last updated:** 2026-10-30  
-**Matching jobs:** 86
+**Last updated:** 2026-10-31  
+**Matching jobs:** 85
 
 ## Categories
 
@@ -11,7 +11,7 @@
 - [GTM Engineering](#gtm-engineering) (2)
 - [Implementation Engineering](#implementation-engineering) (6)
 - [Sales Development Representative](#sales-development-representative) (36)
-- [Sales Engineering](#sales-engineering) (26)
+- [Sales Engineering](#sales-engineering) (25)
 - [Solutions Engineering](#solutions-engineering) (11)
 
 ## Recently Added
@@ -35,7 +35,6 @@
 | Mercury | Sales Development Representative | San Francisco, CA, New York, NY, Portland, OR, or Remote within United States | Sales Development Representative | 1 yrs | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6167220004) |
 | New Relic | GTM AI Engineer (Automation & AI) | Arlington, Virginia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Dallas, Texas, USA; Denver, Colorado, USA; Detroit, Michigan, USA; Kansas City, Missouri, USA; Newark, New Jersey, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA | Solutions Engineering | 2+ yrs (preferred) | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5436245008) |
 | Ramp | Sales Development Representative, SMB | New York, NY (HQ); San Francisco, CA; Remote | Sales Development Representative | Not stated | [Apply](https://jobs.ashbyhq.com/Ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) |
-| Cloudflare | Customer Engineer, Enterprise - Austin/Dallas,TX or Raleigh, NC | In-Office | Sales Engineering | Not stated | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8329370?gh_jid=8329370) |
 | Elastic | Partner Solutions Architect - Public Sector | Florida, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | Sales Engineering | 1+ yrs (preferred) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
 | Snowflake | Developer Advocate - AI & Developer Experiences | US-CA-Menlo Park; US-WA-Bellevue; CA-Ontario-Toronto | Solutions Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62) |
@@ -68,6 +67,7 @@
 | Hex | Sales Development Representative | San Francisco; New York; Remote | Sales Development Representative | Not stated | [Apply](https://jobs.ashbyhq.com/Hex/93be0230-02b0-422c-95f2-128a430e5673) |
 | Kong | Account Development Representative | Texas, United States; Remote | Sales Development Representative | 2+ yrs (preferred) | [Apply](https://jobs.ashbyhq.com/Kong/a215aeeb-bd34-4724-b89c-dc8a2efe8de0) |
 | MotherDuck | Growth Marketer / GTM Engineer | San Francisco; Seattle; New York City; Remote | GTM Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Motherduck/20df87d4-bcb0-42d3-b302-7266fe0830da) |
+| Ramp | Sales Development Representative \| Public Sector | New York, NY (HQ); San Francisco, CA; Washington, D.C.; Remote | Sales Development Representative | Not stated | [Apply](https://jobs.ashbyhq.com/Ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d) |
 
 ## Forward Deployed Engineering
 
@@ -151,7 +151,6 @@
 | Snowflake | Sales Development Representative - Portuguese Speaker | US-GA-Atlanta | 1-2 yrs (preferred) | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/2bca874d-6c17-4bc9-ab05-ad230fde040a) |
 | Snowflake | Sales Development Representative - Spanish Speaker | US-GA-Atlanta | 1-2 yrs (preferred) | Yes | [Apply](https://jobs.ashbyhq.com/Snowflake/d1823395-6522-4b35-bfbf-365ad939529f) |
 | Gusto | Future Opportunities: Sales Onboarding Advocate | Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid | 1+ yrs | Yes | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8227773) |
-| Cloudflare | Customer Engineer, Enterprise - Austin/Dallas,TX or Raleigh, NC | In-Office | Not stated | Yes | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8329370?gh_jid=8329370) |
 | Elastic | Partner Solutions Architect - Public Sector | Florida, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923) |
 | Elastic | Partner Solutions Architect - Public Sector | Washington, DC, United States | 1+ yrs (preferred) | Yes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333) |
 | Datadog | Sales Engineer (Customer Success) | Denver, Colorado, USA | 1 yrs | Yes | [Apply](https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163) |
