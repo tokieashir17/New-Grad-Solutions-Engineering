@@ -3,11 +3,11 @@
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Engineering, and related roles.
 
 **Last updated:** 2026-11-02  
-**Matching jobs:** 85
+**Matching jobs:** 86
 
 ## Categories
 
-- [Forward Deployed Engineering](#forward-deployed-engineering) (5)
+- [Forward Deployed Engineering](#forward-deployed-engineering) (6)
 - [GTM Engineering](#gtm-engineering) (2)
 - [Implementation Engineering](#implementation-engineering) (6)
 - [Sales Development Representative](#sales-development-representative) (36)
@@ -64,20 +64,21 @@
 | GitLab | Solutions Architect - SLED (East) | Remote, United States | Solutions Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8907111002) |
 | GitLab | Solutions Architect - SLED (West) | Remote, United States | Sales Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8907130002) |
 | GitLab | Solutions Architect, Public Sector - East | Remote, United States | Solutions Engineering | Not stated | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8790680002) |
+| Hex | Product Expert | New York; Remote - US (EST); Remote - US (CST) | Forward Deployed Engineering | 2+ yrs | [Apply](https://jobs.ashbyhq.com/Hex/b2c81c35-8f47-46f0-b0c7-cab734109c19) |
 | Hex | Sales Development Representative | San Francisco; New York; Remote | Sales Development Representative | Not stated | [Apply](https://jobs.ashbyhq.com/Hex/93be0230-02b0-422c-95f2-128a430e5673) |
 | Kong | Account Development Representative | Texas, United States; Remote | Sales Development Representative | 2+ yrs (preferred) | [Apply](https://jobs.ashbyhq.com/Kong/a215aeeb-bd34-4724-b89c-dc8a2efe8de0) |
 | MotherDuck | Growth Marketer / GTM Engineer | San Francisco; Seattle; New York City; Remote | GTM Engineering | Not stated | [Apply](https://jobs.ashbyhq.com/Motherduck/20df87d4-bcb0-42d3-b302-7266fe0830da) |
-| Ramp | Sales Development Representative \| Public Sector | New York, NY (HQ); San Francisco, CA; Washington, D.C.; Remote | Sales Development Representative | Not stated | [Apply](https://jobs.ashbyhq.com/Ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d) |
 
 ## Forward Deployed Engineering
 
 | Company | Role | Location | Experience | Early Career | Apply |
 |---|---|---|---|---|---|
 | Coinbase | Forward Deployed Engineer Intern (HR Technology) | Hybrid - New York, NY | Not stated | Review | [Apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
+| Hex | Product Expert | New York; Remote - US (EST); Remote - US (CST) | 2+ yrs | Review | [Apply](https://jobs.ashbyhq.com/Hex/b2c81c35-8f47-46f0-b0c7-cab734109c19) |
 | ServiceNow | Forward Deployed Solution Engineer – Applied AI FDE | Santa Clara, California, US \| Remote | Not stated | Review | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000154154044) |
 | Toast | GTM Engineer - Sales Workflow Automation, Revenue Intelligence | Remote, US | Not stated | Review | [Apply](https://careers.toasttab.com/jobs?gh_jid=7947082) |
-| Flexport | Rotational Development Program | New York City, New York, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8224715) |
 | Flexport | Rotational Development Program | Chicago, Illinois, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8172300) |
+| Flexport | Rotational Development Program | New York City, New York, United States | Not stated | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8224715) |
 
 ## GTM Engineering
 
@@ -180,8 +181,8 @@
 | UiPath | Sales Engineer - Healthcare, Payor | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-South Carolina | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
 | Databricks | Solutions Engineer | Chicago, Illinois | 2+ yrs | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
 | Databricks | Solutions Engineer | New York City, New York | 2+ yrs | Review | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002) |
-| Flexport | Solutions Consultant | San Francisco, California, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
 | Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
+| Flexport | Solutions Consultant | San Francisco, California, United States | 3+ yrs (preferred) | Review | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
 | Planhat | Technical Deployment Specialist | Los Angeles; New York | Not stated | Review | [Apply](https://jobs.ashbyhq.com/Planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
 
 ---
