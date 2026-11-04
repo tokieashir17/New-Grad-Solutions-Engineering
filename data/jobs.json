@@ -23,6 +23,29 @@
     "last_seen": "2026-11-04"
   },
   {
+    "id": "7e0b9c6c9e8cd208",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "Atlanta, Georgia, United States; Dallas, Texas, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8353044",
+    "source": "greenhouse",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04"
+  },
+  {
     "id": "203152b05ead11b5",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -50,7 +73,7 @@
     "company": "Flexport",
     "title": "Rotational Development Program",
     "category": "Forward Deployed Engineering",
-    "location": "Chicago, Illinois, United States",
+    "location": "Chicago, Illinois, United States; Los Angeles, California, United States",
     "remote": false,
     "early_career": false,
     "experience": {
@@ -1382,25 +1405,26 @@
     "last_seen": "2026-11-04"
   },
   {
-    "id": "2557dff4e9bec2d3",
+    "id": "9d93aa1eeffcd535",
     "company": "Elastic",
-    "title": "Partner Solutions Architect",
+    "title": "Partner Solutions Architect - Public Sector",
     "category": "Sales Engineering",
-    "location": "Colorado, United States",
+    "location": "Florida, United States",
     "remote": false,
-    "early_career": false,
+    "early_career": true,
     "experience": {
-      "min_years": 3,
+      "min_years": 1,
       "max_years": null,
       "is_plus": true,
       "is_required": false
     },
-    "score": 10,
+    "score": 15,
     "signals": [
       "Sales Engineering",
-      "Technical Consulting"
+      "Technical Consulting",
+      "1+ years"
     ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8080876&gh_jid=8080876",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8350647&gh_jid=8350647",
     "source": "greenhouse",
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-04"
@@ -1426,31 +1450,6 @@
       "1+ years"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8302518&gh_jid=8302518",
-    "source": "greenhouse",
-    "first_seen": "2026-11-04",
-    "last_seen": "2026-11-04"
-  },
-  {
-    "id": "9d93aa1eeffcd535",
-    "company": "Elastic",
-    "title": "Partner Solutions Architect - Public Sector",
-    "category": "Sales Engineering",
-    "location": "Florida, United States",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 15,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting",
-      "1+ years"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8350647&gh_jid=8350647",
     "source": "greenhouse",
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-04"
@@ -1848,30 +1847,6 @@
     "last_seen": "2026-11-04"
   },
   {
-    "id": "a138f63207d17304",
-    "company": "Flexport",
-    "title": "Solutions Consultant",
-    "category": "Solutions Engineering",
-    "location": "Chicago, Illinois, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
-    "source": "greenhouse",
-    "first_seen": "2026-11-04",
-    "last_seen": "2026-11-04"
-  },
-  {
     "id": "0677cbc05bafc2e6",
     "company": "Flexport",
     "title": "Solutions Consultant",
@@ -1891,6 +1866,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
+    "source": "greenhouse",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04"
+  },
+  {
+    "id": "a138f63207d17304",
+    "company": "Flexport",
+    "title": "Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "Chicago, Illinois, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering",
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
     "source": "greenhouse",
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-04"
