@@ -77,9 +77,10 @@ def max_required_experience(description: str) -> bool:
 
 def main() -> None:
     companies = json.loads(COMPANIES_PATH.read_text())
-    # Rebuild the dataset each run so jobs that no longer satisfy the filters cannot linger.
-    existing = []
-    existing_by_id = {}
+    # Keep prior first_seen timestamps, but rebuild the output set each run so
+    # jobs that no longer satisfy the filters cannot linger.
+    previous_by_id = {job["id"]: job for job in load_jobs(JOBS_PATH)}
+    current_by_id = {}
 
     today = datetime.now(timezone.utc).date().isoformat()
     collected = 0
@@ -110,8 +111,8 @@ def main() -> None:
                 continue
 
             job_id = stable_id(raw["company"], raw["source"], raw["source_id"])
-            old = existing_by_id.get(job_id)
-            existing_by_id[job_id] = {
+            old = previous_by_id.get(job_id)
+            current_by_id[job_id] = {
                 "id": job_id,
                 "company": raw["company"],
                 "title": raw["title"].strip(),
@@ -124,12 +125,12 @@ def main() -> None:
                 "signals": result["signals"],
                 "url": raw["url"],
                 "source": raw["source"],
-                "first_seen": old["first_seen"] if old else today,
+                "first_seen": old["first_seen"] if old and old.get("first_seen") else today,
                 "last_seen": today,
             }
             accepted += 1
 
-    jobs = list(existing_by_id.values())
+    jobs = list(current_by_id.values())
     save_jobs(JOBS_PATH, jobs)
     generate_readme(jobs, README_PATH)
     logging.info("Collected: %d | Matching: %d | Stored: %d | Non-US filtered: %d | >2 years filtered: %d", collected, accepted, len(jobs), filtered_location, filtered_experience)
