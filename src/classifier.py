@@ -1,6 +1,29 @@
 import re
 
+# More specific categories are listed first so they win over broader
+# "solutions engineer" / "deployment engineer" / "solutions architect" rules.
 ROLE_RULES = {
+    "AI Deployment / Applied AI": [
+        r"\bai deployment\b",
+        r"\bapplied ai\b",
+        r"\bapplied[- ]ai engineer\b",
+        r"\bai solutions engineer\b",
+        r"\bai solutions architect\b",
+        r"\bai implementation\b",
+        r"\bgenerative ai (?:solutions|consultant|engineer)\b",
+        r"\bcustomer[- ]facing\b.*\b(?:applied )?ai\b",
+        r"\b(?:applied )?ai\b.*\bcustomer[- ]facing\b",
+        r"\bai deployment engineer\b",
+    ],
+    "Associate Solutions Architect": [
+        r"\bassociate solutions architect\b",
+        r"\bjunior solutions architect\b",
+        r"\bsolutions architect\s*[i1]\b",
+        r"\bassociate\s+sa\b",
+        r"\bnew[- ]grad(?:uate)?\s+solutions architect\b",
+        r"\bsolutions architect\b.*\b(?:new[- ]grad(?:uate)?|associate|junior|early[- ]career|entry[- ]level)\b",
+        r"\b(?:new[- ]grad(?:uate)?|associate|junior|early[- ]career|entry[- ]level)\b.*\bsolutions architect\b",
+    ],
     "Solutions Engineering": [
         r"\bsolutions engineer\b",
         r"\bsolutions consultant\b",

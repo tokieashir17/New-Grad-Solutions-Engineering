@@ -89,7 +89,7 @@ def generate_readme(jobs: list[dict], path: Path) -> None:
     lines = [
         "# New Grad Solutions Engineering Jobs",
         "",
-        "> Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Success Engineering, Developer Advocacy, Technical Support, Partner Engineering, and related roles.",
+        "> Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Associate Solutions Architect, Applied AI, Customer Success Engineering, Developer Advocacy, Technical Support, Partner Engineering, and related roles.",
         "",
         f"**Last updated:** {today.isoformat()}  ",
         f"**Matching jobs:** {len(jobs)}",
