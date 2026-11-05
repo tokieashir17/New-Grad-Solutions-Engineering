@@ -77,6 +77,52 @@ class ClassifierTests(unittest.TestCase):
         )
         self.assertFalse(result["relevant"])
 
+    def test_associate_solutions_architect(self):
+        result = classify(
+            "Associate Solutions Architect",
+            "Early-career role helping customers design cloud solutions.",
+            "New York, NY",
+        )
+        self.assertTrue(result["relevant"])
+        self.assertEqual(result["category"], "Associate Solutions Architect")
+        self.assertTrue(result["early_career"])
+
+    def test_solutions_architect_stays_technical_consulting(self):
+        result = classify(
+            "Solutions Architect",
+            "Design customer architectures.",
+            "New York, NY",
+        )
+        self.assertTrue(result["relevant"])
+        self.assertEqual(result["category"], "Technical Consulting")
+
+    def test_applied_ai_customer_facing(self):
+        result = classify(
+            "Applied AI Engineer",
+            "Customer-facing role deploying AI solutions with clients.",
+            "San Francisco, CA",
+        )
+        self.assertTrue(result["relevant"])
+        self.assertEqual(result["category"], "AI Deployment / Applied AI")
+
+    def test_ai_deployment_engineer(self):
+        result = classify(
+            "AI Deployment Engineer",
+            "Help customers deploy applied AI in production.",
+            "Remote - United States",
+        )
+        self.assertTrue(result["relevant"])
+        self.assertEqual(result["category"], "AI Deployment / Applied AI")
+
+    def test_ai_solutions_engineer_not_swallowed_by_se(self):
+        result = classify(
+            "AI Solutions Engineer",
+            "Customer-facing applied AI deployments.",
+            "New York, NY",
+        )
+        self.assertTrue(result["relevant"])
+        self.assertEqual(result["category"], "AI Deployment / Applied AI")
+
 
 if __name__ == "__main__":
     unittest.main()
