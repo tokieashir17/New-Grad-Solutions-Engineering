@@ -1,6 +1,6 @@
 # New Grad Solutions Engineering Jobs
 
-> Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Engineering, and related roles.
+> Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Customer Success Engineering, Developer Advocacy, Technical Support, Partner Engineering, and related roles.
 
 **Last updated:** 2026-11-05  
 **Matching jobs:** 84

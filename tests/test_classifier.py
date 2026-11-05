@@ -32,6 +32,51 @@ class ClassifierTests(unittest.TestCase):
         self.assertEqual(result["category"], "Forward Deployed Engineering")
         self.assertTrue(result["remote"])
 
+    def test_customer_success_engineer(self):
+        result = classify(
+            "Customer Success Engineer",
+            "Entry-level role helping customers adopt the platform.",
+            "New York, NY",
+        )
+        self.assertTrue(result["relevant"])
+        self.assertEqual(result["category"], "Customer Success Engineering")
+        self.assertTrue(result["early_career"])
+
+    def test_developer_advocate(self):
+        result = classify(
+            "Developer Advocate",
+            "New grad opportunity building demos and talking to developers.",
+            "San Francisco, CA",
+        )
+        self.assertTrue(result["relevant"])
+        self.assertEqual(result["category"], "Developer Advocacy")
+
+    def test_technical_support_engineer(self):
+        result = classify(
+            "Technical Support Engineer",
+            "Associate role troubleshooting customer issues.",
+            "Boston, MA",
+        )
+        self.assertTrue(result["relevant"])
+        self.assertEqual(result["category"], "Technical Support Engineering")
+
+    def test_partner_engineer(self):
+        result = classify(
+            "Partner Engineer",
+            "Early-career engineers enabling partner integrations.",
+            "Remote - United States",
+        )
+        self.assertTrue(result["relevant"])
+        self.assertEqual(result["category"], "Partner Engineering")
+
+    def test_bdr_title_excluded(self):
+        result = classify(
+            "BDR - Enterprise",
+            "Work with solutions engineers on deals.",
+            "New York, NY",
+        )
+        self.assertFalse(result["relevant"])
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -5,12 +5,15 @@ ROLE_RULES = {
         r"\bsolutions engineer\b",
         r"\bsolutions consultant\b",
         r"\btechnical solutions\b",
+        r"\bsolutions specialist\b",
     ],
     "Sales Engineering": [
         r"\bsales engineer\b",
         r"\bpre[- ]sales\b",
         r"\bpre[- ]sales engineer\b",
         r"\btechnical sales\b",
+        r"\bvalue engineer\b",
+        r"\bvalue consultant\b",
     ],
     "Forward Deployed Engineering": [
         r"\bforward[- ]deployed\b",
@@ -18,11 +21,15 @@ ROLE_RULES = {
         r"\bfield engineer\b",
         r"\bcustomer engineer\b",
         r"\bdeployment strategist\b",
+        r"\bresident engineer\b",
     ],
     "Implementation Engineering": [
         r"\bimplementation engineer\b",
         r"\bimplementation consultant\b",
         r"\bdeployment engineer\b",
+        r"\bonboarding engineer\b",
+        r"\bintegration engineer\b",
+        r"\bprofessional services\b",
     ],
     "Technical Consulting": [
         r"\btechnical consultant\b",
@@ -35,8 +42,36 @@ ROLE_RULES = {
         r"\btechnical gtm\b",
     ],
     "Sales Development Representative": [
-            r"\bsdr\b",
-            r"\bsales development representative\b",
+        r"\bsdr\b",
+        r"\bsales development representative\b",
+    ],
+    # Client-facing + technical paths that fit a CS new grad with consultative
+    # sales / support experience (e.g. Framebridge, campus ambassadorship).
+    "Customer Success Engineering": [
+        r"\bcustomer success engineer\b",
+        r"\btechnical customer success\b",
+        r"\btechnical account manager\b",
+        r"\btechnical csm\b",
+        r"\bcustomer success architect\b",
+    ],
+    "Developer Advocacy": [
+        r"\bdeveloper advocate\b",
+        r"\bdeveloper relations\b",
+        r"\bdevrel\b",
+        r"\bdeveloper experience engineer\b",
+        r"\bdx engineer\b",
+    ],
+    "Technical Support Engineering": [
+        r"\btechnical support engineer\b",
+        r"\bsupport engineer\b",
+        r"\bsolutions support\b",
+        r"\btechnical escalations?\b",
+        r"\bcloud support engineer\b",
+    ],
+    "Partner Engineering": [
+        r"\bpartner engineer\b",
+        r"\bpartner solutions\b",
+        r"\bpartner architect\b",
     ],
 }
 
