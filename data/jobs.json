@@ -87,7 +87,7 @@
     "signals": [
       "AI Deployment / Applied AI"
     ],
-    "url": "https://jobs.ashbyhq.com/Nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011",
+    "url": "https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011",
     "source": "ashby",
     "first_seen": "2026-11-06",
     "last_seen": "2026-11-06"
@@ -142,30 +142,6 @@
     "last_seen": "2026-11-06"
   },
   {
-    "id": "62e488e83cffdb44",
-    "company": "Scale AI",
-    "title": "Software Engineer - New Grad",
-    "category": "AI Deployment / Applied AI",
-    "location": "San Francisco, CA",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 15,
-    "signals": [
-      "AI Deployment / Applied AI",
-      "new grad"
-    ],
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
-    "source": "greenhouse",
-    "first_seen": "2026-11-06",
-    "last_seen": "2026-11-06"
-  },
-  {
     "id": "2622617b87b66d26",
     "company": "Scale AI",
     "title": "STEM Fellow - Human Frontier Collective",
@@ -207,7 +183,7 @@
       "AI Deployment / Applied AI",
       "Technical Support Engineering"
     ],
-    "url": "https://jobs.ashbyhq.com/Vanta/f987d41a-d0e1-4260-9129-f64aee6122ae",
+    "url": "https://jobs.ashbyhq.com/vanta/f987d41a-d0e1-4260-9129-f64aee6122ae",
     "source": "ashby",
     "first_seen": "2026-11-05",
     "last_seen": "2026-11-06"
@@ -259,6 +235,29 @@
     "last_seen": "2026-11-06"
   },
   {
+    "id": "309a6aeeb62c454a",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "Chicago, Illinois, United States; Los Angeles, California, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
+    "source": "greenhouse",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-11-06"
+  },
+  {
     "id": "7e0b9c6c9e8cd208",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -305,29 +304,6 @@
     "last_seen": "2026-11-06"
   },
   {
-    "id": "309a6aeeb62c454a",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "Chicago, Illinois, United States; Los Angeles, California, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-11-06"
-  },
-  {
     "id": "743c2630a9e033ce",
     "company": "Hex",
     "title": "Product Expert",
@@ -345,7 +321,7 @@
     "signals": [
       "Forward Deployed Engineering"
     ],
-    "url": "https://jobs.ashbyhq.com/Hex/b2c81c35-8f47-46f0-b0c7-cab734109c19",
+    "url": "https://jobs.ashbyhq.com/hex/b2c81c35-8f47-46f0-b0c7-cab734109c19",
     "source": "ashby",
     "first_seen": "2026-10-02",
     "last_seen": "2026-11-06"
@@ -415,7 +391,7 @@
     "signals": [
       "GTM Engineering"
     ],
-    "url": "https://jobs.ashbyhq.com/Motherduck/20df87d4-bcb0-42d3-b302-7266fe0830da",
+    "url": "https://jobs.ashbyhq.com/MotherDuck/20df87d4-bcb0-42d3-b302-7266fe0830da",
     "source": "ashby",
     "first_seen": "2026-10-30",
     "last_seen": "2026-11-06"
@@ -490,29 +466,6 @@
     "last_seen": "2026-11-06"
   },
   {
-    "id": "5e1ce63c4a672d35",
-    "company": "Brex",
-    "title": "Implementation Consultant, Commercial",
-    "category": "Implementation Engineering",
-    "location": "New York, New York, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 4,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-11-06"
-  },
-  {
     "id": "78d131ab5e322761",
     "company": "Brex",
     "title": "Implementation Consultant, Commercial",
@@ -531,6 +484,29 @@
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
+    "source": "greenhouse",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-11-06"
+  },
+  {
+    "id": "5e1ce63c4a672d35",
+    "company": "Brex",
+    "title": "Implementation Consultant, Commercial",
+    "category": "Implementation Engineering",
+    "location": "New York, New York, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 4,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002",
     "source": "greenhouse",
     "first_seen": "2026-09-29",
     "last_seen": "2026-11-06"
@@ -647,7 +623,7 @@
       "Sales Development Representative",
       "1+ years"
     ],
-    "url": "https://jobs.ashbyhq.com/Astronomer/587eaa17-f90e-4f59-a3e4-9d8213ef5013",
+    "url": "https://jobs.ashbyhq.com/astronomer/587eaa17-f90e-4f59-a3e4-9d8213ef5013",
     "source": "ashby",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-06"
@@ -676,29 +652,6 @@
     "last_seen": "2026-11-06"
   },
   {
-    "id": "fa2318fc10251949",
-    "company": "Brex",
-    "title": "Outbound Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-03",
-    "last_seen": "2026-11-06"
-  },
-  {
     "id": "b8a5925dfc5593b8",
     "company": "Brex",
     "title": "Outbound Sales Development Representative",
@@ -717,6 +670,29 @@
       "Sales Development Representative"
     ],
     "url": "https://www.brex.com/careers/8814410002?gh_jid=8814410002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-11-06"
+  },
+  {
+    "id": "fa2318fc10251949",
+    "company": "Brex",
+    "title": "Outbound Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
     "source": "greenhouse",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-06"
@@ -1028,7 +1004,7 @@
     "signals": [
       "Sales Development Representative"
     ],
-    "url": "https://jobs.ashbyhq.com/Hex/93be0230-02b0-422c-95f2-128a430e5673",
+    "url": "https://jobs.ashbyhq.com/hex/93be0230-02b0-422c-95f2-128a430e5673",
     "source": "ashby",
     "first_seen": "2026-10-13",
     "last_seen": "2026-11-06"
@@ -1074,7 +1050,7 @@
     "signals": [
       "Sales Development Representative"
     ],
-    "url": "https://jobs.ashbyhq.com/Kong/a215aeeb-bd34-4724-b89c-dc8a2efe8de0",
+    "url": "https://jobs.ashbyhq.com/kong/a215aeeb-bd34-4724-b89c-dc8a2efe8de0",
     "source": "ashby",
     "first_seen": "2026-10-13",
     "last_seen": "2026-11-06"
@@ -1097,7 +1073,7 @@
     "signals": [
       "Sales Development Representative"
     ],
-    "url": "https://jobs.ashbyhq.com/Kong/d93f1b84-9d88-40a1-aff1-2cd456e5cdfd",
+    "url": "https://jobs.ashbyhq.com/kong/d93f1b84-9d88-40a1-aff1-2cd456e5cdfd",
     "source": "ashby",
     "first_seen": "2026-10-13",
     "last_seen": "2026-11-06"
@@ -1120,7 +1096,7 @@
     "signals": [
       "Sales Development Representative"
     ],
-    "url": "https://jobs.ashbyhq.com/Kong/813ebdbc-c0df-4140-bf4c-184cda1a3a53",
+    "url": "https://jobs.ashbyhq.com/kong/813ebdbc-c0df-4140-bf4c-184cda1a3a53",
     "source": "ashby",
     "first_seen": "2026-10-13",
     "last_seen": "2026-11-06"
@@ -1236,7 +1212,7 @@
     "signals": [
       "Sales Development Representative"
     ],
-    "url": "https://jobs.ashbyhq.com/Ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d",
+    "url": "https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d",
     "source": "ashby",
     "first_seen": "2026-10-27",
     "last_seen": "2026-11-06"
@@ -1259,7 +1235,7 @@
     "signals": [
       "Sales Development Representative"
     ],
-    "url": "https://jobs.ashbyhq.com/Ramp/83eec8f4-c37d-43c9-860b-27223eee3643",
+    "url": "https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643",
     "source": "ashby",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-06"
@@ -1283,7 +1259,7 @@
       "Sales Development Representative",
       "early career"
     ],
-    "url": "https://jobs.ashbyhq.com/Ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f",
+    "url": "https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f",
     "source": "ashby",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-06"
@@ -1306,7 +1282,7 @@
     "signals": [
       "Sales Development Representative"
     ],
-    "url": "https://jobs.ashbyhq.com/Ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284",
+    "url": "https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284",
     "source": "ashby",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-06"
@@ -1330,7 +1306,7 @@
       "Sales Development Representative",
       "1-2 years"
     ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/a9b5d21f-3ed9-4158-9b05-76e65736a5da",
+    "url": "https://jobs.ashbyhq.com/snowflake/a9b5d21f-3ed9-4158-9b05-76e65736a5da",
     "source": "ashby",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-06"
@@ -1354,7 +1330,7 @@
       "Sales Development Representative",
       "1-2 years"
     ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/c9650a88-aeb8-4696-bc88-357d2bc7caaa",
+    "url": "https://jobs.ashbyhq.com/snowflake/c9650a88-aeb8-4696-bc88-357d2bc7caaa",
     "source": "ashby",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-06"
@@ -1378,7 +1354,7 @@
       "Sales Development Representative",
       "1-2 years"
     ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/117c0d64-ab16-4041-b82a-af7b6084305e",
+    "url": "https://jobs.ashbyhq.com/snowflake/117c0d64-ab16-4041-b82a-af7b6084305e",
     "source": "ashby",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-06"
@@ -1402,7 +1378,7 @@
       "Sales Development Representative",
       "1-2 years"
     ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/3d6cd7d6-67a5-4e17-b6ae-58abdf8ba0df",
+    "url": "https://jobs.ashbyhq.com/snowflake/3d6cd7d6-67a5-4e17-b6ae-58abdf8ba0df",
     "source": "ashby",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-06"
@@ -1425,7 +1401,7 @@
     "signals": [
       "Sales Development Representative"
     ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/d3d801b9-74a5-4e58-9d8f-1e2a79b22890",
+    "url": "https://jobs.ashbyhq.com/snowflake/d3d801b9-74a5-4e58-9d8f-1e2a79b22890",
     "source": "ashby",
     "first_seen": "2026-10-19",
     "last_seen": "2026-11-06"
@@ -1448,7 +1424,7 @@
     "signals": [
       "Sales Development Representative"
     ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/b31da4db-b3a4-4c95-96f3-f82523f9073a",
+    "url": "https://jobs.ashbyhq.com/snowflake/b31da4db-b3a4-4c95-96f3-f82523f9073a",
     "source": "ashby",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-06"
@@ -1471,7 +1447,7 @@
     "signals": [
       "Sales Development Representative"
     ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/a4753822-7581-4cf3-8fcc-856f54d684b0",
+    "url": "https://jobs.ashbyhq.com/snowflake/a4753822-7581-4cf3-8fcc-856f54d684b0",
     "source": "ashby",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-06"
@@ -1542,7 +1518,7 @@
     "signals": [
       "Sales Development Representative"
     ],
-    "url": "https://jobs.ashbyhq.com/Vanta/c4652ceb-a50d-4dad-ab08-a386617a53f5",
+    "url": "https://jobs.ashbyhq.com/vanta/c4652ceb-a50d-4dad-ab08-a386617a53f5",
     "source": "ashby",
     "first_seen": "2026-10-15",
     "last_seen": "2026-11-06"
@@ -1565,7 +1541,7 @@
     "signals": [
       "Sales Development Representative"
     ],
-    "url": "https://jobs.ashbyhq.com/Vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4",
+    "url": "https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4",
     "source": "ashby",
     "first_seen": "2026-10-15",
     "last_seen": "2026-11-06"
@@ -1980,7 +1956,7 @@
       "early career",
       "1+ years"
     ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/45535603-aa9b-4fce-b3ac-6babf38da22b",
+    "url": "https://jobs.ashbyhq.com/snowflake/45535603-aa9b-4fce-b3ac-6babf38da22b",
     "source": "ashby",
     "first_seen": "2026-10-29",
     "last_seen": "2026-11-06"
@@ -2006,7 +1982,7 @@
       "entry level",
       "1-2 years"
     ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/2bca874d-6c17-4bc9-ab05-ad230fde040a",
+    "url": "https://jobs.ashbyhq.com/snowflake/2bca874d-6c17-4bc9-ab05-ad230fde040a",
     "source": "ashby",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-06"
@@ -2032,7 +2008,7 @@
       "entry level",
       "1-2 years"
     ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/d1823395-6522-4b35-bfbf-365ad939529f",
+    "url": "https://jobs.ashbyhq.com/snowflake/d1823395-6522-4b35-bfbf-365ad939529f",
     "source": "ashby",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-06"
@@ -2055,7 +2031,7 @@
     "signals": [
       "Sales Engineering"
     ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180",
+    "url": "https://jobs.ashbyhq.com/snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180",
     "source": "ashby",
     "first_seen": "2026-09-29",
     "last_seen": "2026-11-06"
@@ -2081,7 +2057,7 @@
       "Technical Consulting",
       "Customer Success Engineering"
     ],
-    "url": "https://jobs.ashbyhq.com/snyk/c7e4545a-1652-46d0-81d3-54bd8ae46d28",
+    "url": "https://jobs.ashbyhq.com/Snyk/c7e4545a-1652-46d0-81d3-54bd8ae46d28",
     "source": "ashby",
     "first_seen": "2026-10-21",
     "last_seen": "2026-11-06"
@@ -2157,30 +2133,6 @@
     "last_seen": "2026-11-06"
   },
   {
-    "id": "0677cbc05bafc2e6",
-    "company": "Flexport",
-    "title": "Solutions Consultant",
-    "category": "Solutions Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
-    "source": "greenhouse",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-11-06"
-  },
-  {
     "id": "a138f63207d17304",
     "company": "Flexport",
     "title": "Solutions Consultant",
@@ -2200,6 +2152,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
+    "source": "greenhouse",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-11-06"
+  },
+  {
+    "id": "0677cbc05bafc2e6",
+    "company": "Flexport",
+    "title": "Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "San Francisco, California, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering",
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
     "source": "greenhouse",
     "first_seen": "2026-09-30",
     "last_seen": "2026-11-06"
@@ -2247,7 +2223,7 @@
     "signals": [
       "Solutions Engineering"
     ],
-    "url": "https://jobs.ashbyhq.com/Planhat/7ca188de-4f4b-43aa-969d-4a59a2243067",
+    "url": "https://jobs.ashbyhq.com/planhat/7ca188de-4f4b-43aa-969d-4a59a2243067",
     "source": "ashby",
     "first_seen": "2026-09-29",
     "last_seen": "2026-11-06"
@@ -2271,7 +2247,7 @@
       "Solutions Engineering",
       "Technical Consulting"
     ],
-    "url": "https://jobs.ashbyhq.com/Ramp/100c09be-f179-406f-893e-8a212f32c642",
+    "url": "https://jobs.ashbyhq.com/ramp/100c09be-f179-406f-893e-8a212f32c642",
     "source": "ashby",
     "first_seen": "2026-09-29",
     "last_seen": "2026-11-06"
@@ -2296,7 +2272,7 @@
       "Developer Advocacy",
       "early career"
     ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62",
+    "url": "https://jobs.ashbyhq.com/snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62",
     "source": "ashby",
     "first_seen": "2026-09-29",
     "last_seen": "2026-11-06"
@@ -2320,7 +2296,7 @@
       "Solutions Engineering",
       "Sales Engineering"
     ],
-    "url": "https://jobs.ashbyhq.com/Uipath/04456834-b035-4bcf-8515-e8fc7f111571",
+    "url": "https://jobs.ashbyhq.com/uipath/04456834-b035-4bcf-8515-e8fc7f111571",
     "source": "ashby",
     "first_seen": "2026-09-29",
     "last_seen": "2026-11-06"
@@ -2483,7 +2459,7 @@
       "Technical Support Engineering",
       "early career"
     ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/1ebb1380-17b4-472b-86c1-2bbfa6f53b8a",
+    "url": "https://jobs.ashbyhq.com/snowflake/1ebb1380-17b4-472b-86c1-2bbfa6f53b8a",
     "source": "ashby",
     "first_seen": "2026-11-05",
     "last_seen": "2026-11-06"
@@ -2506,7 +2482,7 @@
     "signals": [
       "Technical Support Engineering"
     ],
-    "url": "https://jobs.ashbyhq.com/Snowflake/1e128d1a-b3d5-4ff3-8b34-60a81165d27f",
+    "url": "https://jobs.ashbyhq.com/snowflake/1e128d1a-b3d5-4ff3-8b34-60a81165d27f",
     "source": "ashby",
     "first_seen": "2026-11-05",
     "last_seen": "2026-11-06"
