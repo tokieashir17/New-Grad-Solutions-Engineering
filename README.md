@@ -78,10 +78,10 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Samsara | Associate Sales Engineer, SE Desk - Southeast | Sales Engineering | 5 weeks | 2026-09-28 | [Apply](https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351) |
 | Samsara | Associate Sales Engineer, SE Desk - TOLA | Sales Engineering | 5 weeks | 2026-09-28 | [Apply](https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363) |
 | Toast | GTM Engineer - Sales Workflow Automation, Revenue Intelligence | Forward Deployed Engineering | 5 weeks | 2026-09-28 | [Apply](https://careers.toasttab.com/jobs?gh_jid=7947082) |
-| Brex | Implementation Consultant, Commercial | Implementation Engineering | 5 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
-| Brex | Implementation Consultant, Commercial | Implementation Engineering | 5 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
-| Brex | Implementation Consultant, Commercial | Implementation Engineering | 5 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Brex | Implementation Consultant, Commercial | Implementation Engineering | 5 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536968002?gh_jid=8536968002) |
+| Brex | Implementation Consultant, Commercial | Implementation Engineering | 5 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
+| Brex | Implementation Consultant, Commercial | Implementation Engineering | 5 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
+| Brex | Implementation Consultant, Commercial | Implementation Engineering | 5 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
 | Planhat | Technical Deployment Specialist | Solutions Engineering | 5 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
 | Ramp | Technical Consultant, Commercial | Solutions Engineering | 5 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/ramp/100c09be-f179-406f-893e-8a212f32c642) |
 | Snowflake | Developer Advocate - AI & Developer Experiences | Solutions Engineering | 5 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62) |
@@ -92,8 +92,8 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Hex | Product Expert | Forward Deployed Engineering | 5 weeks | 2026-10-02 | [Apply](https://jobs.ashbyhq.com/hex/b2c81c35-8f47-46f0-b0c7-cab734109c19) |
 | Astronomer | Sales Development Representative - NYC (hybrid 4 days in office) | Sales Development Representative | 5 weeks | 2026-10-03 | [Apply](https://jobs.ashbyhq.com/astronomer/587eaa17-f90e-4f59-a3e4-9d8213ef5013) |
 | Brex | Outbound Sales Development Representative | Sales Development Representative | 5 weeks | 2026-10-03 | [Apply](https://www.brex.com/careers/8814628002?gh_jid=8814628002) |
-| Brex | Outbound Sales Development Representative | Sales Development Representative | 5 weeks | 2026-10-03 | [Apply](https://www.brex.com/careers/8831517002?gh_jid=8831517002) |
 | Brex | Outbound Sales Development Representative | Sales Development Representative | 5 weeks | 2026-10-03 | [Apply](https://www.brex.com/careers/8814410002?gh_jid=8814410002) |
+| Brex | Outbound Sales Development Representative | Sales Development Representative | 5 weeks | 2026-10-03 | [Apply](https://www.brex.com/careers/8831517002?gh_jid=8831517002) |
 | Datadog | Sales Development Representative (LATAM - Spanish Speaking) | Sales Development Representative | 5 weeks | 2026-10-03 | [Apply](https://careers.datadoghq.com/detail/7003239/?gh_jid=7003239) |
 | Druva | Sales Development Representative - Future Opportunity | Sales Development Representative | 5 weeks | 2026-10-03 | [Apply](https://www.druva.com/why-druva/explore/careers/jobs/8324608002/?gh_jid=8324608002) |
 | Elastic | Sales Development Representative - Austin, TX | Sales Development Representative | 5 weeks | 2026-10-03 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8233841&gh_jid=8233841) |
@@ -201,9 +201,9 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | ServiceNow | Forward Deployed Solution Engineer – Applied AI FDE | Atlanta, Georgia, US \| Remote | Not stated | Review | 1 day | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000160326680) |
 | ServiceNow | Forward Deployed Solution Engineer – Applied AI FDE | Santa Clara, California, US \| Remote | Not stated | Review | 4 weeks | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000154154044) |
 | Toast | GTM Engineer - Sales Workflow Automation, Revenue Intelligence | Remote, US | Not stated | Review | 5 weeks | [Apply](https://careers.toasttab.com/jobs?gh_jid=7947082) |
+| Flexport | Rotational Development Program | Atlanta, Georgia, United States; Dallas, Texas, United States | Not stated | Review | 4 days | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8353044) |
 | Flexport | Rotational Development Program | New York City, New York, United States | Not stated | Review | 5 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8224715) |
 | Flexport | Rotational Development Program | Chicago, Illinois, United States; Los Angeles, California, United States | Not stated | Review | 5 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8172300) |
-| Flexport | Rotational Development Program | Atlanta, Georgia, United States; Dallas, Texas, United States | Not stated | Review | 4 days | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8353044) |
 
 ## GTM Engineering
 
@@ -217,10 +217,10 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 |---|---|---|---|---|---|---|
 | Carta | Associate, Tax Delivery | Seattle, WA | Not stated | Yes | 3 days | [Apply](https://job-boards.greenhouse.io/carta/jobs/6247992003) |
 | Brex | Enterprise Implementation Consultant | Salt Lake City, Utah, United States | Not stated | Review | 5 weeks | [Apply](https://www.brex.com/careers/8152968002?gh_jid=8152968002) |
-| Brex | Implementation Consultant, Commercial | New York, New York, United States | 4+ yrs (preferred) | Review | 5 weeks | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
-| Brex | Implementation Consultant, Commercial | Salt Lake City, Utah, United States | 4+ yrs (preferred) | Review | 5 weeks | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
-| Brex | Implementation Consultant, Commercial | Seattle, Washington, United States | 4+ yrs (preferred) | Review | 5 weeks | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Brex | Implementation Consultant, Commercial | San Francisco, California, United States | 4+ yrs (preferred) | Review | 5 weeks | [Apply](https://www.brex.com/careers/8536968002?gh_jid=8536968002) |
+| Brex | Implementation Consultant, Commercial | New York, New York, United States | 4+ yrs (preferred) | Review | 5 weeks | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
+| Brex | Implementation Consultant, Commercial | Seattle, Washington, United States | 4+ yrs (preferred) | Review | 5 weeks | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
+| Brex | Implementation Consultant, Commercial | Salt Lake City, Utah, United States | 4+ yrs (preferred) | Review | 5 weeks | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
 | GitLab | Migration Engineer - GitLab Dedicated | Remote, United States | Not stated | Review | 3 days | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8710061002) |
 | ServiceNow | PS, Solution Architect /Forward Deployment Engineer  ( Armis/ Veza) | New York, NEW YORK, US \| Remote | Not stated | Review | 2 weeks | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000157494419) |
 | Databricks | Data+AI Workforce Transformation Practitioner — Customer Delivery | United States | Not stated | Review | 3 days | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8859666002) |
@@ -246,8 +246,8 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Snowflake | Sales Development Representative | CA-Ontario-Toronto | 1-2 yrs (preferred) | Yes | 5 weeks | [Apply](https://jobs.ashbyhq.com/snowflake/3d6cd7d6-67a5-4e17-b6ae-58abdf8ba0df) |
 | Tanium | Sales Development Representative | Addison, TX | 1+ yrs | Yes | 5 weeks | [Apply](https://job-boards.greenhouse.io/tanium/jobs/6531353) |
 | Brex | Outbound Sales Development Representative | Salt Lake City, Utah, United States | Not stated | Review | 5 weeks | [Apply](https://www.brex.com/careers/8814628002?gh_jid=8814628002) |
-| Brex | Outbound Sales Development Representative | Seattle, Washington, United States | Not stated | Review | 5 weeks | [Apply](https://www.brex.com/careers/8831517002?gh_jid=8831517002) |
 | Brex | Outbound Sales Development Representative | San Francisco, California, United States | Not stated | Review | 5 weeks | [Apply](https://www.brex.com/careers/8814410002?gh_jid=8814410002) |
+| Brex | Outbound Sales Development Representative | Seattle, Washington, United States | Not stated | Review | 5 weeks | [Apply](https://www.brex.com/careers/8831517002?gh_jid=8831517002) |
 | Hex | Sales Development Representative | San Francisco; New York; Remote | Not stated | Review | 3 weeks | [Apply](https://jobs.ashbyhq.com/hex/93be0230-02b0-422c-95f2-128a430e5673) |
 | Intercom | Sales Development Representative | Chicago, Illinois | 0-3 yrs (preferred) | Review | 3 days | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7994073) |
 | Kong | Account Development Representative | Texas, United States; Remote | 2+ yrs (preferred) | Review | 3 weeks | [Apply](https://jobs.ashbyhq.com/kong/a215aeeb-bd34-4724-b89c-dc8a2efe8de0) |
