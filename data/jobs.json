@@ -235,29 +235,6 @@
     "last_seen": "2026-11-09"
   },
   {
-    "id": "203152b05ead11b5",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "New York City, New York, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-11-09"
-  },
-  {
     "id": "309a6aeeb62c454a",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -276,6 +253,29 @@
       "Forward Deployed Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
+    "source": "greenhouse",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-11-09"
+  },
+  {
+    "id": "203152b05ead11b5",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "New York City, New York, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-11-09"
@@ -466,6 +466,29 @@
     "last_seen": "2026-11-09"
   },
   {
+    "id": "3227ee1e5e901b5c",
+    "company": "Brex",
+    "title": "Implementation Consultant, Commercial",
+    "category": "Implementation Engineering",
+    "location": "San Francisco, California, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 4,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
+    "source": "greenhouse",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-11-09"
+  },
+  {
     "id": "99c45cbcf84eb37f",
     "company": "Brex",
     "title": "Implementation Consultant, Commercial",
@@ -507,29 +530,6 @@
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-11-09"
-  },
-  {
-    "id": "3227ee1e5e901b5c",
-    "company": "Brex",
-    "title": "Implementation Consultant, Commercial",
-    "category": "Implementation Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 4,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
     "source": "greenhouse",
     "first_seen": "2026-09-29",
     "last_seen": "2026-11-09"
@@ -1222,7 +1222,7 @@
     "company": "Ramp",
     "title": "Sales Development Representative | Public Sector",
     "category": "Sales Development Representative",
-    "location": "New York, NY (HQ); San Francisco, CA; Washington, D.C.; Remote",
+    "location": "NYC; SF; Washington, D.C.; Remote",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -1241,71 +1241,49 @@
     "last_seen": "2026-11-09"
   },
   {
-    "id": "88dede9a6a101c22",
-    "company": "Ramp",
-    "title": "Sales Development Representative, Mid-Market",
+    "id": "c0dbc88fe0510441",
+    "company": "Snowflake",
+    "title": "Sales Development Representative",
     "category": "Sales Development Representative",
-    "location": "New York, NY (HQ); San Francisco, CA; Remote",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643",
-    "source": "ashby",
-    "first_seen": "2026-10-03",
-    "last_seen": "2026-11-09"
-  },
-  {
-    "id": "6f1cfd7ac6794d82",
-    "company": "Ramp",
-    "title": "Sales Development Representative, SMB",
-    "category": "Sales Development Representative",
-    "location": "New York, NY (HQ); San Francisco, CA; Remote",
-    "remote": true,
+    "location": "US-GA-Atlanta",
+    "remote": false,
     "early_career": true,
     "experience": {
-      "min_years": null,
-      "max_years": null,
+      "min_years": 1,
+      "max_years": 2,
       "is_plus": false,
       "is_required": false
     },
-    "score": 16,
+    "score": 14,
     "signals": [
       "Sales Development Representative",
-      "early career"
+      "1-2 years"
     ],
-    "url": "https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f",
+    "url": "https://jobs.ashbyhq.com/snowflake/117c0d64-ab16-4041-b82a-af7b6084305e",
     "source": "ashby",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-09"
   },
   {
-    "id": "a3697dfcd1f175bb",
-    "company": "Ramp",
-    "title": "Sales Development Representative, Strategic Accounts",
+    "id": "785825f8af4525a3",
+    "company": "Snowflake",
+    "title": "Sales Development Representative",
     "category": "Sales Development Representative",
-    "location": "New York, NY (HQ); Remote",
-    "remote": true,
-    "early_career": false,
+    "location": "CA-Ontario-Toronto",
+    "remote": false,
+    "early_career": true,
     "experience": {
-      "min_years": null,
-      "max_years": null,
+      "min_years": 1,
+      "max_years": 2,
       "is_plus": false,
       "is_required": false
     },
-    "score": 12,
+    "score": 14,
     "signals": [
-      "Sales Development Representative"
+      "Sales Development Representative",
+      "1-2 years"
     ],
-    "url": "https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284",
+    "url": "https://jobs.ashbyhq.com/snowflake/3d6cd7d6-67a5-4e17-b6ae-58abdf8ba0df",
     "source": "ashby",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-09"
@@ -1354,54 +1332,6 @@
       "1-2 years"
     ],
     "url": "https://jobs.ashbyhq.com/snowflake/c9650a88-aeb8-4696-bc88-357d2bc7caaa",
-    "source": "ashby",
-    "first_seen": "2026-10-03",
-    "last_seen": "2026-11-09"
-  },
-  {
-    "id": "c0dbc88fe0510441",
-    "company": "Snowflake",
-    "title": "Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "US-GA-Atlanta",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": 2,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 14,
-    "signals": [
-      "Sales Development Representative",
-      "1-2 years"
-    ],
-    "url": "https://jobs.ashbyhq.com/snowflake/117c0d64-ab16-4041-b82a-af7b6084305e",
-    "source": "ashby",
-    "first_seen": "2026-10-03",
-    "last_seen": "2026-11-09"
-  },
-  {
-    "id": "785825f8af4525a3",
-    "company": "Snowflake",
-    "title": "Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "CA-Ontario-Toronto",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": 2,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 14,
-    "signals": [
-      "Sales Development Representative",
-      "1-2 years"
-    ],
-    "url": "https://jobs.ashbyhq.com/snowflake/3d6cd7d6-67a5-4e17-b6ae-58abdf8ba0df",
     "source": "ashby",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-09"
@@ -1590,6 +1520,30 @@
     "url": "https://abnormal.ai/careers/jobs/7894691003?gh_jid=7894691003",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
+    "last_seen": "2026-11-09"
+  },
+  {
+    "id": "f97562f853010ba7",
+    "company": "Benchling",
+    "title": "Solution Consultant - R&D",
+    "category": "Sales Engineering",
+    "location": "Tarrytown, NY; New York, NY; Princeton, NJ; Hartford, CT; Philadelphia, PA; Boston, MA; Remote",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 4,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Engineering",
+      "Implementation Engineering"
+    ],
+    "url": "https://jobs.ashbyhq.com/benchling/9bc4ad8e-3446-4345-bc61-b079c62f2090",
+    "source": "ashby",
+    "first_seen": "2026-11-09",
     "last_seen": "2026-11-09"
   },
   {
@@ -2156,30 +2110,6 @@
     "last_seen": "2026-11-09"
   },
   {
-    "id": "a138f63207d17304",
-    "company": "Flexport",
-    "title": "Solutions Consultant",
-    "category": "Solutions Engineering",
-    "location": "Chicago, Illinois, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
-    "source": "greenhouse",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-11-09"
-  },
-  {
     "id": "0677cbc05bafc2e6",
     "company": "Flexport",
     "title": "Solutions Consultant",
@@ -2199,6 +2129,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
+    "source": "greenhouse",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-11-09"
+  },
+  {
+    "id": "a138f63207d17304",
+    "company": "Flexport",
+    "title": "Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "Chicago, Illinois, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering",
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
     "source": "greenhouse",
     "first_seen": "2026-09-30",
     "last_seen": "2026-11-09"
@@ -2247,30 +2201,6 @@
       "Solutions Engineering"
     ],
     "url": "https://jobs.ashbyhq.com/planhat/7ca188de-4f4b-43aa-969d-4a59a2243067",
-    "source": "ashby",
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-11-09"
-  },
-  {
-    "id": "3867b15186314c67",
-    "company": "Ramp",
-    "title": "Technical Consultant, Commercial",
-    "category": "Solutions Engineering",
-    "location": "Remote (US); San Francisco, CA; New York, NY (HQ)",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 13,
-    "signals": [
-      "Solutions Engineering",
-      "Technical Consulting"
-    ],
-    "url": "https://jobs.ashbyhq.com/ramp/100c09be-f179-406f-893e-8a212f32c642",
     "source": "ashby",
     "first_seen": "2026-09-29",
     "last_seen": "2026-11-09"
