@@ -3,20 +3,20 @@
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Associate Solutions Architect, Applied AI, Customer Success Engineering, Developer Advocacy, Technical Support, Partner Engineering, and related roles.
 
 **Last updated:** 2026-11-10  
-**Matching jobs:** 110
+**Matching jobs:** 109
 
 ## Categories
 
 - [AI Deployment / Applied AI](#ai-deployment--applied-ai) (8)
 - [Developer Advocacy](#developer-advocacy) (1)
-- [Forward Deployed Engineering](#forward-deployed-engineering) (8)
+- [Forward Deployed Engineering](#forward-deployed-engineering) (7)
 - [GTM Engineering](#gtm-engineering) (1)
 - [Implementation Engineering](#implementation-engineering) (9)
-- [Sales Development Representative](#sales-development-representative) (40)
+- [Sales Development Representative](#sales-development-representative) (39)
 - [Sales Engineering](#sales-engineering) (22)
 - [Solutions Engineering](#solutions-engineering) (9)
 - [Technical Consulting](#technical-consulting) (3)
-- [Technical Support Engineering](#technical-support-engineering) (9)
+- [Technical Support Engineering](#technical-support-engineering) (10)
 
 - [How Long Postings Have Been Up](#how-long-postings-have-been-up)
 
@@ -44,7 +44,6 @@
 | GitLab | Migration Engineer - GitLab Dedicated | Remote, United States | Implementation Engineering | Not stated | 5 days | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8710061002) |
 | GitLab | Support Engineer, U.S. Government Support (SHIFT) | Remote, United States | Technical Support Engineering | Not stated | 5 days | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8859063002) |
 | Hims & Hers | Quality Control Specialist | Gilbert, Arizona | Technical Support Engineering | 2+ yrs (preferred) | 5 days | [Apply](https://jobs.ashbyhq.com/hims-and-hers/645f2ad7-d656-4d31-818f-5fec30ccfbc7) |
-| Intercom | Sales Development Representative | Chicago, Illinois | Sales Development Representative | 0-3 yrs (preferred) | 5 days | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7994073) |
 | Kustomer | Technical Support Engineer | US - Remote | Technical Support Engineering | 4+ yrs (preferred) | 5 days | [Apply](https://jobs.ashbyhq.com/Kustomer/f5936ba0-85eb-4409-81ae-979c3d978ba4) |
 | Ramp | Sales Development Representative, Mid-Market | New York, NY (HQ); San Francisco, CA; Remote | Sales Development Representative | Not stated | Today | [Apply](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) |
 | Ramp | Sales Development Representative, Strategic Accounts | New York, NY (HQ); Remote | Sales Development Representative | Not stated | Today | [Apply](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) |
@@ -54,6 +53,7 @@
 | Vanta | AI Agent Support Specialist | Remote U.S. | AI Deployment / Applied AI | Not stated | 5 days | [Apply](https://jobs.ashbyhq.com/vanta/f987d41a-d0e1-4260-9129-f64aee6122ae) |
 | Snowflake | Cloud Support Engineer - Japanese Speaking | CA-Ontario-Toronto | Technical Support Engineering | Not stated | 5 days | [Apply](https://jobs.ashbyhq.com/snowflake/1e128d1a-b3d5-4ff3-8b34-60a81165d27f) |
 | Braze | Solutions Consultant | New York City | Solutions Engineering | Not stated | 7 days | [Apply](https://job-boards.greenhouse.io/braze/jobs/8327835) |
+| Cloudflare | Technical Support Engineer | In-Office | Technical Support Engineering | Not stated | Today | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8359552?gh_jid=8359552) |
 | Databricks | Customer Enablement Architect | United States | AI Deployment / Applied AI | Not stated | 5 days | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8593373002) |
 | Databricks | Data+AI Workforce Transformation Practitioner — Customer Delivery | United States | Implementation Engineering | Not stated | 5 days | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8859666002) |
 | Datadog | Sales Development Representative (LATAM - Portuguese Speaking) | Boston, Massachusetts, USA | Sales Development Representative | Not stated | 5 days | [Apply](https://careers.datadoghq.com/detail/8139396/?gh_jid=8139396) |
@@ -83,11 +83,10 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Samsara | Associate Sales Engineer, SE Desk - Northeast | Sales Engineering | 6 weeks | 2026-09-28 | [Apply](https://www.samsara.com/company/careers/roles/7311741?gh_jid=7311741) |
 | Samsara | Associate Sales Engineer, SE Desk - Southeast | Sales Engineering | 6 weeks | 2026-09-28 | [Apply](https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351) |
 | Samsara | Associate Sales Engineer, SE Desk - TOLA | Sales Engineering | 6 weeks | 2026-09-28 | [Apply](https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363) |
-| Toast | GTM Engineer - Sales Workflow Automation, Revenue Intelligence | Forward Deployed Engineering | 6 weeks | 2026-09-28 | [Apply](https://careers.toasttab.com/jobs?gh_jid=7947082) |
-| Brex | Implementation Consultant, Commercial | Implementation Engineering | 6 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
 | Brex | Implementation Consultant, Commercial | Implementation Engineering | 6 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Brex | Implementation Consultant, Commercial | Implementation Engineering | 6 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
 | Brex | Implementation Consultant, Commercial | Implementation Engineering | 6 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536968002?gh_jid=8536968002) |
+| Brex | Implementation Consultant, Commercial | Implementation Engineering | 6 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
 | Planhat | Technical Deployment Specialist | Solutions Engineering | 6 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
 | Snowflake | Solution Engineer - GCC (FSI) | Sales Engineering | 6 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180) |
 | UiPath | Sales Engineer - Healthcare, Payor | Solutions Engineering | 6 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
@@ -157,7 +156,6 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | GitLab | Migration Engineer - GitLab Dedicated | Implementation Engineering | 5 days | 2026-11-05 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8710061002) |
 | GitLab | Support Engineer, U.S. Government Support (SHIFT) | Technical Support Engineering | 5 days | 2026-11-05 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8859063002) |
 | Hims & Hers | Quality Control Specialist | Technical Support Engineering | 5 days | 2026-11-05 | [Apply](https://jobs.ashbyhq.com/hims-and-hers/645f2ad7-d656-4d31-818f-5fec30ccfbc7) |
-| Intercom | Sales Development Representative | Sales Development Representative | 5 days | 2026-11-05 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7994073) |
 | Kustomer | Technical Support Engineer | Technical Support Engineering | 5 days | 2026-11-05 | [Apply](https://jobs.ashbyhq.com/Kustomer/f5936ba0-85eb-4409-81ae-979c3d978ba4) |
 | Snowflake | Cloud Support Engineer | Technical Support Engineering | 5 days | 2026-11-05 | [Apply](https://jobs.ashbyhq.com/snowflake/1ebb1380-17b4-472b-86c1-2bbfa6f53b8a) |
 | Snowflake | Cloud Support Engineer - Japanese Speaking | Technical Support Engineering | 5 days | 2026-11-05 | [Apply](https://jobs.ashbyhq.com/snowflake/1e128d1a-b3d5-4ff3-8b34-60a81165d27f) |
@@ -174,6 +172,7 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | GitLab | Customer Success LATAM | Technical Consulting | 3 days | 2026-11-07 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8931337002) |
 | ServiceNow | Forward Deployed Solution Engineer – Applied AI FDE | Forward Deployed Engineering | 3 days | 2026-11-07 | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000160326680) |
 | Benchling | Solution Consultant - R&D | Sales Engineering | 1 day | 2026-11-09 | [Apply](https://jobs.ashbyhq.com/benchling/9bc4ad8e-3446-4345-bc61-b079c62f2090) |
+| Cloudflare | Technical Support Engineer | Technical Support Engineering | Today | 2026-11-10 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8359552?gh_jid=8359552) |
 | Elastic | Partner Solutions Architect | Technical Consulting | Today | 2026-11-10 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8348532&gh_jid=8348532) |
 | Ramp | Sales Development Representative, Mid-Market | Sales Development Representative | Today | 2026-11-10 | [Apply](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) |
 | Ramp | Sales Development Representative, SMB | Sales Development Representative | Today | 2026-11-10 | [Apply](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) |
@@ -207,7 +206,6 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Hex | Product Expert | New York; Remote - US (EST); Remote - US (CST) | 2+ yrs | Review | 5 weeks | [Apply](https://jobs.ashbyhq.com/hex/b2c81c35-8f47-46f0-b0c7-cab734109c19) |
 | ServiceNow | Forward Deployed Solution Engineer – Applied AI FDE | Atlanta, Georgia, US \| Remote | Not stated | Review | 3 days | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000160326680) |
 | ServiceNow | Forward Deployed Solution Engineer – Applied AI FDE | Santa Clara, California, US \| Remote | Not stated | Review | 4 weeks | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000154154044) |
-| Toast | GTM Engineer - Sales Workflow Automation, Revenue Intelligence | Remote, US | Not stated | Review | 6 weeks | [Apply](https://careers.toasttab.com/jobs?gh_jid=7947082) |
 | Flexport | Rotational Development Program | Los Angeles, California, United States; New York City, New York, United States | Not stated | Review | 6 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8224715) |
 | Flexport | Rotational Development Program | Chicago, Illinois, United States; Los Angeles, California, United States | Not stated | Review | 6 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8172300) |
 | Flexport | Rotational Development Program | Atlanta, Georgia, United States; Dallas, Texas, United States | Not stated | Review | 6 days | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8353044) |
@@ -224,10 +222,10 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 |---|---|---|---|---|---|---|
 | Carta | Associate, Tax Delivery | Seattle, WA | Not stated | Yes | 5 days | [Apply](https://job-boards.greenhouse.io/carta/jobs/6247992003) |
 | Brex | Enterprise Implementation Consultant | Salt Lake City, Utah, United States | Not stated | Review | 6 weeks | [Apply](https://www.brex.com/careers/8152968002?gh_jid=8152968002) |
-| Brex | Implementation Consultant, Commercial | Salt Lake City, Utah, United States | 4+ yrs (preferred) | Review | 6 weeks | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
 | Brex | Implementation Consultant, Commercial | Seattle, Washington, United States | 4+ yrs (preferred) | Review | 6 weeks | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Brex | Implementation Consultant, Commercial | New York, New York, United States | 4+ yrs (preferred) | Review | 6 weeks | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
 | Brex | Implementation Consultant, Commercial | San Francisco, California, United States | 4+ yrs (preferred) | Review | 6 weeks | [Apply](https://www.brex.com/careers/8536968002?gh_jid=8536968002) |
+| Brex | Implementation Consultant, Commercial | Salt Lake City, Utah, United States | 4+ yrs (preferred) | Review | 6 weeks | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
 | GitLab | Migration Engineer - GitLab Dedicated | Remote, United States | Not stated | Review | 5 days | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8710061002) |
 | ServiceNow | PS, Solution Architect /Forward Deployment Engineer  ( Armis/ Veza) | New York, NEW YORK, US \| Remote | Not stated | Review | 2 weeks | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000157494419) |
 | Databricks | Data+AI Workforce Transformation Practitioner — Customer Delivery | United States | Not stated | Review | 5 days | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8859666002) |
@@ -256,7 +254,6 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Brex | Outbound Sales Development Representative | San Francisco, California, United States | Not stated | Review | 5 weeks | [Apply](https://www.brex.com/careers/8814410002?gh_jid=8814410002) |
 | Brex | Outbound Sales Development Representative | Seattle, Washington, United States | Not stated | Review | 5 weeks | [Apply](https://www.brex.com/careers/8831517002?gh_jid=8831517002) |
 | Hex | Sales Development Representative | San Francisco; New York; Remote | Not stated | Review | 4 weeks | [Apply](https://jobs.ashbyhq.com/hex/93be0230-02b0-422c-95f2-128a430e5673) |
-| Intercom | Sales Development Representative | Chicago, Illinois | 0-3 yrs (preferred) | Review | 5 days | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7994073) |
 | Kong | Account Development Representative | Texas, United States; Remote | 2+ yrs (preferred) | Review | 4 weeks | [Apply](https://jobs.ashbyhq.com/kong/a215aeeb-bd34-4724-b89c-dc8a2efe8de0) |
 | Kong | Account Development Representative (Austin, TX) (Hybrid) | Texas, United States; Remote | 2+ yrs (preferred) | Review | 4 weeks | [Apply](https://jobs.ashbyhq.com/kong/d93f1b84-9d88-40a1-aff1-2cd456e5cdfd) |
 | Ramp | Sales Development Representative \| Public Sector | New York, NY (HQ); San Francisco, CA; Washington, D.C.; Remote | Not stated | Review | 2 weeks | [Apply](https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d) |
@@ -337,6 +334,7 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Kustomer | Technical Support Engineer | US - Remote | 4+ yrs (preferred) | Review | 5 days | [Apply](https://jobs.ashbyhq.com/Kustomer/f5936ba0-85eb-4409-81ae-979c3d978ba4) |
 | Tailscale | Customer Reliability Engineer | Remote (United States) | Not stated | Review | 5 days | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4715160005) |
 | Snowflake | Cloud Support Engineer - Japanese Speaking | CA-Ontario-Toronto | Not stated | Review | 5 days | [Apply](https://jobs.ashbyhq.com/snowflake/1e128d1a-b3d5-4ff3-8b34-60a81165d27f) |
+| Cloudflare | Technical Support Engineer | In-Office | Not stated | Review | Today | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8359552?gh_jid=8359552) |
 | Druva | Cloud Operations Support Engineer | Santa Clara, CA | 2+ yrs | Review | 5 days | [Apply](https://www.druva.com/why-druva/explore/careers/jobs/8811603002/?gh_jid=8811603002) |
 | Tanium | Technical Support Engineer (TSE) Intern | Addison, TX (Hybrid) | Not stated | Review | 5 days | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176322) |
 
