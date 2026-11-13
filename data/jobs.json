@@ -235,29 +235,6 @@
     "last_seen": "2026-11-13"
   },
   {
-    "id": "7e0b9c6c9e8cd208",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "Atlanta, Georgia, United States; Dallas, Texas, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8353044",
-    "source": "greenhouse",
-    "first_seen": "2026-11-04",
-    "last_seen": "2026-11-13"
-  },
-  {
     "id": "309a6aeeb62c454a",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -301,6 +278,29 @@
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
+    "last_seen": "2026-11-13"
+  },
+  {
+    "id": "7e0b9c6c9e8cd208",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "Atlanta, Georgia, United States; Dallas, Texas, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8353044",
+    "source": "greenhouse",
+    "first_seen": "2026-11-04",
     "last_seen": "2026-11-13"
   },
   {
@@ -373,11 +373,11 @@
     "last_seen": "2026-11-13"
   },
   {
-    "id": "3227ee1e5e901b5c",
+    "id": "99c45cbcf84eb37f",
     "company": "Brex",
     "title": "Implementation Consultant, Commercial",
     "category": "Implementation Engineering",
-    "location": "San Francisco, California, United States",
+    "location": "Salt Lake City, Utah, United States",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -390,7 +390,7 @@
     "signals": [
       "Implementation Engineering"
     ],
-    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
+    "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
     "source": "greenhouse",
     "first_seen": "2026-09-29",
     "last_seen": "2026-11-13"
@@ -419,29 +419,6 @@
     "last_seen": "2026-11-13"
   },
   {
-    "id": "99c45cbcf84eb37f",
-    "company": "Brex",
-    "title": "Implementation Consultant, Commercial",
-    "category": "Implementation Engineering",
-    "location": "Salt Lake City, Utah, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 4,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-11-13"
-  },
-  {
     "id": "5e1ce63c4a672d35",
     "company": "Brex",
     "title": "Implementation Consultant, Commercial",
@@ -460,6 +437,29 @@
       "Implementation Engineering"
     ],
     "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002",
+    "source": "greenhouse",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-11-13"
+  },
+  {
+    "id": "3227ee1e5e901b5c",
+    "company": "Brex",
+    "title": "Implementation Consultant, Commercial",
+    "category": "Implementation Engineering",
+    "location": "San Francisco, California, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 4,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
     "source": "greenhouse",
     "first_seen": "2026-09-29",
     "last_seen": "2026-11-13"
@@ -489,29 +489,6 @@
     "last_seen": "2026-11-13"
   },
   {
-    "id": "e5e180676a710944",
-    "company": "Contentful",
-    "title": "Solution Engineer",
-    "category": "Implementation Engineering",
-    "location": "Austin, Texas, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383636",
-    "source": "greenhouse",
-    "first_seen": "2026-11-12",
-    "last_seen": "2026-11-13"
-  },
-  {
     "id": "eddda721146f3b83",
     "company": "Contentful",
     "title": "Solution Engineer",
@@ -535,11 +512,11 @@
     "last_seen": "2026-11-13"
   },
   {
-    "id": "6d0742325a97545d",
+    "id": "87e8d936dd0db47f",
     "company": "Contentful",
     "title": "Solution Engineer",
     "category": "Implementation Engineering",
-    "location": "New York, New York, United States",
+    "location": "Dallas, Texas, United States",
     "remote": false,
     "early_career": false,
     "experience": {
@@ -552,7 +529,7 @@
     "signals": [
       "Implementation Engineering"
     ],
-    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383603",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383644",
     "source": "greenhouse",
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-13"
@@ -604,11 +581,11 @@
     "last_seen": "2026-11-13"
   },
   {
-    "id": "87e8d936dd0db47f",
+    "id": "6d0742325a97545d",
     "company": "Contentful",
     "title": "Solution Engineer",
     "category": "Implementation Engineering",
-    "location": "Dallas, Texas, United States",
+    "location": "New York, New York, United States",
     "remote": false,
     "early_career": false,
     "experience": {
@@ -621,7 +598,30 @@
     "signals": [
       "Implementation Engineering"
     ],
-    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383644",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383603",
+    "source": "greenhouse",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-13"
+  },
+  {
+    "id": "e5e180676a710944",
+    "company": "Contentful",
+    "title": "Solution Engineer",
+    "category": "Implementation Engineering",
+    "location": "Austin, Texas, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383636",
     "source": "greenhouse",
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-13"
@@ -1191,6 +1191,52 @@
     "url": "https://job-boards.greenhouse.io/mercury/jobs/6167220004",
     "source": "greenhouse",
     "first_seen": "2026-10-03",
+    "last_seen": "2026-11-13"
+  },
+  {
+    "id": "1233e4cf9b8493e1",
+    "company": "Netskope",
+    "title": "Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Saint Louis, Missouri, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 10,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7306978",
+    "source": "greenhouse",
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13"
+  },
+  {
+    "id": "7451dd5fdc9798b0",
+    "company": "Netskope",
+    "title": "Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Santa Clara, California, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 10,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207",
+    "source": "greenhouse",
+    "first_seen": "2026-11-13",
     "last_seen": "2026-11-13"
   },
   {
@@ -2252,30 +2298,6 @@
     "last_seen": "2026-11-13"
   },
   {
-    "id": "a138f63207d17304",
-    "company": "Flexport",
-    "title": "Solutions Consultant",
-    "category": "Solutions Engineering",
-    "location": "Chicago, Illinois, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
-    "source": "greenhouse",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-11-13"
-  },
-  {
     "id": "0677cbc05bafc2e6",
     "company": "Flexport",
     "title": "Solutions Consultant",
@@ -2295,6 +2317,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
+    "source": "greenhouse",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-11-13"
+  },
+  {
+    "id": "a138f63207d17304",
+    "company": "Flexport",
+    "title": "Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "Chicago, Illinois, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering",
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
     "source": "greenhouse",
     "first_seen": "2026-09-30",
     "last_seen": "2026-11-13"

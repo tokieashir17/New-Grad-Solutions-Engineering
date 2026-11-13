@@ -3,7 +3,7 @@
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Associate Solutions Architect, Applied AI, Customer Success Engineering, Developer Advocacy, Technical Support, Partner Engineering, and related roles.
 
 **Last updated:** 2026-11-13  
-**Matching jobs:** 113
+**Matching jobs:** 115
 
 ## Categories
 
@@ -11,7 +11,7 @@
 - [Developer Advocacy](#developer-advocacy) (1)
 - [Forward Deployed Engineering](#forward-deployed-engineering) (6)
 - [Implementation Engineering](#implementation-engineering) (15)
-- [Sales Development Representative](#sales-development-representative) (38)
+- [Sales Development Representative](#sales-development-representative) (40)
 - [Sales Engineering](#sales-engineering) (23)
 - [Solutions Engineering](#solutions-engineering) (10)
 - [Technical Consulting](#technical-consulting) (3)
@@ -38,13 +38,15 @@
 | GitLab | Customer Success LATAM | Remote, United States | Technical Consulting | Not stated | 6 days | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8931337002) |
 | Ramp | Sales Development Representative, Mid-Market | New York, NY (HQ); San Francisco, CA; Remote | Sales Development Representative | Not stated | 3 days | [Apply](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) |
 | Ramp | Sales Development Representative, Strategic Accounts | New York, NY (HQ); Remote | Sales Development Representative | Not stated | 3 days | [Apply](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) |
-| Contentful | Solution Engineer | Austin, Texas, United States | Implementation Engineering | 3+ yrs (preferred) | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383636) |
 | Contentful | Solution Engineer | Atlanta, Georgia, United States | Implementation Engineering | 3+ yrs (preferred) | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383638) |
-| Contentful | Solution Engineer | New York, New York, United States | Implementation Engineering | 3+ yrs (preferred) | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383603) |
+| Contentful | Solution Engineer | Dallas, Texas, United States | Implementation Engineering | 3+ yrs (preferred) | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383644) |
 | Contentful | Solution Engineer | San Francisco, California, United States | Implementation Engineering | 3+ yrs (preferred) | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259745) |
 | Contentful | Solution Engineer | Denver, Colorado, United States | Implementation Engineering | 3+ yrs (preferred) | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259743) |
-| Contentful | Solution Engineer | Dallas, Texas, United States | Implementation Engineering | 3+ yrs (preferred) | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383644) |
+| Contentful | Solution Engineer | New York, New York, United States | Implementation Engineering | 3+ yrs (preferred) | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383603) |
+| Contentful | Solution Engineer | Austin, Texas, United States | Implementation Engineering | 3+ yrs (preferred) | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383636) |
 | Datadog | Sales Development Representative - Summer 2027 Graduates (Denver) | Denver, Colorado, USA | Sales Development Representative | Not stated | 7 days | [Apply](https://careers.datadoghq.com/detail/8285486/?gh_jid=8285486) |
+| Netskope | Sales Development Representative | Saint Louis, Missouri, United States | Sales Development Representative | 2+ yrs | Today | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=7306978) |
+| Netskope | Sales Development Representative | Santa Clara, California, United States | Sales Development Representative | 2+ yrs | Today | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207) |
 
 ## How Long Postings Have Been Up
 
@@ -66,15 +68,15 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Samsara | Associate Sales Engineer, SE Desk - Northeast | Sales Engineering | 6 weeks | 2026-09-28 | [Apply](https://www.samsara.com/company/careers/roles/7311741?gh_jid=7311741) |
 | Samsara | Associate Sales Engineer, SE Desk - Southeast | Sales Engineering | 6 weeks | 2026-09-28 | [Apply](https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351) |
 | Samsara | Associate Sales Engineer, SE Desk - TOLA | Sales Engineering | 6 weeks | 2026-09-28 | [Apply](https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363) |
-| Brex | Implementation Consultant, Commercial | Implementation Engineering | 6 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536968002?gh_jid=8536968002) |
-| Brex | Implementation Consultant, Commercial | Implementation Engineering | 6 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Brex | Implementation Consultant, Commercial | Implementation Engineering | 6 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
+| Brex | Implementation Consultant, Commercial | Implementation Engineering | 6 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Brex | Implementation Consultant, Commercial | Implementation Engineering | 6 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
+| Brex | Implementation Consultant, Commercial | Implementation Engineering | 6 weeks | 2026-09-29 | [Apply](https://www.brex.com/careers/8536968002?gh_jid=8536968002) |
 | Planhat | Technical Deployment Specialist | Solutions Engineering | 6 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
 | Snowflake | Solution Engineer - GCC (FSI) | Sales Engineering | 6 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180) |
 | UiPath | Sales Engineer - Healthcare, Payor | Solutions Engineering | 6 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
-| Flexport | Solutions Consultant | Solutions Engineering | 6 weeks | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Flexport | Solutions Consultant | Solutions Engineering | 6 weeks | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
+| Flexport | Solutions Consultant | Solutions Engineering | 6 weeks | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Hex | Product Expert | Forward Deployed Engineering | 6 weeks | 2026-10-02 | [Apply](https://jobs.ashbyhq.com/hex/b2c81c35-8f47-46f0-b0c7-cab734109c19) |
 | Astronomer | Sales Development Representative - NYC (hybrid 4 days in office) | Sales Development Representative | 5 weeks | 2026-10-03 | [Apply](https://jobs.ashbyhq.com/astronomer/587eaa17-f90e-4f59-a3e4-9d8213ef5013) |
 | Brex | Outbound Sales Development Representative | Sales Development Representative | 5 weeks | 2026-10-03 | [Apply](https://www.brex.com/careers/8814628002?gh_jid=8814628002) |
@@ -158,13 +160,15 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Ramp | Sales Development Representative, Strategic Accounts | Sales Development Representative | 3 days | 2026-11-10 | [Apply](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) |
 | Ramp | Technical Consultant, Commercial | Solutions Engineering | 3 days | 2026-11-10 | [Apply](https://jobs.ashbyhq.com/ramp/100c09be-f179-406f-893e-8a212f32c642) |
 | Chainguard | Partner Sales Engineer - West | Solutions Engineering | 2 days | 2026-11-11 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4728389006) |
-| Contentful | Solution Engineer | Implementation Engineering | 1 day | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383636) |
 | Contentful | Solution Engineer | Implementation Engineering | 1 day | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383638) |
-| Contentful | Solution Engineer | Implementation Engineering | 1 day | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383603) |
+| Contentful | Solution Engineer | Implementation Engineering | 1 day | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383644) |
 | Contentful | Solution Engineer | Implementation Engineering | 1 day | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259745) |
 | Contentful | Solution Engineer | Implementation Engineering | 1 day | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259743) |
-| Contentful | Solution Engineer | Implementation Engineering | 1 day | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383644) |
+| Contentful | Solution Engineer | Implementation Engineering | 1 day | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383603) |
+| Contentful | Solution Engineer | Implementation Engineering | 1 day | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383636) |
 | GitLab | Customer Success Architect - East | Sales Engineering | 1 day | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8931313002) |
+| Netskope | Sales Development Representative | Sales Development Representative | Today | 2026-11-13 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=7306978) |
+| Netskope | Sales Development Representative | Sales Development Representative | Today | 2026-11-13 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207) |
 
 ## AI Deployment / Applied AI
 
@@ -192,9 +196,9 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Coinbase | Forward Deployed Engineer Intern (HR Technology) | Hybrid - New York, NY | Not stated | Review | 5 weeks | [Apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
 | Hex | Product Expert | New York; Remote - US (EST); Remote - US (CST) | 2+ yrs | Review | 6 weeks | [Apply](https://jobs.ashbyhq.com/hex/b2c81c35-8f47-46f0-b0c7-cab734109c19) |
 | ServiceNow | Forward Deployed Solution Engineer – Applied AI FDE | Santa Clara, California, US \| Remote | Not stated | Review | 5 weeks | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000154154044) |
-| Flexport | Rotational Development Program | Atlanta, Georgia, United States; Dallas, Texas, United States | Not stated | Review | 9 days | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8353044) |
 | Flexport | Rotational Development Program | Chicago, Illinois, United States; Los Angeles, California, United States | Not stated | Review | 6 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8172300) |
 | Flexport | Rotational Development Program | Los Angeles, California, United States; New York City, New York, United States | Not stated | Review | 6 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8224715) |
+| Flexport | Rotational Development Program | Atlanta, Georgia, United States; Dallas, Texas, United States | Not stated | Review | 9 days | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8353044) |
 
 ## Implementation Engineering
 
@@ -202,18 +206,18 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 |---|---|---|---|---|---|---|
 | Carta | Associate, Tax Delivery | Seattle, WA | Not stated | Yes | 8 days | [Apply](https://job-boards.greenhouse.io/carta/jobs/6247992003) |
 | Brex | Enterprise Implementation Consultant | Salt Lake City, Utah, United States | Not stated | Review | 6 weeks | [Apply](https://www.brex.com/careers/8152968002?gh_jid=8152968002) |
-| Brex | Implementation Consultant, Commercial | San Francisco, California, United States | 4+ yrs (preferred) | Review | 6 weeks | [Apply](https://www.brex.com/careers/8536968002?gh_jid=8536968002) |
-| Brex | Implementation Consultant, Commercial | Seattle, Washington, United States | 4+ yrs (preferred) | Review | 6 weeks | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Brex | Implementation Consultant, Commercial | Salt Lake City, Utah, United States | 4+ yrs (preferred) | Review | 6 weeks | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
+| Brex | Implementation Consultant, Commercial | Seattle, Washington, United States | 4+ yrs (preferred) | Review | 6 weeks | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Brex | Implementation Consultant, Commercial | New York, New York, United States | 4+ yrs (preferred) | Review | 6 weeks | [Apply](https://www.brex.com/careers/8536983002?gh_jid=8536983002) |
+| Brex | Implementation Consultant, Commercial | San Francisco, California, United States | 4+ yrs (preferred) | Review | 6 weeks | [Apply](https://www.brex.com/careers/8536968002?gh_jid=8536968002) |
 | GitLab | Migration Engineer - GitLab Dedicated | Remote, United States | Not stated | Review | 8 days | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8710061002) |
 | ServiceNow | PS, Solution Architect /Forward Deployment Engineer  ( Armis/ Veza) | New York, NEW YORK, US \| Remote | Not stated | Review | 3 weeks | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000157494419) |
-| Contentful | Solution Engineer | Austin, Texas, United States | 3+ yrs (preferred) | Review | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383636) |
 | Contentful | Solution Engineer | Atlanta, Georgia, United States | 3+ yrs (preferred) | Review | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383638) |
-| Contentful | Solution Engineer | New York, New York, United States | 3+ yrs (preferred) | Review | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383603) |
+| Contentful | Solution Engineer | Dallas, Texas, United States | 3+ yrs (preferred) | Review | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383644) |
 | Contentful | Solution Engineer | San Francisco, California, United States | 3+ yrs (preferred) | Review | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259745) |
 | Contentful | Solution Engineer | Denver, Colorado, United States | 3+ yrs (preferred) | Review | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259743) |
-| Contentful | Solution Engineer | Dallas, Texas, United States | 3+ yrs (preferred) | Review | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383644) |
+| Contentful | Solution Engineer | New York, New York, United States | 3+ yrs (preferred) | Review | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383603) |
+| Contentful | Solution Engineer | Austin, Texas, United States | 3+ yrs (preferred) | Review | 1 day | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383636) |
 | Databricks | Data+AI Workforce Transformation Practitioner — Customer Delivery | United States | Not stated | Review | 8 days | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8859666002) |
 
 ## Sales Development Representative
@@ -254,6 +258,8 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Datadog | Sales Development Representative - Summer 2027 Graduates (Boston) | Boston, Massachusetts, USA | Not stated | Review | 3 weeks | [Apply](https://careers.datadoghq.com/detail/8287316/?gh_jid=8287316) |
 | Datadog | Sales Development Representative - Summer 2027 Graduates (Denver) | Denver, Colorado, USA | Not stated | Review | 7 days | [Apply](https://careers.datadoghq.com/detail/8285486/?gh_jid=8285486) |
 | Kong | Account Development Representative (Chicago, IL) (Hybrid) | Illinois, United States | 2+ yrs (preferred) | Review | 4 weeks | [Apply](https://jobs.ashbyhq.com/kong/813ebdbc-c0df-4140-bf4c-184cda1a3a53) |
+| Netskope | Sales Development Representative | Saint Louis, Missouri, United States | 2+ yrs | Review | Today | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=7306978) |
+| Netskope | Sales Development Representative | Santa Clara, California, United States | 2+ yrs | Review | Today | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207) |
 | Okta | Sales Development Representative, East | Washington, DC | Not stated | Review | 3 weeks | [Apply](https://www.okta.com/company/careers/opportunity/7013646?gh_jid=7013646) |
 | Okta | Sales Development Representative, Latin America | Washington, DC | Not stated | Review | 5 weeks | [Apply](https://www.okta.com/company/careers/opportunity/7013739?gh_jid=7013739) |
 | Okta | Sales Development Representative, West | San Francisco, California | Not stated | Review | 4 weeks | [Apply](https://www.okta.com/company/careers/opportunity/7013572?gh_jid=7013572) |
@@ -298,8 +304,8 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | UiPath | Sales Engineer - Healthcare, Payor | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-South Carolina | Not stated | Review | 6 weeks | [Apply](https://jobs.ashbyhq.com/uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
 | Databricks | Solutions Engineer | Chicago, Illinois | 2+ yrs | Review | 4 weeks | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
 | Braze | Solutions Consultant | New York City | Not stated | Review | 10 days | [Apply](https://job-boards.greenhouse.io/braze/jobs/8327835) |
-| Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | 6 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Flexport | Solutions Consultant | San Francisco, California, United States | 3+ yrs (preferred) | Review | 6 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
+| Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | 6 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Planhat | Technical Deployment Specialist | Los Angeles; New York | Not stated | Review | 6 weeks | [Apply](https://jobs.ashbyhq.com/planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
 
 ## Technical Consulting
