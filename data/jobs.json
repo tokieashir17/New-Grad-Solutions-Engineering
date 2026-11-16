@@ -23,58 +23,6 @@
     "last_seen": "2026-11-16"
   },
   {
-    "id": "1b9715e6eecc66b2",
-    "company": "Databricks",
-    "title": "Associate Forward Deployed Engineer",
-    "category": "AI Deployment / Applied AI",
-    "location": "Mountain View, California",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 19,
-    "signals": [
-      "AI Deployment / Applied AI",
-      "Forward Deployed Engineering",
-      "early career",
-      "associate"
-    ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
-    "source": "greenhouse",
-    "first_seen": "2026-11-14",
-    "last_seen": "2026-11-16"
-  },
-  {
-    "id": "93f97ea74dca17d5",
-    "company": "Databricks",
-    "title": "Associate Forward Deployed Engineer",
-    "category": "AI Deployment / Applied AI",
-    "location": "New York City, New York",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 19,
-    "signals": [
-      "AI Deployment / Applied AI",
-      "Forward Deployed Engineering",
-      "early career",
-      "associate"
-    ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
-    "source": "greenhouse",
-    "first_seen": "2026-11-14",
-    "last_seen": "2026-11-16"
-  },
-  {
     "id": "0961fccac7cbb76b",
     "company": "Databricks",
     "title": "Customer Enablement Architect",
@@ -402,6 +350,29 @@
     "last_seen": "2026-11-16"
   },
   {
+    "id": "b4e5b4f4745e31a8",
+    "company": "ServiceNow",
+    "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+    "category": "Forward Deployed Engineering",
+    "location": "Kirkland, Washington, US | Remote",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Servicenow/744000161881425",
+    "source": "smartrecruiters",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16"
+  },
+  {
     "id": "3d6ad77b30389195",
     "company": "ServiceNow",
     "title": "Forward Deployed Solution Engineer – Applied AI FDE",
@@ -471,6 +442,29 @@
     "last_seen": "2026-11-16"
   },
   {
+    "id": "3227ee1e5e901b5c",
+    "company": "Brex",
+    "title": "Implementation Consultant, Commercial",
+    "category": "Implementation Engineering",
+    "location": "San Francisco, California, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 4,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
+    "source": "greenhouse",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-11-16"
+  },
+  {
     "id": "99c45cbcf84eb37f",
     "company": "Brex",
     "title": "Implementation Consultant, Commercial",
@@ -517,29 +511,6 @@
     "last_seen": "2026-11-16"
   },
   {
-    "id": "3227ee1e5e901b5c",
-    "company": "Brex",
-    "title": "Implementation Consultant, Commercial",
-    "category": "Implementation Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 4,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
-    "source": "greenhouse",
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-11-16"
-  },
-  {
     "id": "0392dc4dd2bff758",
     "company": "Carta",
     "title": "Tax Associate",
@@ -564,52 +535,6 @@
     "last_seen": "2026-11-16"
   },
   {
-    "id": "e5e180676a710944",
-    "company": "Contentful",
-    "title": "Solution Engineer",
-    "category": "Implementation Engineering",
-    "location": "Austin, Texas, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383636",
-    "source": "greenhouse",
-    "first_seen": "2026-11-12",
-    "last_seen": "2026-11-16"
-  },
-  {
-    "id": "6d0742325a97545d",
-    "company": "Contentful",
-    "title": "Solution Engineer",
-    "category": "Implementation Engineering",
-    "location": "New York, New York, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383603",
-    "source": "greenhouse",
-    "first_seen": "2026-11-12",
-    "last_seen": "2026-11-16"
-  },
-  {
     "id": "eddda721146f3b83",
     "company": "Contentful",
     "title": "Solution Engineer",
@@ -628,29 +553,6 @@
       "Implementation Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/contentful/jobs/8383638",
-    "source": "greenhouse",
-    "first_seen": "2026-11-12",
-    "last_seen": "2026-11-16"
-  },
-  {
-    "id": "6529a46988a84b8b",
-    "company": "Contentful",
-    "title": "Solution Engineer",
-    "category": "Implementation Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/contentful/jobs/8259745",
     "source": "greenhouse",
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-16"
@@ -697,6 +599,75 @@
       "Implementation Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/contentful/jobs/8383644",
+    "source": "greenhouse",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-16"
+  },
+  {
+    "id": "6d0742325a97545d",
+    "company": "Contentful",
+    "title": "Solution Engineer",
+    "category": "Implementation Engineering",
+    "location": "New York, New York, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383603",
+    "source": "greenhouse",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-16"
+  },
+  {
+    "id": "6529a46988a84b8b",
+    "company": "Contentful",
+    "title": "Solution Engineer",
+    "category": "Implementation Engineering",
+    "location": "San Francisco, California, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/8259745",
+    "source": "greenhouse",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-16"
+  },
+  {
+    "id": "e5e180676a710944",
+    "company": "Contentful",
+    "title": "Solution Engineer",
+    "category": "Implementation Engineering",
+    "location": "Austin, Texas, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383636",
     "source": "greenhouse",
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-16"
@@ -864,29 +835,6 @@
     "last_seen": "2026-11-16"
   },
   {
-    "id": "fa2318fc10251949",
-    "company": "Brex",
-    "title": "Outbound Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-03",
-    "last_seen": "2026-11-16"
-  },
-  {
     "id": "b8a5925dfc5593b8",
     "company": "Brex",
     "title": "Outbound Sales Development Representative",
@@ -905,6 +853,29 @@
       "Sales Development Representative"
     ],
     "url": "https://www.brex.com/careers/8814410002?gh_jid=8814410002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-11-16"
+  },
+  {
+    "id": "fa2318fc10251949",
+    "company": "Brex",
+    "title": "Outbound Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
     "source": "greenhouse",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-16"
@@ -1335,6 +1306,29 @@
     "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7306978",
     "source": "greenhouse",
     "first_seen": "2026-11-13",
+    "last_seen": "2026-11-16"
+  },
+  {
+    "id": "82cf5f95b9b8b927",
+    "company": "Netskope",
+    "title": "Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Washington, District of Columbia, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 10,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8372597",
+    "source": "greenhouse",
+    "first_seen": "2026-11-16",
     "last_seen": "2026-11-16"
   },
   {
@@ -1808,7 +1802,7 @@
   {
     "id": "d073cbfcae575ffc",
     "company": "Chainguard",
-    "title": "Commercial Sales Engineer- New York",
+    "title": "Commercial Sales Engineer- East",
     "category": "Sales Engineering",
     "location": "United States - Remote",
     "remote": true,
@@ -1922,32 +1916,6 @@
     "last_seen": "2026-11-16"
   },
   {
-    "id": "5cc5dee224bfd0dd",
-    "company": "Elastic",
-    "title": "Partner Solutions Architect - Public Sector",
-    "category": "Sales Engineering",
-    "location": "Washington, DC, United States",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 15,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting",
-      "Partner Engineering",
-      "1+ years"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8302518&gh_jid=8302518",
-    "source": "greenhouse",
-    "first_seen": "2026-11-03",
-    "last_seen": "2026-11-16"
-  },
-  {
     "id": "9d93aa1eeffcd535",
     "company": "Elastic",
     "title": "Partner Solutions Architect - Public Sector",
@@ -1969,6 +1937,32 @@
       "1+ years"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8350647&gh_jid=8350647",
+    "source": "greenhouse",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-16"
+  },
+  {
+    "id": "5cc5dee224bfd0dd",
+    "company": "Elastic",
+    "title": "Partner Solutions Architect - Public Sector",
+    "category": "Sales Engineering",
+    "location": "Washington, DC, United States",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 15,
+    "signals": [
+      "Sales Engineering",
+      "Technical Consulting",
+      "Partner Engineering",
+      "1+ years"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8302518&gh_jid=8302518",
     "source": "greenhouse",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-16"
@@ -2701,52 +2695,6 @@
     ],
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8859063002",
     "source": "greenhouse",
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-16"
-  },
-  {
-    "id": "a94fbd17e7b2dd98",
-    "company": "Hims & Hers",
-    "title": "Quality Control Specialist",
-    "category": "Technical Support Engineering",
-    "location": "Gilbert, Arizona",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Technical Support Engineering"
-    ],
-    "url": "https://jobs.ashbyhq.com/hims-and-hers/645f2ad7-d656-4d31-818f-5fec30ccfbc7",
-    "source": "ashby",
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-16"
-  },
-  {
-    "id": "e3b372ba07f079d6",
-    "company": "Kustomer",
-    "title": "Technical Support Engineer",
-    "category": "Technical Support Engineering",
-    "location": "US - Remote",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 4,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Technical Support Engineering"
-    ],
-    "url": "https://jobs.ashbyhq.com/Kustomer/f5936ba0-85eb-4409-81ae-979c3d978ba4",
-    "source": "ashby",
     "first_seen": "2026-11-05",
     "last_seen": "2026-11-16"
   },
