@@ -258,29 +258,6 @@
     "last_seen": "2026-11-17"
   },
   {
-    "id": "7e0b9c6c9e8cd208",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "Atlanta, Georgia, United States; Dallas, Texas, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8353044",
-    "source": "greenhouse",
-    "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17"
-  },
-  {
     "id": "309a6aeeb62c454a",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -301,6 +278,29 @@
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
+    "last_seen": "2026-11-17"
+  },
+  {
+    "id": "7e0b9c6c9e8cd208",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "Atlanta, Georgia, United States; Dallas, Texas, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8353044",
+    "source": "greenhouse",
+    "first_seen": "2026-11-04",
     "last_seen": "2026-11-17"
   },
   {
@@ -489,11 +489,11 @@
     "last_seen": "2026-11-17"
   },
   {
-    "id": "5e1ce63c4a672d35",
+    "id": "3227ee1e5e901b5c",
     "company": "Brex",
     "title": "Implementation Consultant, Commercial",
     "category": "Implementation Engineering",
-    "location": "New York, New York, United States",
+    "location": "San Francisco, California, United States",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -506,7 +506,7 @@
     "signals": [
       "Implementation Engineering"
     ],
-    "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002",
+    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
     "source": "greenhouse",
     "first_seen": "2026-09-29",
     "last_seen": "2026-11-17"
@@ -535,11 +535,11 @@
     "last_seen": "2026-11-17"
   },
   {
-    "id": "3227ee1e5e901b5c",
+    "id": "5e1ce63c4a672d35",
     "company": "Brex",
     "title": "Implementation Consultant, Commercial",
     "category": "Implementation Engineering",
-    "location": "San Francisco, California, United States",
+    "location": "New York, New York, United States",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -552,7 +552,7 @@
     "signals": [
       "Implementation Engineering"
     ],
-    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002",
+    "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002",
     "source": "greenhouse",
     "first_seen": "2026-09-29",
     "last_seen": "2026-11-17"
@@ -743,6 +743,30 @@
     "last_seen": "2026-11-17"
   },
   {
+    "id": "52d9555acdb9c152",
+    "company": "GitLab",
+    "title": "Customer Success LATAM",
+    "category": "Implementation Engineering",
+    "location": "Remote, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering",
+      "Customer Success Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931337002",
+    "source": "greenhouse",
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-17"
+  },
+  {
     "id": "9488a677df11cf51",
     "company": "GitLab",
     "title": "Migration Engineer - GitLab Dedicated",
@@ -882,29 +906,6 @@
     "last_seen": "2026-11-17"
   },
   {
-    "id": "fa2318fc10251949",
-    "company": "Brex",
-    "title": "Outbound Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Seattle, Washington, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
-    "source": "greenhouse",
-    "first_seen": "2026-10-03",
-    "last_seen": "2026-11-17"
-  },
-  {
     "id": "b8a5925dfc5593b8",
     "company": "Brex",
     "title": "Outbound Sales Development Representative",
@@ -923,6 +924,29 @@
       "Sales Development Representative"
     ],
     "url": "https://www.brex.com/careers/8814410002?gh_jid=8814410002",
+    "source": "greenhouse",
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-11-17"
+  },
+  {
+    "id": "fa2318fc10251949",
+    "company": "Brex",
+    "title": "Outbound Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Seattle, Washington, United States",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002",
     "source": "greenhouse",
     "first_seen": "2026-10-03",
     "last_seen": "2026-11-17"
@@ -1112,6 +1136,30 @@
     "url": "https://jobs.elastic.co/jobs?gh_jid=8318605&gh_jid=8318605",
     "source": "greenhouse",
     "first_seen": "2026-10-23",
+    "last_seen": "2026-11-17"
+  },
+  {
+    "id": "e5caacdc5d50925d",
+    "company": "Faire",
+    "title": "Upmarket Retailer Sales SDR",
+    "category": "Sales Development Representative",
+    "location": "San Francisco, CA",
+    "remote": true,
+    "early_career": true,
+    "experience": {
+      "min_years": 0,
+      "max_years": 3,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 16,
+    "signals": [
+      "Sales Development Representative",
+      "early career"
+    ],
+    "url": "https://boards.greenhouse.io/faire/jobs/8947932002?gh_jid=8947932002",
+    "source": "greenhouse",
+    "first_seen": "2026-11-17",
     "last_seen": "2026-11-17"
   },
   {
@@ -1333,6 +1381,29 @@
     "last_seen": "2026-11-17"
   },
   {
+    "id": "1233e4cf9b8493e1",
+    "company": "Netskope",
+    "title": "Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Saint Louis, Missouri, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 10,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7306978",
+    "source": "greenhouse",
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-17"
+  },
+  {
     "id": "82cf5f95b9b8b927",
     "company": "Netskope",
     "title": "Sales Development Representative",
@@ -1379,26 +1450,26 @@
     "last_seen": "2026-11-17"
   },
   {
-    "id": "1233e4cf9b8493e1",
-    "company": "Netskope",
-    "title": "Sales Development Representative",
+    "id": "9c5aa44d92501bc4",
+    "company": "Okta",
+    "title": "Sales Development Representative, Central",
     "category": "Sales Development Representative",
-    "location": "Saint Louis, Missouri, United States",
+    "location": "Chicago, Illinois",
     "remote": false,
     "early_career": false,
     "experience": {
-      "min_years": 2,
+      "min_years": null,
       "max_years": null,
-      "is_plus": true,
-      "is_required": true
+      "is_plus": false,
+      "is_required": false
     },
     "score": 10,
     "signals": [
       "Sales Development Representative"
     ],
-    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7306978",
+    "url": "https://www.okta.com/company/careers/opportunity/7013622?gh_jid=7013622",
     "source": "greenhouse",
-    "first_seen": "2026-11-13",
+    "first_seen": "2026-11-17",
     "last_seen": "2026-11-17"
   },
   {
@@ -1777,29 +1848,6 @@
     "last_seen": "2026-11-17"
   },
   {
-    "id": "e2901a5bc5591f06",
-    "company": "Vanta",
-    "title": "Sales Development Representative, Enterprise",
-    "category": "Sales Development Representative",
-    "location": "New York, NY; Remote",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4",
-    "source": "ashby",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-11-17"
-  },
-  {
     "id": "d85922949680fcef",
     "company": "Abnormal Security",
     "title": "MidMarket Sales Engineer - Ohio Valley",
@@ -1820,6 +1868,30 @@
     "url": "https://abnormal.ai/careers/jobs/7894691003?gh_jid=7894691003",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
+    "last_seen": "2026-11-17"
+  },
+  {
+    "id": "485a96595b738c73",
+    "company": "Benchling",
+    "title": "Solution Consultant - R&D",
+    "category": "Sales Engineering",
+    "location": "New York, NY; Remote",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Sales Engineering",
+      "Implementation Engineering"
+    ],
+    "url": "https://jobs.ashbyhq.com/benchling/929b808c-06b6-4967-9d2b-91a4daf8392d",
+    "source": "ashby",
+    "first_seen": "2026-11-17",
     "last_seen": "2026-11-17"
   },
   {
@@ -1963,32 +2035,6 @@
     "last_seen": "2026-11-17"
   },
   {
-    "id": "5cc5dee224bfd0dd",
-    "company": "Elastic",
-    "title": "Partner Solutions Architect - Public Sector",
-    "category": "Sales Engineering",
-    "location": "Washington, DC, United States",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 15,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting",
-      "Partner Engineering",
-      "1+ years"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8302518&gh_jid=8302518",
-    "source": "greenhouse",
-    "first_seen": "2026-11-03",
-    "last_seen": "2026-11-17"
-  },
-  {
     "id": "9d93aa1eeffcd535",
     "company": "Elastic",
     "title": "Partner Solutions Architect - Public Sector",
@@ -2010,6 +2056,32 @@
       "1+ years"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8350647&gh_jid=8350647",
+    "source": "greenhouse",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-17"
+  },
+  {
+    "id": "5cc5dee224bfd0dd",
+    "company": "Elastic",
+    "title": "Partner Solutions Architect - Public Sector",
+    "category": "Sales Engineering",
+    "location": "Washington, DC, United States",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 15,
+    "signals": [
+      "Sales Engineering",
+      "Technical Consulting",
+      "Partner Engineering",
+      "1+ years"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8302518&gh_jid=8302518",
     "source": "greenhouse",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-17"
@@ -2485,30 +2557,6 @@
     "last_seen": "2026-11-17"
   },
   {
-    "id": "a138f63207d17304",
-    "company": "Flexport",
-    "title": "Solutions Consultant",
-    "category": "Solutions Engineering",
-    "location": "Chicago, Illinois, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
-    "source": "greenhouse",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-11-17"
-  },
-  {
     "id": "0677cbc05bafc2e6",
     "company": "Flexport",
     "title": "Solutions Consultant",
@@ -2528,6 +2576,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
+    "source": "greenhouse",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-11-17"
+  },
+  {
+    "id": "a138f63207d17304",
+    "company": "Flexport",
+    "title": "Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "Chicago, Illinois, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering",
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
     "source": "greenhouse",
     "first_seen": "2026-09-30",
     "last_seen": "2026-11-17"
@@ -2605,6 +2677,52 @@
     "last_seen": "2026-11-17"
   },
   {
+    "id": "02adf6cbee89e7f7",
+    "company": "Snowflake",
+    "title": "Commercial Solution Engineer - Expansion",
+    "category": "Solutions Engineering",
+    "location": "FutureSite-DE-Berlin",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering"
+    ],
+    "url": "https://jobs.ashbyhq.com/snowflake/54526c4b-aec0-48ef-b3dc-1dbff49917d8",
+    "source": "ashby",
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17"
+  },
+  {
+    "id": "437cf385624ad06c",
+    "company": "Snowflake",
+    "title": "Commercial Solutions Engineer - Acquisition",
+    "category": "Solutions Engineering",
+    "location": "FutureSite-DE-Berlin",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering"
+    ],
+    "url": "https://jobs.ashbyhq.com/snowflake/f86b9707-4718-43ed-99b8-29913a9118fd",
+    "source": "ashby",
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17"
+  },
+  {
     "id": "24fe07e165f891fd",
     "company": "UiPath",
     "title": "Sales Engineer - Healthcare, Payor",
@@ -2675,30 +2793,6 @@
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931347002",
     "source": "greenhouse",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "id": "52d9555acdb9c152",
-    "company": "GitLab",
-    "title": "Customer Success LATAM",
-    "category": "Technical Consulting",
-    "location": "Remote, United States",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Technical Consulting",
-      "Customer Success Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931337002",
-    "source": "greenhouse",
-    "first_seen": "2026-11-07",
     "last_seen": "2026-11-17"
   },
   {
