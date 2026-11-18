@@ -258,29 +258,6 @@
     "last_seen": "2026-11-18"
   },
   {
-    "id": "203152b05ead11b5",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "Los Angeles, California, United States; New York City, New York, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-11-18"
-  },
-  {
     "id": "309a6aeeb62c454a",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -299,6 +276,29 @@
       "Forward Deployed Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
+    "source": "greenhouse",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "203152b05ead11b5",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "Los Angeles, California, United States; New York City, New York, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8224715",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
     "last_seen": "2026-11-18"
@@ -394,29 +394,6 @@
     "url": "https://jobs.smartrecruiters.com/Servicenow/744000161936020",
     "source": "smartrecruiters",
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-18"
-  },
-  {
-    "id": "b4e5b4f4745e31a8",
-    "company": "ServiceNow",
-    "title": "Forward Deployed Solution Engineer – Applied AI FDE",
-    "category": "Forward Deployed Engineering",
-    "location": "Kirkland, Washington, US | Remote",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://jobs.smartrecruiters.com/Servicenow/744000161881425",
-    "source": "smartrecruiters",
-    "first_seen": "2026-11-16",
     "last_seen": "2026-11-18"
   },
   {
@@ -558,11 +535,11 @@
     "last_seen": "2026-11-18"
   },
   {
-    "id": "0392dc4dd2bff758",
+    "id": "21aa20cf15bd0786",
     "company": "Carta",
     "title": "Tax Associate",
     "category": "Implementation Engineering",
-    "location": "Seattle, WA",
+    "location": "New York, NY; Santa Clara, CA; Seattle, WA",
     "remote": false,
     "early_career": true,
     "experience": {
@@ -576,9 +553,33 @@
       "Implementation Engineering",
       "associate"
     ],
-    "url": "https://job-boards.greenhouse.io/carta/jobs/6247992003",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8208432003",
     "source": "greenhouse",
-    "first_seen": "2026-11-05",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "fa25a8fc6b28a32a",
+    "company": "Carta",
+    "title": "Tax Associate",
+    "category": "Implementation Engineering",
+    "location": "Sandy, UT",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 14,
+    "signals": [
+      "Implementation Engineering",
+      "associate"
+    ],
+    "url": "https://job-boards.greenhouse.io/carta/jobs/6652048003",
+    "source": "greenhouse",
+    "first_seen": "2026-11-18",
     "last_seen": "2026-11-18"
   },
   {
@@ -787,6 +788,31 @@
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8710061002",
     "source": "greenhouse",
     "first_seen": "2026-11-05",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "8a6d3a3c19b10995",
+    "company": "Samsara",
+    "title": "Customer Success Adoption Specialist",
+    "category": "Implementation Engineering",
+    "location": "Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 5,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Implementation Engineering",
+      "Technical Consulting",
+      "Customer Success Engineering"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/8386368?gh_jid=8386368",
+    "source": "greenhouse",
+    "first_seen": "2026-11-18",
     "last_seen": "2026-11-18"
   },
   {
@@ -1429,7 +1455,7 @@
   {
     "id": "82cf5f95b9b8b927",
     "company": "Netskope",
-    "title": "Sales Development Representative",
+    "title": "Sales Development Representative - Public Sector",
     "category": "Sales Development Representative",
     "location": "Washington, District of Columbia, United States",
     "remote": false,
@@ -1500,7 +1526,7 @@
     "company": "Okta",
     "title": "Sales Development Representative, Latin America",
     "category": "Sales Development Representative",
-    "location": "Washington, DC",
+    "location": "Washington D.C.",
     "remote": false,
     "early_career": false,
     "experience": {
@@ -1899,7 +1925,7 @@
     "company": "Benchling",
     "title": "Solution Consultant - R&D",
     "category": "Sales Engineering",
-    "location": "Tarrytown, NY; New York, NY; Princeton, NJ; Hartford, CT; Remote",
+    "location": "Tarrytown, NY; New York, NY; Remote",
     "remote": true,
     "early_career": false,
     "experience": {
@@ -1989,29 +2015,6 @@
     "last_seen": "2026-11-18"
   },
   {
-    "id": "c95c53e15adc4c78",
-    "company": "Datadog",
-    "title": "Commercial Sales Engineer - Boston",
-    "category": "Sales Engineering",
-    "location": "Boston, Massachusetts, USA",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-11-18"
-  },
-  {
     "id": "bce25cbdeda0e167",
     "company": "Datadog",
     "title": "Commercial Sales Engineer 2 (AMER - West)",
@@ -2032,32 +2035,6 @@
     "url": "https://careers.datadoghq.com/detail/8053714/?gh_jid=8053714",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
-    "last_seen": "2026-11-18"
-  },
-  {
-    "id": "9d93aa1eeffcd535",
-    "company": "Elastic",
-    "title": "Partner Solutions Architect - Public Sector",
-    "category": "Sales Engineering",
-    "location": "Florida, United States",
-    "remote": false,
-    "early_career": true,
-    "experience": {
-      "min_years": 1,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 15,
-    "signals": [
-      "Sales Engineering",
-      "Technical Consulting",
-      "Partner Engineering",
-      "1+ years"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8350647&gh_jid=8350647",
-    "source": "greenhouse",
-    "first_seen": "2026-11-03",
     "last_seen": "2026-11-18"
   },
   {
@@ -2082,6 +2059,32 @@
       "1+ years"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8302518&gh_jid=8302518",
+    "source": "greenhouse",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "9d93aa1eeffcd535",
+    "company": "Elastic",
+    "title": "Partner Solutions Architect - Public Sector",
+    "category": "Sales Engineering",
+    "location": "Florida, United States",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 1,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 15,
+    "signals": [
+      "Sales Engineering",
+      "Technical Consulting",
+      "Partner Engineering",
+      "1+ years"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8350647&gh_jid=8350647",
     "source": "greenhouse",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-18"
@@ -2606,7 +2609,7 @@
     "last_seen": "2026-11-18"
   },
   {
-    "id": "fe19b1b835553688",
+    "id": "7965582f3d4a5914",
     "company": "GitLab",
     "title": "Solutions Architect - SLED (East)",
     "category": "Solutions Engineering",
@@ -2625,9 +2628,9 @@
       "Sales Engineering",
       "Technical Consulting"
     ],
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907111002",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8941364002",
     "source": "greenhouse",
-    "first_seen": "2026-10-22",
+    "first_seen": "2026-11-18",
     "last_seen": "2026-11-18"
   },
   {
@@ -2675,6 +2678,53 @@
     "url": "https://jobs.ashbyhq.com/ramp/100c09be-f179-406f-893e-8a212f32c642",
     "source": "ashby",
     "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "70a719b38d0b71d3",
+    "company": "ServiceNow",
+    "title": "Advisory Specialist Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "Bangalore, Karnataka, IN",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Servicenow/744000162289699",
+    "source": "smartrecruiters",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "id": "263ba766d11dfd69",
+    "company": "Snowflake",
+    "title": "Cloud Support Engineer (Night Shift)",
+    "category": "Solutions Engineering",
+    "location": "IN-Pune",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 11,
+    "signals": [
+      "Solutions Engineering",
+      "Technical Support Engineering"
+    ],
+    "url": "https://jobs.ashbyhq.com/snowflake/86da04ed-74b3-4cde-aa86-98cb580f63a6",
+    "source": "ashby",
+    "first_seen": "2026-11-18",
     "last_seen": "2026-11-18"
   },
   {
