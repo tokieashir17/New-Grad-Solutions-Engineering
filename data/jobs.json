@@ -1,28 +1,5 @@
 [
   {
-    "id": "f6d44360e3cf829b",
-    "company": "Chainguard",
-    "title": "Security Analyst, Governance and Trust",
-    "category": "AI Deployment / Applied AI",
-    "location": "United States - Remote",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "AI Deployment / Applied AI"
-    ],
-    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4716920006",
-    "source": "greenhouse",
-    "first_seen": "2026-11-06",
-    "last_seen": "2026-11-19"
-  },
-  {
     "id": "0961fccac7cbb76b",
     "company": "Databricks",
     "title": "Customer Enablement Architect",
@@ -258,29 +235,6 @@
     "last_seen": "2026-11-19"
   },
   {
-    "id": "309a6aeeb62c454a",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "Chicago, Illinois, United States; Los Angeles, California, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-11-19"
-  },
-  {
     "id": "203152b05ead11b5",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -327,6 +281,29 @@
     "last_seen": "2026-11-19"
   },
   {
+    "id": "309a6aeeb62c454a",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "Chicago, Illinois, United States; Los Angeles, California, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
+    "source": "greenhouse",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-11-19"
+  },
+  {
     "id": "743c2630a9e033ce",
     "company": "Hex",
     "title": "Product Expert",
@@ -347,6 +324,29 @@
     "url": "https://jobs.ashbyhq.com/hex/b2c81c35-8f47-46f0-b0c7-cab734109c19",
     "source": "ashby",
     "first_seen": "2026-10-02",
+    "last_seen": "2026-11-19"
+  },
+  {
+    "id": "5f469966c5cbddc1",
+    "company": "ServiceNow",
+    "title": "Advisory Solution Consultant (Forward Deployed Engineer) - CRM & Agentic AI",
+    "category": "Forward Deployed Engineering",
+    "location": "Munich, DE",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Servicenow/744000162483862",
+    "source": "smartrecruiters",
+    "first_seen": "2026-11-19",
     "last_seen": "2026-11-19"
   },
   {
@@ -583,75 +583,6 @@
     "last_seen": "2026-11-19"
   },
   {
-    "id": "07da127fd04f1fa4",
-    "company": "Contentful",
-    "title": "Solution Engineer",
-    "category": "Implementation Engineering",
-    "location": "Denver, Colorado, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/contentful/jobs/8259743",
-    "source": "greenhouse",
-    "first_seen": "2026-11-12",
-    "last_seen": "2026-11-19"
-  },
-  {
-    "id": "87e8d936dd0db47f",
-    "company": "Contentful",
-    "title": "Solution Engineer",
-    "category": "Implementation Engineering",
-    "location": "Dallas, Texas, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383644",
-    "source": "greenhouse",
-    "first_seen": "2026-11-12",
-    "last_seen": "2026-11-19"
-  },
-  {
-    "id": "eddda721146f3b83",
-    "company": "Contentful",
-    "title": "Solution Engineer",
-    "category": "Implementation Engineering",
-    "location": "Atlanta, Georgia, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383638",
-    "source": "greenhouse",
-    "first_seen": "2026-11-12",
-    "last_seen": "2026-11-19"
-  },
-  {
     "id": "e5e180676a710944",
     "company": "Contentful",
     "title": "Solution Engineer",
@@ -693,6 +624,75 @@
       "Implementation Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/contentful/jobs/8383603",
+    "source": "greenhouse",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-19"
+  },
+  {
+    "id": "eddda721146f3b83",
+    "company": "Contentful",
+    "title": "Solution Engineer",
+    "category": "Implementation Engineering",
+    "location": "Atlanta, Georgia, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383638",
+    "source": "greenhouse",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-19"
+  },
+  {
+    "id": "07da127fd04f1fa4",
+    "company": "Contentful",
+    "title": "Solution Engineer",
+    "category": "Implementation Engineering",
+    "location": "Denver, Colorado, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/8259743",
+    "source": "greenhouse",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-19"
+  },
+  {
+    "id": "87e8d936dd0db47f",
+    "company": "Contentful",
+    "title": "Solution Engineer",
+    "category": "Implementation Engineering",
+    "location": "Dallas, Texas, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383644",
     "source": "greenhouse",
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-19"
@@ -788,31 +788,6 @@
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8710061002",
     "source": "greenhouse",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-19"
-  },
-  {
-    "id": "8a6d3a3c19b10995",
-    "company": "Samsara",
-    "title": "Customer Success Adoption Specialist",
-    "category": "Implementation Engineering",
-    "location": "Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX",
-    "remote": true,
-    "early_career": false,
-    "experience": {
-      "min_years": 5,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 12,
-    "signals": [
-      "Implementation Engineering",
-      "Technical Consulting",
-      "Customer Success Engineering"
-    ],
-    "url": "https://www.samsara.com/company/careers/roles/8386368?gh_jid=8386368",
-    "source": "greenhouse",
-    "first_seen": "2026-11-18",
     "last_seen": "2026-11-19"
   },
   {
@@ -1409,29 +1384,6 @@
     "last_seen": "2026-11-19"
   },
   {
-    "id": "7451dd5fdc9798b0",
-    "company": "Netskope",
-    "title": "Sales Development Representative",
-    "category": "Sales Development Representative",
-    "location": "Santa Clara, California, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": true
-    },
-    "score": 10,
-    "signals": [
-      "Sales Development Representative"
-    ],
-    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207",
-    "source": "greenhouse",
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-19"
-  },
-  {
     "id": "1233e4cf9b8493e1",
     "company": "Netskope",
     "title": "Sales Development Representative",
@@ -1450,6 +1402,29 @@
       "Sales Development Representative"
     ],
     "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7306978",
+    "source": "greenhouse",
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-19"
+  },
+  {
+    "id": "7451dd5fdc9798b0",
+    "company": "Netskope",
+    "title": "Sales Development Representative",
+    "category": "Sales Development Representative",
+    "location": "Santa Clara, California, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 10,
+    "signals": [
+      "Sales Development Representative"
+    ],
+    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207",
     "source": "greenhouse",
     "first_seen": "2026-11-13",
     "last_seen": "2026-11-19"
@@ -1991,29 +1966,6 @@
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893716002",
     "source": "greenhouse",
     "first_seen": "2026-10-19",
-    "last_seen": "2026-11-19"
-  },
-  {
-    "id": "2a1310e4971612ac",
-    "company": "Datadog",
-    "title": "Commercial Sales Engineer (AMER - West)",
-    "category": "Sales Engineering",
-    "location": "Denver, Colorado, USA",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226",
-    "source": "greenhouse",
-    "first_seen": "2026-09-28",
     "last_seen": "2026-11-19"
   },
   {
@@ -2863,6 +2815,29 @@
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8859063002",
     "source": "greenhouse",
     "first_seen": "2026-11-05",
+    "last_seen": "2026-11-19"
+  },
+  {
+    "id": "7af8f44dcda53af7",
+    "company": "Intercom",
+    "title": "Technical Support Engineer",
+    "category": "Technical Support Engineering",
+    "location": "Chicago, Illinois",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Technical Support Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/7122157",
+    "source": "greenhouse",
+    "first_seen": "2026-11-19",
     "last_seen": "2026-11-19"
   },
   {
