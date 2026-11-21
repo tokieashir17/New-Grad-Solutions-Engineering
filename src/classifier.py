@@ -3,6 +3,16 @@ import re
 # More specific categories are listed first so they win over broader
 # "solutions engineer" / "deployment engineer" / "solutions architect" rules.
 ROLE_RULES = {
+    # Title-only (see TITLE_ONLY_CATEGORIES). "data analyst" shows up in
+    # unrelated postings that merely mention the team.
+    "Data Analytics": [
+        r"\bdata analysts?\b",
+        r"\bdata analytics\b",
+        r"\banalytics engineers?\b",
+        r"\bbusiness intelligence analysts?\b",
+        r"\bbi analysts?\b",
+        r"\bproduct analysts?\b",
+    ],
     "AI Deployment / Applied AI": [
         r"\bai deployment\b",
         r"\bapplied ai\b",
@@ -103,6 +113,10 @@ ROLE_RULES = {
 # merely say "you will work with solutions engineers" in the body.
 MATCH_ROLE_IN_DESCRIPTION = True
 
+# These categories match the title only, even when MATCH_ROLE_IN_DESCRIPTION
+# is on. Their keywords are common in the body of unrelated roles.
+TITLE_ONLY_CATEGORIES = {"Data Analytics"}
+
 # Non-technical GTM and sales titles. Checked against the title only.
 EXCLUDE_TITLE_RULES = [
     r"\bbdr\b",
@@ -171,11 +185,13 @@ def _matches(text: str, rules: list[str]) -> list[str]:
 
 def classify(title: str, description: str, location: str) -> dict:
     text = f"{title}\n{description}".lower()
-    role_text = text if MATCH_ROLE_IN_DESCRIPTION else title.lower()
+    title_l = title.lower()
+    role_text = text if MATCH_ROLE_IN_DESCRIPTION else title_l
 
     categories = []
     for category, rules in ROLE_RULES.items():
-        if _matches(role_text, rules):
+        haystack = title_l if category in TITLE_ONLY_CATEGORIES else role_text
+        if _matches(haystack, rules):
             categories.append(category)
 
     early_hits = []

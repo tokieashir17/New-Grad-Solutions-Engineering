@@ -114,6 +114,51 @@ class ClassifierTests(unittest.TestCase):
         self.assertTrue(result["relevant"])
         self.assertEqual(result["category"], "AI Deployment / Applied AI")
 
+    def test_data_analyst(self):
+        result = classify(
+            "Data Analyst",
+            "Entry-level role analyzing product data for stakeholders.",
+            "New York, NY",
+        )
+        self.assertTrue(result["relevant"])
+        self.assertEqual(result["category"], "Data Analytics")
+        self.assertTrue(result["early_career"])
+
+    def test_analytics_engineer(self):
+        result = classify(
+            "Analytics Engineer",
+            "New grad building data models and dashboards.",
+            "Remote - United States",
+        )
+        self.assertTrue(result["relevant"])
+        self.assertEqual(result["category"], "Data Analytics")
+        self.assertTrue(result["remote"])
+
+    def test_data_analyst_mention_in_body_does_not_match(self):
+        result = classify(
+            "Software Engineer",
+            "You will partner with data analysts on reporting.",
+            "New York, NY",
+        )
+        self.assertFalse(result["relevant"])
+
+    def test_senior_data_analyst_excluded(self):
+        result = classify(
+            "Senior Data Analyst",
+            "Own analytics for the growth team.",
+            "New York, NY",
+        )
+        self.assertFalse(result["relevant"])
+
+    def test_solutions_engineer_not_relabeled_by_analytics_body(self):
+        result = classify(
+            "Solutions Engineer",
+            "You will work with data analysts on customer reporting. New grad.",
+            "New York, NY",
+        )
+        self.assertTrue(result["relevant"])
+        self.assertEqual(result["category"], "Solutions Engineering")
+
     def test_ai_solutions_engineer_not_swallowed_by_se(self):
         result = classify(
             "AI Solutions Engineer",
