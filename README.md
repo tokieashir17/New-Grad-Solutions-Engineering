@@ -3,12 +3,12 @@
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Associate Solutions Architect, Applied AI, Customer Success Engineering, Developer Advocacy, Technical Support, Partner Engineering, Data Analytics, and related roles.
 
 **Last updated:** 2026-11-21  
-**Matching jobs:** 128
+**Matching jobs:** 135
 
 ## Categories
 
 - [AI Deployment / Applied AI](#ai-deployment--applied-ai) (8)
-- [Data Analytics](#data-analytics) (2)
+- [Data Analytics](#data-analytics) (9)
 - [Developer Advocacy](#developer-advocacy) (2)
 - [Forward Deployed Engineering](#forward-deployed-engineering) (9)
 - [Implementation Engineering](#implementation-engineering) (14)
@@ -33,17 +33,20 @@
 | Carta | Tax Associate | New York, NY; Santa Clara, CA; Seattle, WA | Implementation Engineering | Not stated | Today | [Apply](https://job-boards.greenhouse.io/carta/jobs/8208432003) |
 | Carta | Tax Associate | Sandy, UT | Implementation Engineering | Not stated | Today | [Apply](https://job-boards.greenhouse.io/carta/jobs/6652048003) |
 | Coinbase | Analytics Engineer Intern | Hybrid - New York, NY | Data Analytics | Not stated | Today | [Apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
+| Coinbase | Internal Audit Analytics Intern | Hybrid - New York, NY | Data Analytics | Not stated | Today | [Apply](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) |
 | Faire | Applied AI/ML Scientist, Intern - Winter 2027 | San Francisco, CA | AI Deployment / Applied AI | Not stated | Today | [Apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
 | Nubank | Nu AI Core Summer PhD Research Internship | Palo Alto; Virginia; Miami; Remote | AI Deployment / Applied AI | Not stated | Today | [Apply](https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011) |
 | Scale AI | Machine Learning Fellow - Human Frontier Collective | United States | AI Deployment / Applied AI | Not stated | Today | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
 | Scale AI | STEM Fellow - Human Frontier Collective (US, UK, & Canada) | United States | AI Deployment / Applied AI | Not stated | Today | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4574113005) |
 | Snowflake | Software Engineer Intern (AI / ML) - Summer 2027 | US-CA-Menlo Park; US-WA-Bellevue | AI Deployment / Applied AI | Not stated | Today | [Apply](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907) |
 | Tailscale | Developer Relations Engineer | Remote (United States) | Developer Advocacy | Not stated | Today | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4754084005) |
+| Affirm | Quantitative Analyst II (Capital Structuring & Analytics) | Remote US | Data Analytics | 2+ yrs | Today | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7815952003) |
 | Benchling | Solution Consultant - R&D | New York, NY; Remote | Sales Engineering | 2+ yrs (preferred) | Today | [Apply](https://jobs.ashbyhq.com/benchling/929b808c-06b6-4967-9d2b-91a4daf8392d) |
 | Benchling | Solution Consultant - R&D | Tarrytown, NY; New York, NY; Remote | Sales Engineering | 4+ yrs (preferred) | Today | [Apply](https://jobs.ashbyhq.com/benchling/9bc4ad8e-3446-4345-bc61-b079c62f2090) |
 | Block | Business Systems Analyst, IT Vendor Operations | Bay Area, CA, United States of America | Technical Support Engineering | Not stated | Today | [Apply](http://block.xyz/careers/jobs/5427849008?gh_jid=5427849008) |
 | Chainguard | Commercial Sales Engineer- West | United States - Remote | Sales Engineering | 2+ yrs (preferred) | Today | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4730575006) |
 | Chainguard | Partner Sales Engineer - West | United States - Remote | Solutions Engineering | 5+ yrs (preferred) | Today | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4728389006) |
+| Coinbase | People Analytics Intern | Hybrid - New York, NY | Data Analytics | Not stated | Today | [Apply](https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517) |
 | GitLab | Customer Success Architect - East | Remote, United States | Sales Engineering | Not stated | Today | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8931313002) |
 | GitLab | Customer Success Architect - West | Remote, United States | Sales Engineering | Not stated | Today | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8939861002) |
 | GitLab | Customer Success Engineer | Remote, United States | Technical Consulting | Not stated | Today | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8931347002) |
@@ -55,9 +58,13 @@
 | Samsara | Implementation Consultant | Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX | Implementation Engineering | 3+ yrs (preferred) | Today | [Apply](https://www.samsara.com/company/careers/roles/8367418?gh_jid=8367418) |
 | Tailscale | Customer Reliability Engineer | Remote (United States) | Technical Support Engineering | Not stated | Today | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4715160005) |
 | Vanta | AI Agent Support Specialist | Remote U.S. | AI Deployment / Applied AI | Not stated | Today | [Apply](https://jobs.ashbyhq.com/vanta/f987d41a-d0e1-4260-9129-f64aee6122ae) |
+| Databricks | Data Science Intern (2027 Start) | Mountain View, California; San Francisco, California | Data Analytics | Not stated | Today | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) |
+| Duolingo | Data Scientist, Intern (PhD) | New York, NY; Pittsburgh, PA | Data Analytics | Not stated | Today | [Apply](https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002) |
+| Figma | PhD Intern, Data Science (2027) | San Francisco, CA • New York, NY | Data Analytics | Not stated | Today | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
 | Snowflake | Cloud Support Engineer (Night Shift) | IN-Pune | Solutions Engineering | 2+ yrs (preferred) | Today | [Apply](https://jobs.ashbyhq.com/snowflake/86da04ed-74b3-4cde-aa86-98cb580f63a6) |
 | Snowflake | Cloud Support Engineer - Japanese Speaking | CA-Ontario-Toronto | Technical Support Engineering | Not stated | Today | [Apply](https://jobs.ashbyhq.com/snowflake/1e128d1a-b3d5-4ff3-8b34-60a81165d27f) |
 | Benchling | AI GTM Specialist, Model Hub | San Francisco, CA | Sales Engineering | Not stated | Today | [Apply](https://jobs.ashbyhq.com/benchling/89a58a83-82ee-4d9f-8d9d-a8056af04531) |
+| Chime | Data Scientist, Dispute Risk | Chicago, IL, USA | Data Analytics | 2+ yrs (preferred) | Today | [Apply](https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002) |
 | Contentful | Solution Engineer | Austin, Texas, United States | Implementation Engineering | 3+ yrs (preferred) | Today | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383636) |
 | Contentful | Solution Engineer | New York, New York, United States | Implementation Engineering | 3+ yrs (preferred) | Today | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383603) |
 | Contentful | Solution Engineer | Atlanta, Georgia, United States | Implementation Engineering | 3+ yrs (preferred) | Today | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383638) |
@@ -67,13 +74,6 @@
 | Databricks | Customer Enablement Architect | United States | AI Deployment / Applied AI | Not stated | Today | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8593373002) |
 | Databricks | Data+AI Workforce Transformation Practitioner — Customer Delivery | United States | Implementation Engineering | Not stated | Today | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8859666002) |
 | Datadog | Sales Development Representative (LATAM - Portuguese Speaking) | Boston, Massachusetts, USA | Sales Development Representative | Not stated | Today | [Apply](https://careers.datadoghq.com/detail/8139396/?gh_jid=8139396) |
-| Datadog | Sales Development Representative - Summer 2027 Graduates (Denver) | Denver, Colorado, USA | Sales Development Representative | Not stated | Today | [Apply](https://careers.datadoghq.com/detail/8285486/?gh_jid=8285486) |
-| Datadog | Sales Development Representative - Summer 2027 Graduates - LATAM Portuguese Speaking | Boston, Massachusetts, USA | Sales Development Representative | Not stated | Today | [Apply](https://careers.datadoghq.com/detail/8386590/?gh_jid=8386590) |
-| Datadog | Sales Development Representative - Summer 2027 Graduates - LATAM Spanish Speaking | Boston, Massachusetts, USA | Sales Development Representative | Not stated | Today | [Apply](https://careers.datadoghq.com/detail/8386199/?gh_jid=8386199) |
-| Druva | Cloud Operations Support Engineer | Santa Clara, CA | Technical Support Engineering | 2+ yrs | Today | [Apply](https://www.druva.com/why-druva/explore/careers/jobs/8811603002/?gh_jid=8811603002) |
-| Elastic | Analytics Engineer, HR Analytics | United States | Data Analytics | 2+ yrs | Today | [Apply](https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449) |
-| Figma | Developer Advocate, Payload | San Francisco, CA • New York, NY • United States | Developer Advocacy | Not stated | Today | [Apply](https://boards.greenhouse.io/figma/jobs/6231582004?gh_jid=6231582004) |
-| Netskope | Sales Development Representative | Santa Clara, California, United States | Sales Development Representative | 2+ yrs | Today | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=7875207) |
 
 ## How Long Postings Have Been Up
 
@@ -150,6 +150,7 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Twilio | Sales Development Representative | Sales Development Representative | 2 weeks | 2026-11-03 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8347887) |
 | Flexport | Rotational Development Program | Forward Deployed Engineering | 2 weeks | 2026-11-04 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8353044) |
 | Abnormal Security | Sales Development Representative | Sales Development Representative | Today | 2026-11-21 | [Apply](https://abnormal.ai/careers/jobs/7730831003?gh_jid=7730831003) |
+| Affirm | Quantitative Analyst II (Capital Structuring & Analytics) | Data Analytics | Today | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7815952003) |
 | Benchling | AI GTM Specialist, Model Hub | Sales Engineering | Today | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/benchling/89a58a83-82ee-4d9f-8d9d-a8056af04531) |
 | Benchling | Solution Consultant - R&D | Sales Engineering | Today | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/benchling/929b808c-06b6-4967-9d2b-91a4daf8392d) |
 | Benchling | Solution Consultant - R&D | Sales Engineering | Today | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/benchling/9bc4ad8e-3446-4345-bc61-b079c62f2090) |
@@ -158,7 +159,10 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Carta | Tax Associate | Implementation Engineering | Today | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/carta/jobs/6652048003) |
 | Chainguard | Commercial Sales Engineer- West | Sales Engineering | Today | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4730575006) |
 | Chainguard | Partner Sales Engineer - West | Solutions Engineering | Today | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4728389006) |
+| Chime | Data Scientist, Dispute Risk | Data Analytics | Today | 2026-11-21 | [Apply](https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002) |
 | Coinbase | Analytics Engineer Intern | Data Analytics | Today | 2026-11-21 | [Apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
+| Coinbase | Internal Audit Analytics Intern | Data Analytics | Today | 2026-11-21 | [Apply](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) |
+| Coinbase | People Analytics Intern | Data Analytics | Today | 2026-11-21 | [Apply](https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517) |
 | Contentful | Solution Engineer | Implementation Engineering | Today | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383636) |
 | Contentful | Solution Engineer | Implementation Engineering | Today | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383603) |
 | Contentful | Solution Engineer | Implementation Engineering | Today | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383638) |
@@ -166,17 +170,20 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Contentful | Solution Engineer | Implementation Engineering | Today | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383644) |
 | Contentful | Solution Engineer | Implementation Engineering | Today | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259745) |
 | Databricks | Customer Enablement Architect | AI Deployment / Applied AI | Today | 2026-11-21 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8593373002) |
+| Databricks | Data Science Intern (2027 Start) | Data Analytics | Today | 2026-11-21 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) |
 | Databricks | Data+AI Workforce Transformation Practitioner — Customer Delivery | Implementation Engineering | Today | 2026-11-21 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8859666002) |
 | Datadog | Sales Development Representative (LATAM - Portuguese Speaking) | Sales Development Representative | Today | 2026-11-21 | [Apply](https://careers.datadoghq.com/detail/8139396/?gh_jid=8139396) |
 | Datadog | Sales Development Representative - Summer 2027 Graduates (Denver) | Sales Development Representative | Today | 2026-11-21 | [Apply](https://careers.datadoghq.com/detail/8285486/?gh_jid=8285486) |
 | Datadog | Sales Development Representative - Summer 2027 Graduates - LATAM Portuguese Speaking | Sales Development Representative | Today | 2026-11-21 | [Apply](https://careers.datadoghq.com/detail/8386590/?gh_jid=8386590) |
 | Datadog | Sales Development Representative - Summer 2027 Graduates - LATAM Spanish Speaking | Sales Development Representative | Today | 2026-11-21 | [Apply](https://careers.datadoghq.com/detail/8386199/?gh_jid=8386199) |
 | Druva | Cloud Operations Support Engineer | Technical Support Engineering | Today | 2026-11-21 | [Apply](https://www.druva.com/why-druva/explore/careers/jobs/8811603002/?gh_jid=8811603002) |
+| Duolingo | Data Scientist, Intern (PhD) | Data Analytics | Today | 2026-11-21 | [Apply](https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002) |
 | Elastic | Analytics Engineer, HR Analytics | Data Analytics | Today | 2026-11-21 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449) |
 | Elastic | Partner Solutions Architect | Technical Consulting | Today | 2026-11-21 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8348532&gh_jid=8348532) |
 | Faire | Applied AI/ML Scientist, Intern - Winter 2027 | AI Deployment / Applied AI | Today | 2026-11-21 | [Apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
 | Faire | Sales Development Representative (SDR) Brand/Retailer | Sales Development Representative | Today | 2026-11-21 | [Apply](https://boards.greenhouse.io/faire/jobs/8947932002?gh_jid=8947932002) |
 | Figma | Developer Advocate, Payload | Developer Advocacy | Today | 2026-11-21 | [Apply](https://boards.greenhouse.io/figma/jobs/6231582004?gh_jid=6231582004) |
+| Figma | PhD Intern, Data Science (2027) | Data Analytics | Today | 2026-11-21 | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
 | GitLab | Customer Success Architect - East | Sales Engineering | Today | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8931313002) |
 | GitLab | Customer Success Architect - West | Sales Engineering | Today | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8939861002) |
 | GitLab | Customer Success Engineer | Technical Consulting | Today | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8931347002) |
@@ -228,6 +235,13 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Company | Role | Location | Experience | Early Career | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Coinbase | Analytics Engineer Intern | Hybrid - New York, NY | Not stated | Review | Today | [Apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
+| Coinbase | Internal Audit Analytics Intern | Hybrid - New York, NY | Not stated | Review | Today | [Apply](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) |
+| Affirm | Quantitative Analyst II (Capital Structuring & Analytics) | Remote US | 2+ yrs | Review | Today | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7815952003) |
+| Coinbase | People Analytics Intern | Hybrid - New York, NY | Not stated | Review | Today | [Apply](https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517) |
+| Databricks | Data Science Intern (2027 Start) | Mountain View, California; San Francisco, California | Not stated | Review | Today | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) |
+| Duolingo | Data Scientist, Intern (PhD) | New York, NY; Pittsburgh, PA | Not stated | Review | Today | [Apply](https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002) |
+| Figma | PhD Intern, Data Science (2027) | San Francisco, CA • New York, NY | Not stated | Review | Today | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
+| Chime | Data Scientist, Dispute Risk | Chicago, IL, USA | 2+ yrs (preferred) | Review | Today | [Apply](https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002) |
 | Elastic | Analytics Engineer, HR Analytics | United States | 2+ yrs | Review | Today | [Apply](https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449) |
 
 ## Developer Advocacy

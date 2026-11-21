@@ -189,6 +189,52 @@
     "last_seen": "2026-11-21"
   },
   {
+    "id": "a9097d3d7ad80854",
+    "company": "Affirm",
+    "title": "Quantitative Analyst II (Capital Structuring & Analytics)",
+    "category": "Data Analytics",
+    "location": "Remote US",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 12,
+    "signals": [
+      "Data Analytics"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7815952003",
+    "source": "greenhouse",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21"
+  },
+  {
+    "id": "20fb03c8d3316b97",
+    "company": "Chime",
+    "title": "Data Scientist, Dispute Risk",
+    "category": "Data Analytics",
+    "location": "Chicago, IL, USA",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Data Analytics"
+    ],
+    "url": "https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002",
+    "source": "greenhouse",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21"
+  },
+  {
     "id": "8ea9d7db4abab118",
     "company": "Coinbase",
     "title": "Analytics Engineer Intern",
@@ -212,6 +258,98 @@
     "last_seen": "2026-11-21"
   },
   {
+    "id": "f4de815609d3fb56",
+    "company": "Coinbase",
+    "title": "Internal Audit Analytics Intern",
+    "category": "Data Analytics",
+    "location": "Hybrid - New York, NY",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 13,
+    "signals": [
+      "Data Analytics"
+    ],
+    "url": "https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238",
+    "source": "greenhouse",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21"
+  },
+  {
+    "id": "916768dd601a16e1",
+    "company": "Coinbase",
+    "title": "People Analytics Intern",
+    "category": "Data Analytics",
+    "location": "Hybrid - New York, NY",
+    "remote": true,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 12,
+    "signals": [
+      "Data Analytics"
+    ],
+    "url": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517",
+    "source": "greenhouse",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21"
+  },
+  {
+    "id": "ac03d424a4f86190",
+    "company": "Databricks",
+    "title": "Data Science Intern (2027 Start)",
+    "category": "Data Analytics",
+    "location": "Mountain View, California; San Francisco, California",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 11,
+    "signals": [
+      "Data Analytics"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
+    "source": "greenhouse",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21"
+  },
+  {
+    "id": "ba1e403606d47d95",
+    "company": "Duolingo",
+    "title": "Data Scientist, Intern (PhD)",
+    "category": "Data Analytics",
+    "location": "New York, NY; Pittsburgh, PA",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 11,
+    "signals": [
+      "Data Analytics"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+    "source": "greenhouse",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21"
+  },
+  {
     "id": "a1798702b22a33a3",
     "company": "Elastic",
     "title": "Analytics Engineer, HR Analytics",
@@ -230,6 +368,29 @@
       "Data Analytics"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449",
+    "source": "greenhouse",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21"
+  },
+  {
+    "id": "09c5010524144c38",
+    "company": "Figma",
+    "title": "PhD Intern, Data Science (2027)",
+    "category": "Data Analytics",
+    "location": "San Francisco, CA • New York, NY",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 11,
+    "signals": [
+      "Data Analytics"
+    ],
+    "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
     "source": "greenhouse",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21"

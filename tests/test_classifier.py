@@ -124,6 +124,22 @@ class ClassifierTests(unittest.TestCase):
         self.assertEqual(result["category"], "Data Analytics")
         self.assertTrue(result["early_career"])
 
+    def test_related_analytics_titles(self):
+        titles = [
+            "Data Scientist",
+            "Data Science Intern",
+            "Business Intelligence Engineer",
+            "BI Developer",
+            "Insights Analyst",
+            "Business Analyst",
+            "Product Analytics Associate",
+            "Growth Analyst",
+        ]
+        for title in titles:
+            result = classify(title, "Early-career analytics work.", "New York, NY")
+            self.assertTrue(result["relevant"], title)
+            self.assertEqual(result["category"], "Data Analytics", title)
+
     def test_analytics_engineer(self):
         result = classify(
             "Analytics Engineer",
