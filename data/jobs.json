@@ -396,6 +396,29 @@
     "last_seen": "2026-11-22"
   },
   {
+    "id": "d41019337d5dbe55",
+    "company": "ServiceNow",
+    "title": "Data Analyst (Armis/Veza)",
+    "category": "Data Analytics",
+    "location": "Tel Aviv-Yafo, Tel Aviv District, IL",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Data Analytics"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Servicenow/744000163098369",
+    "source": "smartrecruiters",
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22"
+  },
+  {
     "id": "d2f0495d48fdf59e",
     "company": "Figma",
     "title": "Developer Advocate, Payload",

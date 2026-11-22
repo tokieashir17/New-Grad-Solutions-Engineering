@@ -3,12 +3,12 @@
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Associate Solutions Architect, Applied AI, Customer Success Engineering, Developer Advocacy, Technical Support, Partner Engineering, Data Analytics, and related roles.
 
 **Last updated:** 2026-11-22  
-**Matching jobs:** 134
+**Matching jobs:** 135
 
 ## Categories
 
 - [AI Deployment / Applied AI](#ai-deployment--applied-ai) (8)
-- [Data Analytics](#data-analytics) (9)
+- [Data Analytics](#data-analytics) (10)
 - [Developer Advocacy](#developer-advocacy) (2)
 - [Forward Deployed Engineering](#forward-deployed-engineering) (8)
 - [Implementation Engineering](#implementation-engineering) (14)
@@ -54,6 +54,7 @@
 | Okta | Sales Development Representative, Central | Chicago, Illinois | Sales Development Representative | Not stated | 5 days | [Apply](https://www.okta.com/company/careers/opportunity/7013622?gh_jid=7013622) |
 | ServiceNow | Advisory Solution Consultant (Forward Deployed Engineer) - CRM & Agentic AI | Munich, DE | Forward Deployed Engineering | Not stated | 3 days | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000162483862) |
 | ServiceNow | Advisory Specialist Solutions Consultant | Bangalore, Karnataka, IN | Solutions Engineering | Not stated | 4 days | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000162289699) |
+| ServiceNow | Data Analyst (Armis/Veza) | Tel Aviv-Yafo, Tel Aviv District, IL | Data Analytics | Not stated | Today | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000163098369) |
 | ServiceNow | Forward Deployed Solution Engineer Intern (Masters Summer 2027) | Santa Clara, CALIFORNIA, US | Forward Deployed Engineering | Not stated | 5 days | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000161936020) |
 | ServiceNow | Technical Support Engineer - Moveworks | Bangalore, IN | Technical Support Engineering | Not stated | 1 day | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000162831529) |
 | Snowflake | Commercial Solution Engineer - Expansion | FutureSite-DE-Berlin | Solutions Engineering | Not stated | 5 days | [Apply](https://jobs.ashbyhq.com/snowflake/54526c4b-aec0-48ef-b3dc-1dbff49917d8) |
@@ -199,6 +200,7 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Elastic | Analytics Engineer, HR Analytics | Data Analytics | 1 day | 2026-11-21 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449) |
 | Figma | PhD Intern, Data Science (2027) | Data Analytics | 1 day | 2026-11-21 | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
 | ServiceNow | Technical Support Engineer - Moveworks | Technical Support Engineering | 1 day | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000162831529) |
+| ServiceNow | Data Analyst (Armis/Veza) | Data Analytics | Today | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000163098369) |
 
 ## AI Deployment / Applied AI
 
@@ -226,6 +228,7 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Figma | PhD Intern, Data Science (2027) | San Francisco, CA • New York, NY | Not stated | Review | 1 day | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
 | Chime | Data Scientist, Dispute Risk | Chicago, IL, USA | 2+ yrs (preferred) | Review | 1 day | [Apply](https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002) |
 | Elastic | Analytics Engineer, HR Analytics | United States | 2+ yrs | Review | 1 day | [Apply](https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449) |
+| ServiceNow | Data Analyst (Armis/Veza) | Tel Aviv-Yafo, Tel Aviv District, IL | Not stated | Review | Today | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000163098369) |
 
 ## Developer Advocacy
 
