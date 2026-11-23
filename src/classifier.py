@@ -87,10 +87,6 @@ ROLE_RULES = {
         r"\bgo[- ]to[- ]market engineers?\b",
         r"\btechnical gtm\b",
     ],
-    "Sales Development Representative": [
-        r"\bsdr\b",
-        r"\bsales development representative\b",
-    ],
     # Client-facing + technical paths that fit a CS new grad with consultative
     # sales / support experience (e.g. Framebridge, campus ambassadorship).
     "Customer Success Engineering": [
