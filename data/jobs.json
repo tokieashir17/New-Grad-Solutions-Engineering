@@ -149,7 +149,7 @@
   {
     "id": "98883430abc46bd7",
     "company": "Scale AI",
-    "title": "Machine Learning Fellow - Human Frontier Collective",
+    "title": "Machine Learning Fellow - Human Frontier Collective (US, UK, & Canada)",
     "category": "AI Deployment / Applied AI",
     "location": "United States",
     "remote": true,
@@ -1819,30 +1819,6 @@
     ],
     "url": "https://jobs.smartrecruiters.com/Servicenow/744000162289699",
     "source": "smartrecruiters",
-    "first_seen": "2026-11-18",
-    "last_seen": "2026-11-23"
-  },
-  {
-    "id": "263ba766d11dfd69",
-    "company": "Snowflake",
-    "title": "Cloud Support Engineer (Night Shift)",
-    "category": "Solutions Engineering",
-    "location": "IN-Pune",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 11,
-    "signals": [
-      "Solutions Engineering",
-      "Technical Support Engineering"
-    ],
-    "url": "https://jobs.ashbyhq.com/snowflake/86da04ed-74b3-4cde-aa86-98cb580f63a6",
-    "source": "ashby",
     "first_seen": "2026-11-18",
     "last_seen": "2026-11-23"
   },

@@ -3,7 +3,7 @@
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Associate Solutions Architect, Applied AI, Customer Success Engineering, Developer Advocacy, Technical Support, Partner Engineering, Data Analytics, and related roles.
 
 **Last updated:** 2026-11-23  
-**Matching jobs:** 92
+**Matching jobs:** 91
 
 ## Categories
 
@@ -13,7 +13,7 @@
 - [Forward Deployed Engineering](#forward-deployed-engineering) (8)
 - [Implementation Engineering](#implementation-engineering) (14)
 - [Sales Engineering](#sales-engineering) (23)
-- [Solutions Engineering](#solutions-engineering) (14)
+- [Solutions Engineering](#solutions-engineering) (13)
 - [Technical Consulting](#technical-consulting) (2)
 - [Technical Support Engineering](#technical-support-engineering) (9)
 
@@ -43,7 +43,6 @@
 | Databricks | Data Science Intern (2027 Start) | Mountain View, California; San Francisco, California | Data Analytics | Not stated | 2 days | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) |
 | Duolingo | Data Scientist, Intern (PhD) | New York, NY; Pittsburgh, PA | Data Analytics | Not stated | 2 days | [Apply](https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002) |
 | Figma | PhD Intern, Data Science (2027) | San Francisco, CA • New York, NY | Data Analytics | Not stated | 2 days | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
-| Snowflake | Cloud Support Engineer (Night Shift) | IN-Pune | Solutions Engineering | 2+ yrs (preferred) | 5 days | [Apply](https://jobs.ashbyhq.com/snowflake/86da04ed-74b3-4cde-aa86-98cb580f63a6) |
 | Benchling | AI GTM Specialist, Model Hub | San Francisco, CA | Sales Engineering | Not stated | 3 days | [Apply](https://jobs.ashbyhq.com/benchling/89a58a83-82ee-4d9f-8d9d-a8056af04531) |
 | Chime | Data Scientist, Dispute Risk | Chicago, IL, USA | Data Analytics | 2+ yrs (preferred) | 2 days | [Apply](https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002) |
 | Elastic | Analytics Engineer, HR Analytics | United States | Data Analytics | 2+ yrs | 2 days | [Apply](https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449) |
@@ -108,7 +107,7 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Faire | Applied AI/ML Scientist, Intern - Winter 2027 | AI Deployment / Applied AI | 2 weeks | 2026-11-06 | [Apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
 | GitLab | Customer Success Engineer | Technical Consulting | 2 weeks | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8931347002) |
 | Nubank | Nu AI Core Summer PhD Research Internship | AI Deployment / Applied AI | 2 weeks | 2026-11-06 | [Apply](https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011) |
-| Scale AI | Machine Learning Fellow - Human Frontier Collective | AI Deployment / Applied AI | 2 weeks | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
+| Scale AI | Machine Learning Fellow - Human Frontier Collective (US, UK, & Canada) | AI Deployment / Applied AI | 2 weeks | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
 | Scale AI | STEM Fellow - Human Frontier Collective (US, UK, & Canada) | AI Deployment / Applied AI | 2 weeks | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4574113005) |
 | Benchling | Solution Consultant - R&D | Sales Engineering | 2 weeks | 2026-11-09 | [Apply](https://jobs.ashbyhq.com/benchling/9bc4ad8e-3446-4345-bc61-b079c62f2090) |
 | Elastic | Partner Solutions Architect | Technical Consulting | 13 days | 2026-11-10 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8348532&gh_jid=8348532) |
@@ -132,7 +131,6 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | GitLab | Solutions Architect - Federal | Solutions Engineering | 5 days | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8940485002) |
 | GitLab | Solutions Architect - SLED (East) | Solutions Engineering | 5 days | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8941364002) |
 | ServiceNow | Advisory Specialist Solutions Consultant | Solutions Engineering | 5 days | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000162289699) |
-| Snowflake | Cloud Support Engineer (Night Shift) | Solutions Engineering | 5 days | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/snowflake/86da04ed-74b3-4cde-aa86-98cb580f63a6) |
 | Intercom | Technical Support Engineer | Technical Support Engineering | 4 days | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7122157) |
 | Samsara | Implementation Consultant | Implementation Engineering | 4 days | 2026-11-19 | [Apply](https://www.samsara.com/company/careers/roles/8367418?gh_jid=8367418) |
 | ServiceNow | Advisory Solution Consultant (Forward Deployed Engineer) - CRM & Agentic AI | Forward Deployed Engineering | 4 days | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000162483862) |
@@ -163,7 +161,7 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Scale AI | Enterprise AI Development Strategist | New York, NY; San Francisco, CA | 4+ yrs (preferred) | Yes | 6 weeks | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4741087005) |
 | Faire | Applied AI/ML Scientist, Intern - Winter 2027 | San Francisco, CA | Not stated | Review | 2 weeks | [Apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
 | Nubank | Nu AI Core Summer PhD Research Internship | Palo Alto; Virginia; Miami; Remote | Not stated | Review | 2 weeks | [Apply](https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011) |
-| Scale AI | Machine Learning Fellow - Human Frontier Collective | United States | Not stated | Review | 2 weeks | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
+| Scale AI | Machine Learning Fellow - Human Frontier Collective (US, UK, & Canada) | United States | Not stated | Review | 2 weeks | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
 | Scale AI | STEM Fellow - Human Frontier Collective (US, UK, & Canada) | United States | Not stated | Review | 2 weeks | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4574113005) |
 | Snowflake | Software Engineer Intern (AI / ML) - Summer 2027 | US-CA-Menlo Park; US-WA-Bellevue | Not stated | Review | 3 days | [Apply](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907) |
 | Vanta | AI Agent Support Specialist | Remote U.S. | Not stated | Review | 2 weeks | [Apply](https://jobs.ashbyhq.com/vanta/f987d41a-d0e1-4260-9129-f64aee6122ae) |
@@ -262,7 +260,6 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | GitLab | Solutions Architect - SLED (East) | Remote, United States | Not stated | Review | 5 days | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8941364002) |
 | UiPath | Sales Engineer - Healthcare, Payor | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-South Carolina | Not stated | Review | 7 weeks | [Apply](https://jobs.ashbyhq.com/uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
 | Databricks | Solutions Engineer | Chicago, Illinois | 2+ yrs | Review | 5 weeks | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
-| Snowflake | Cloud Support Engineer (Night Shift) | IN-Pune | 2+ yrs (preferred) | Review | 5 days | [Apply](https://jobs.ashbyhq.com/snowflake/86da04ed-74b3-4cde-aa86-98cb580f63a6) |
 | Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | 7 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Flexport | Solutions Consultant | San Francisco, California, United States | 3+ yrs (preferred) | Review | 7 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
 | Planhat | Technical Deployment Specialist | Los Angeles; New York | Not stated | Review | 7 weeks | [Apply](https://jobs.ashbyhq.com/planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
