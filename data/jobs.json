@@ -1,10 +1,10 @@
 [
   {
-    "id": "1b9715e6eecc66b2",
+    "id": "93f97ea74dca17d5",
     "company": "Databricks",
     "title": "Associate Forward Deployed Engineer",
     "category": "AI Deployment / Applied AI",
-    "location": "Mountain View, California",
+    "location": "New York City, New York",
     "remote": false,
     "early_career": true,
     "experience": {
@@ -20,9 +20,9 @@
       "early career",
       "associate"
     ],
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
     "source": "greenhouse",
-    "first_seen": "2026-11-23",
+    "first_seen": "2026-11-24",
     "last_seen": "2026-11-24"
   },
   {
@@ -163,29 +163,6 @@
       "Data Analytics"
     ],
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7815952003",
-    "source": "greenhouse",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-24"
-  },
-  {
-    "id": "20fb03c8d3316b97",
-    "company": "Chime",
-    "title": "Data Scientist, Dispute Risk",
-    "category": "Data Analytics",
-    "location": "Chicago, IL, USA",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 2,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Data Analytics"
-    ],
-    "url": "https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002",
     "source": "greenhouse",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-24"
@@ -421,6 +398,29 @@
     "last_seen": "2026-11-24"
   },
   {
+    "id": "7e0b9c6c9e8cd208",
+    "company": "Flexport",
+    "title": "Rotational Development Program",
+    "category": "Forward Deployed Engineering",
+    "location": "Atlanta, Georgia, United States; Dallas, Texas, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Forward Deployed Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8353044",
+    "source": "greenhouse",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-24"
+  },
+  {
     "id": "203152b05ead11b5",
     "company": "Flexport",
     "title": "Rotational Development Program",
@@ -464,29 +464,6 @@
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8172300",
     "source": "greenhouse",
     "first_seen": "2026-09-28",
-    "last_seen": "2026-11-24"
-  },
-  {
-    "id": "7e0b9c6c9e8cd208",
-    "company": "Flexport",
-    "title": "Rotational Development Program",
-    "category": "Forward Deployed Engineering",
-    "location": "Atlanta, Georgia, United States; Dallas, Texas, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Forward Deployed Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8353044",
-    "source": "greenhouse",
-    "first_seen": "2026-11-04",
     "last_seen": "2026-11-24"
   },
   {
@@ -630,6 +607,29 @@
     "last_seen": "2026-11-24"
   },
   {
+    "id": "eddda721146f3b83",
+    "company": "Contentful",
+    "title": "Solution Engineer",
+    "category": "Implementation Engineering",
+    "location": "Atlanta, Georgia, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Implementation Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383638",
+    "source": "greenhouse",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-24"
+  },
+  {
     "id": "e5e180676a710944",
     "company": "Contentful",
     "title": "Solution Engineer",
@@ -676,11 +676,11 @@
     "last_seen": "2026-11-24"
   },
   {
-    "id": "eddda721146f3b83",
+    "id": "6529a46988a84b8b",
     "company": "Contentful",
     "title": "Solution Engineer",
     "category": "Implementation Engineering",
-    "location": "Atlanta, Georgia, United States",
+    "location": "San Francisco, California, United States",
     "remote": false,
     "early_career": false,
     "experience": {
@@ -693,7 +693,7 @@
     "signals": [
       "Implementation Engineering"
     ],
-    "url": "https://job-boards.greenhouse.io/contentful/jobs/8383638",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/8259745",
     "source": "greenhouse",
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-24"
@@ -740,29 +740,6 @@
       "Implementation Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/contentful/jobs/8383644",
-    "source": "greenhouse",
-    "first_seen": "2026-11-12",
-    "last_seen": "2026-11-24"
-  },
-  {
-    "id": "6529a46988a84b8b",
-    "company": "Contentful",
-    "title": "Solution Engineer",
-    "category": "Implementation Engineering",
-    "location": "San Francisco, California, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Implementation Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/contentful/jobs/8259745",
     "source": "greenhouse",
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-24"
@@ -1045,6 +1022,29 @@
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893716002",
     "source": "greenhouse",
     "first_seen": "2026-10-19",
+    "last_seen": "2026-11-24"
+  },
+  {
+    "id": "c95c53e15adc4c78",
+    "company": "Datadog",
+    "title": "Commercial Sales Engineer - Boston",
+    "category": "Sales Engineering",
+    "location": "Boston, Massachusetts, USA",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": null,
+      "max_years": null,
+      "is_plus": false,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Sales Engineering"
+    ],
+    "url": "https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669",
+    "source": "greenhouse",
+    "first_seen": "2026-11-24",
     "last_seen": "2026-11-24"
   },
   {
@@ -1537,30 +1537,6 @@
     "last_seen": "2026-11-24"
   },
   {
-    "id": "a138f63207d17304",
-    "company": "Flexport",
-    "title": "Solutions Consultant",
-    "category": "Solutions Engineering",
-    "location": "Chicago, Illinois, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
-    "source": "greenhouse",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-11-24"
-  },
-  {
     "id": "0677cbc05bafc2e6",
     "company": "Flexport",
     "title": "Solutions Consultant",
@@ -1580,6 +1556,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
+    "source": "greenhouse",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-11-24"
+  },
+  {
+    "id": "a138f63207d17304",
+    "company": "Flexport",
+    "title": "Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "Chicago, Illinois, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering",
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
     "source": "greenhouse",
     "first_seen": "2026-09-30",
     "last_seen": "2026-11-24"
