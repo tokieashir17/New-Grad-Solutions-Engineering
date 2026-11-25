@@ -103,12 +103,12 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Elastic | Partner Solutions Architect | Technical Consulting | 2 weeks | 2026-11-10 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8348532&gh_jid=8348532) |
 | Ramp | Technical Consultant, Commercial | Solutions Engineering | 2 weeks | 2026-11-10 | [Apply](https://jobs.ashbyhq.com/ramp/100c09be-f179-406f-893e-8a212f32c642) |
 | Chainguard | Partner Sales Engineer - West | Solutions Engineering | 2 weeks | 2026-11-11 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4728389006) |
-| Contentful | Solution Engineer | Implementation Engineering | 13 days | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383638) |
 | Contentful | Solution Engineer | Implementation Engineering | 13 days | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383636) |
 | Contentful | Solution Engineer | Implementation Engineering | 13 days | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383603) |
-| Contentful | Solution Engineer | Implementation Engineering | 13 days | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259745) |
-| Contentful | Solution Engineer | Implementation Engineering | 13 days | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259743) |
 | Contentful | Solution Engineer | Implementation Engineering | 13 days | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383644) |
+| Contentful | Solution Engineer | Implementation Engineering | 13 days | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259743) |
+| Contentful | Solution Engineer | Implementation Engineering | 13 days | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259745) |
+| Contentful | Solution Engineer | Implementation Engineering | 13 days | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383638) |
 | GitLab | Customer Success Architect - East | Sales Engineering | 13 days | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8931313002) |
 | Tailscale | Developer Relations Engineer | Developer Advocacy | 11 days | 2026-11-14 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4754084005) |
 | Benchling | Solution Consultant - R&D | Sales Engineering | 8 days | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/benchling/929b808c-06b6-4967-9d2b-91a4daf8392d) |
@@ -193,12 +193,12 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | GitLab | Migration Engineer - GitLab Dedicated | Remote, United States | Not stated | Review | 2 weeks | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8710061002) |
 | Samsara | Implementation Consultant | Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX | 3+ yrs (preferred) | Review | 6 days | [Apply](https://www.samsara.com/company/careers/roles/8367418?gh_jid=8367418) |
 | ServiceNow | PS, Solution Architect /Forward Deployment Engineer  ( Armis/ Veza) | New York, NEW YORK, US \| Remote | Not stated | Review | 4 weeks | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000157494419) |
-| Contentful | Solution Engineer | Atlanta, Georgia, United States | 3+ yrs (preferred) | Review | 13 days | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383638) |
 | Contentful | Solution Engineer | Austin, Texas, United States | 3+ yrs (preferred) | Review | 13 days | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383636) |
 | Contentful | Solution Engineer | New York, New York, United States | 3+ yrs (preferred) | Review | 13 days | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383603) |
-| Contentful | Solution Engineer | San Francisco, California, United States | 3+ yrs (preferred) | Review | 13 days | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259745) |
-| Contentful | Solution Engineer | Denver, Colorado, United States | 3+ yrs (preferred) | Review | 13 days | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259743) |
 | Contentful | Solution Engineer | Dallas, Texas, United States | 3+ yrs (preferred) | Review | 13 days | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383644) |
+| Contentful | Solution Engineer | Denver, Colorado, United States | 3+ yrs (preferred) | Review | 13 days | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259743) |
+| Contentful | Solution Engineer | San Francisco, California, United States | 3+ yrs (preferred) | Review | 13 days | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8259745) |
+| Contentful | Solution Engineer | Atlanta, Georgia, United States | 3+ yrs (preferred) | Review | 13 days | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8383638) |
 | Databricks | Data+AI Workforce Transformation Practitioner — Customer Delivery | United States | Not stated | Review | 2 weeks | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8859666002) |
 
 ## Sales Engineering
