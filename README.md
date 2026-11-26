@@ -53,8 +53,8 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Block | Software Engineer, Finance Applications | Solutions Engineering | 8 weeks | 2026-09-28 | [Apply](http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008) |
 | Brex | Enterprise Implementation Consultant | Implementation Engineering | 8 weeks | 2026-09-28 | [Apply](https://www.brex.com/careers/8152968002?gh_jid=8152968002) |
 | Datadog | Commercial Sales Engineer 2 (AMER - West) | Sales Engineering | 8 weeks | 2026-09-28 | [Apply](https://careers.datadoghq.com/detail/8053714/?gh_jid=8053714) |
-| Flexport | Rotational Development Program | Forward Deployed Engineering | 8 weeks | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8224715) |
 | Flexport | Rotational Development Program | Forward Deployed Engineering | 8 weeks | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8172300) |
+| Flexport | Rotational Development Program | Forward Deployed Engineering | 8 weeks | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8224715) |
 | Gusto | Future Opportunities: Sales Onboarding Advocate | Sales Engineering | 8 weeks | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8227773) |
 | Samsara | Associate Sales Engineer, SE Desk (French Bilingual) | Sales Engineering | 8 weeks | 2026-09-28 | [Apply](https://www.samsara.com/company/careers/roles/7624120?gh_jid=7624120) |
 | Samsara | Associate Sales Engineer, SE Desk - Mid West | Sales Engineering | 8 weeks | 2026-09-28 | [Apply](https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761) |
@@ -64,8 +64,8 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Planhat | Technical Deployment Specialist | Solutions Engineering | 8 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
 | Snowflake | Solution Engineer - GCC (FSI) | Sales Engineering | 8 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180) |
 | UiPath | Sales Engineer - Healthcare, Payor | Solutions Engineering | 8 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
-| Flexport | Solutions Consultant | Solutions Engineering | 8 weeks | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Flexport | Solutions Consultant | Solutions Engineering | 8 weeks | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
+| Flexport | Solutions Consultant | Solutions Engineering | 8 weeks | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Hex | Product Expert | Forward Deployed Engineering | 7 weeks | 2026-10-02 | [Apply](https://jobs.ashbyhq.com/hex/b2c81c35-8f47-46f0-b0c7-cab734109c19) |
 | Snowflake | Sales Development Representative - Portuguese Speaker | Sales Engineering | 7 weeks | 2026-10-03 | [Apply](https://jobs.ashbyhq.com/snowflake/2bca874d-6c17-4bc9-ab05-ad230fde040a) |
 | Snowflake | Sales Development Representative - Spanish Speaker | Sales Engineering | 7 weeks | 2026-10-03 | [Apply](https://jobs.ashbyhq.com/snowflake/d1823395-6522-4b35-bfbf-365ad939529f) |
@@ -173,8 +173,8 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Hex | Product Expert | New York; Remote - US (EST); Remote - US (CST) | 2+ yrs | Review | 7 weeks | [Apply](https://jobs.ashbyhq.com/hex/b2c81c35-8f47-46f0-b0c7-cab734109c19) |
 | ServiceNow | Forward Deployed Solution Engineer – Applied AI FDE | Santa Clara, California, US \| Remote | Not stated | Review | 7 weeks | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000154154044) |
 | Flexport | Rotational Development Program | Atlanta, Georgia, United States; Dallas, Texas, United States | Not stated | Review | 3 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8353044) |
-| Flexport | Rotational Development Program | Los Angeles, California, United States; New York City, New York, United States | Not stated | Review | 8 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8224715) |
 | Flexport | Rotational Development Program | Chicago, Illinois, United States; Los Angeles, California, United States | Not stated | Review | 8 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8172300) |
+| Flexport | Rotational Development Program | Los Angeles, California, United States; New York City, New York, United States | Not stated | Review | 8 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8224715) |
 | ServiceNow | Forward Deployed Solution Engineer Intern (Masters Summer 2027) | Santa Clara, CALIFORNIA, US | Not stated | Review | 9 days | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000161936020) |
 
 ## Implementation Engineering
@@ -238,8 +238,8 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | UiPath | Sales Engineer - Healthcare, Payor | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-South Carolina | Not stated | Review | 8 weeks | [Apply](https://jobs.ashbyhq.com/uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
 | Databricks | Solutions Engineer | Chicago, Illinois | 2+ yrs | Review | 6 weeks | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
 | Snowflake | Cloud Support Engineer (Night Shift) | IN-Pune | 2+ yrs (preferred) | Review | 3 days | [Apply](https://jobs.ashbyhq.com/snowflake/86da04ed-74b3-4cde-aa86-98cb580f63a6) |
-| Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | 8 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Flexport | Solutions Consultant | San Francisco, California, United States | 3+ yrs (preferred) | Review | 8 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
+| Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | 8 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Planhat | Technical Deployment Specialist | Los Angeles; New York | Not stated | Review | 8 weeks | [Apply](https://jobs.ashbyhq.com/planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
 | ServiceNow | Advisory Specialist Solutions Consultant | Bangalore, Karnataka, IN | Not stated | Review | 8 days | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000162289699) |
 | Snowflake | Commercial Solutions Engineer - Acquisition | FutureSite-DE-Berlin | Not stated | Review | 9 days | [Apply](https://jobs.ashbyhq.com/snowflake/f86b9707-4718-43ed-99b8-29913a9118fd) |
