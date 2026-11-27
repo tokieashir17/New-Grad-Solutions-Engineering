@@ -26,6 +26,32 @@
     "last_seen": "2026-11-27"
   },
   {
+    "id": "1b9715e6eecc66b2",
+    "company": "Databricks",
+    "title": "Associate Forward Deployed Engineer",
+    "category": "AI Deployment / Applied AI",
+    "location": "Mountain View, California",
+    "remote": false,
+    "early_career": true,
+    "experience": {
+      "min_years": 2,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": true
+    },
+    "score": 19,
+    "signals": [
+      "AI Deployment / Applied AI",
+      "Forward Deployed Engineering",
+      "early career",
+      "associate"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
+    "source": "greenhouse",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27"
+  },
+  {
     "id": "0961fccac7cbb76b",
     "company": "Databricks",
     "title": "Customer Enablement Architect",
@@ -1393,29 +1419,6 @@
     "last_seen": "2026-11-27"
   },
   {
-    "id": "6f04b770b560784e",
-    "company": "Snowflake",
-    "title": "Solution Engineer - GCC (FSI)",
-    "category": "Sales Engineering",
-    "location": "IN-Bangalore-MSO",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 10,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 11,
-    "signals": [
-      "Sales Engineering"
-    ],
-    "url": "https://jobs.ashbyhq.com/snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180",
-    "source": "ashby",
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-11-27"
-  },
-  {
     "id": "7e97c5429122980b",
     "company": "Snyk",
     "title": "Implementation Consultant",
@@ -1513,30 +1516,6 @@
     "last_seen": "2026-11-27"
   },
   {
-    "id": "a138f63207d17304",
-    "company": "Flexport",
-    "title": "Solutions Consultant",
-    "category": "Solutions Engineering",
-    "location": "Chicago, Illinois, United States",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": 3,
-      "max_years": null,
-      "is_plus": true,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Solutions Engineering",
-      "Sales Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
-    "source": "greenhouse",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-11-27"
-  },
-  {
     "id": "0677cbc05bafc2e6",
     "company": "Flexport",
     "title": "Solutions Consultant",
@@ -1556,6 +1535,30 @@
       "Sales Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8241588",
+    "source": "greenhouse",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-11-27"
+  },
+  {
+    "id": "a138f63207d17304",
+    "company": "Flexport",
+    "title": "Solutions Consultant",
+    "category": "Solutions Engineering",
+    "location": "Chicago, Illinois, United States",
+    "remote": false,
+    "early_career": false,
+    "experience": {
+      "min_years": 3,
+      "max_years": null,
+      "is_plus": true,
+      "is_required": false
+    },
+    "score": 10,
+    "signals": [
+      "Solutions Engineering",
+      "Sales Engineering"
+    ],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
     "source": "greenhouse",
     "first_seen": "2026-09-30",
     "last_seen": "2026-11-27"
@@ -2004,29 +2007,6 @@
       "Technical Support Engineering"
     ],
     "url": "https://job-boards.greenhouse.io/tailscale/jobs/4715160005",
-    "source": "greenhouse",
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-27"
-  },
-  {
-    "id": "4e7c06e613614700",
-    "company": "Tanium",
-    "title": "Technical Support Engineer (TSE) Intern",
-    "category": "Technical Support Engineering",
-    "location": "Addison, TX (Hybrid)",
-    "remote": false,
-    "early_career": false,
-    "experience": {
-      "min_years": null,
-      "max_years": null,
-      "is_plus": false,
-      "is_required": false
-    },
-    "score": 10,
-    "signals": [
-      "Technical Support Engineering"
-    ],
-    "url": "https://job-boards.greenhouse.io/tanium/jobs/8176322",
     "source": "greenhouse",
     "first_seen": "2026-11-05",
     "last_seen": "2026-11-27"

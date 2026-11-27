@@ -3,19 +3,19 @@
 > Automatically updated job listings for early-career Solutions Engineering, Sales Engineering, Forward Deployed Engineering, Associate Solutions Architect, Applied AI, Customer Success Engineering, Developer Advocacy, Technical Support, Partner Engineering, Data Analytics, and related roles.
 
 **Last updated:** 2026-11-27  
-**Matching jobs:** 86
+**Matching jobs:** 85
 
 ## Categories
 
-- [AI Deployment / Applied AI](#ai-deployment--applied-ai) (5)
+- [AI Deployment / Applied AI](#ai-deployment--applied-ai) (6)
 - [Data Analytics](#data-analytics) (8)
 - [Developer Advocacy](#developer-advocacy) (2)
 - [Forward Deployed Engineering](#forward-deployed-engineering) (7)
 - [Implementation Engineering](#implementation-engineering) (14)
-- [Sales Engineering](#sales-engineering) (25)
+- [Sales Engineering](#sales-engineering) (24)
 - [Solutions Engineering](#solutions-engineering) (14)
 - [Technical Consulting](#technical-consulting) (2)
-- [Technical Support Engineering](#technical-support-engineering) (9)
+- [Technical Support Engineering](#technical-support-engineering) (8)
 
 - [How Long Postings Have Been Up](#how-long-postings-have-been-up)
 
@@ -24,6 +24,7 @@
 | Company | Role | Location | Category | Experience | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Databricks | Associate Forward Deployed Engineer | New York City, New York | AI Deployment / Applied AI | 2+ yrs | 3 days | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002) |
+| Databricks | Associate Forward Deployed Engineer | Mountain View, California | AI Deployment / Applied AI | 2+ yrs | Today | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002) |
 | GitLab | Professional Services Technical Architect - West | Remote, United States | Implementation Engineering | Not stated | 7 days | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8857335002) |
 | Coinbase | Analytics Engineer Intern | Hybrid - New York, NY | Data Analytics | Not stated | 6 days | [Apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
 | Coinbase | Internal Audit Analytics Intern | Hybrid - New York, NY | Data Analytics | Not stated | 6 days | [Apply](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) |
@@ -61,10 +62,9 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Samsara | Associate Sales Engineer, SE Desk - Southeast | Sales Engineering | 2 months | 2026-09-28 | [Apply](https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351) |
 | Samsara | Associate Sales Engineer, SE Desk - TOLA | Sales Engineering | 2 months | 2026-09-28 | [Apply](https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363) |
 | Planhat | Technical Deployment Specialist | Solutions Engineering | 8 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
-| Snowflake | Solution Engineer - GCC (FSI) | Sales Engineering | 8 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180) |
 | UiPath | Sales Engineer - Healthcare, Payor | Solutions Engineering | 8 weeks | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
-| Flexport | Solutions Consultant | Solutions Engineering | 8 weeks | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Flexport | Solutions Consultant | Solutions Engineering | 8 weeks | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
+| Flexport | Solutions Consultant | Solutions Engineering | 8 weeks | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Hex | Product Expert | Forward Deployed Engineering | 8 weeks | 2026-10-02 | [Apply](https://jobs.ashbyhq.com/hex/b2c81c35-8f47-46f0-b0c7-cab734109c19) |
 | Snowflake | Sales Development Representative - Portuguese Speaker | Sales Engineering | 7 weeks | 2026-10-03 | [Apply](https://jobs.ashbyhq.com/snowflake/2bca874d-6c17-4bc9-ab05-ad230fde040a) |
 | Snowflake | Sales Development Representative - Spanish Speaker | Sales Engineering | 7 weeks | 2026-10-03 | [Apply](https://jobs.ashbyhq.com/snowflake/d1823395-6522-4b35-bfbf-365ad939529f) |
@@ -89,7 +89,6 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Snowflake | Cloud Support Engineer | Technical Support Engineering | 3 weeks | 2026-11-05 | [Apply](https://jobs.ashbyhq.com/snowflake/1ebb1380-17b4-472b-86c1-2bbfa6f53b8a) |
 | Snowflake | Cloud Support Engineer - Japanese Speaking | Technical Support Engineering | 3 weeks | 2026-11-05 | [Apply](https://jobs.ashbyhq.com/snowflake/1e128d1a-b3d5-4ff3-8b34-60a81165d27f) |
 | Tailscale | Customer Reliability Engineer | Technical Support Engineering | 3 weeks | 2026-11-05 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4715160005) |
-| Tanium | Technical Support Engineer (TSE) Intern | Technical Support Engineering | 3 weeks | 2026-11-05 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176322) |
 | Faire | Applied AI/ML Scientist, Intern - Winter 2027 | AI Deployment / Applied AI | 3 weeks | 2026-11-06 | [Apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
 | GitLab | Customer Success Engineer | Technical Consulting | 3 weeks | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8931347002) |
 | Nubank | Nu AI Core Summer PhD Research Internship | AI Deployment / Applied AI | 3 weeks | 2026-11-06 | [Apply](https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011) |
@@ -133,6 +132,7 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Databricks | Associate Forward Deployed Engineer | AI Deployment / Applied AI | 3 days | 2026-11-24 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002) |
 | Datadog | Commercial Sales Engineer - Boston | Sales Engineering | 3 days | 2026-11-24 | [Apply](https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669) |
 | Chainguard | Technical Support Engineer, AMER - East | Technical Support Engineering | 2 days | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4728655006) |
+| Databricks | Associate Forward Deployed Engineer | AI Deployment / Applied AI | Today | 2026-11-27 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002) |
 | GitLab | Enterprise Applications Engineer, Zendesk | Solutions Engineering | Today | 2026-11-27 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8961167002) |
 
 ## AI Deployment / Applied AI
@@ -140,6 +140,7 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Company | Role | Location | Experience | Early Career | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Databricks | Associate Forward Deployed Engineer | New York City, New York | 2+ yrs | Yes | 3 days | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002) |
+| Databricks | Associate Forward Deployed Engineer | Mountain View, California | 2+ yrs | Yes | Today | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002) |
 | Scale AI | Enterprise AI Development Strategist | New York, NY; San Francisco, CA | 4+ yrs (preferred) | Yes | 7 weeks | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4741087005) |
 | Faire | Applied AI/ML Scientist, Intern - Winter 2027 | San Francisco, CA | Not stated | Review | 3 weeks | [Apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
 | Nubank | Nu AI Core Summer PhD Research Internship | Palo Alto; Virginia; Miami; Remote | Not stated | Review | 3 weeks | [Apply](https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011) |
@@ -219,7 +220,6 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | GitLab | Customer Success Architect - West | Remote, United States | Not stated | Review | 10 days | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8939861002) |
 | GitLab | Solutions Architect - SLED (West) | Remote, United States | Not stated | Review | 5 weeks | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8907130002) |
 | Databricks | Solutions Architect - Adtech | United States | Not stated | Review | 5 weeks | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8893716002) |
-| Snowflake | Solution Engineer - GCC (FSI) | IN-Bangalore-MSO | 10+ yrs (preferred) | Review | 8 weeks | [Apply](https://jobs.ashbyhq.com/snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180) |
 | Snyk | Implementation Consultant | United States - Boston Office | Not stated | Review | 5 weeks | [Apply](https://jobs.ashbyhq.com/Snyk/c7e4545a-1652-46d0-81d3-54bd8ae46d28) |
 | Benchling | AI GTM Specialist, Model Hub | San Francisco, CA | Not stated | Review | 7 days | [Apply](https://jobs.ashbyhq.com/benchling/89a58a83-82ee-4d9f-8d9d-a8056af04531) |
 | Datadog | Commercial Sales Engineer - Boston | Boston, Massachusetts, USA | Not stated | Review | 3 days | [Apply](https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669) |
@@ -239,8 +239,8 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | UiPath | Sales Engineer - Healthcare, Payor | Remote-Texas; Remote-Florida; Remote-North Carolina; Remote-Arizona; Remote-South Carolina | Not stated | Review | 8 weeks | [Apply](https://jobs.ashbyhq.com/uipath/04456834-b035-4bcf-8515-e8fc7f111571) |
 | Databricks | Solutions Engineer | Chicago, Illinois | 2+ yrs | Review | 6 weeks | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
 | Snowflake | Cloud Support Engineer (Night Shift) | IN-Pune | 2+ yrs (preferred) | Review | 4 days | [Apply](https://jobs.ashbyhq.com/snowflake/86da04ed-74b3-4cde-aa86-98cb580f63a6) |
-| Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | 8 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Flexport | Solutions Consultant | San Francisco, California, United States | 3+ yrs (preferred) | Review | 8 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241588) |
+| Flexport | Solutions Consultant | Chicago, Illinois, United States | 3+ yrs (preferred) | Review | 8 weeks | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8241586) |
 | Planhat | Technical Deployment Specialist | Los Angeles; New York | Not stated | Review | 8 weeks | [Apply](https://jobs.ashbyhq.com/planhat/7ca188de-4f4b-43aa-969d-4a59a2243067) |
 | ServiceNow | Advisory Specialist Solutions Consultant | Bangalore, Karnataka, IN | Not stated | Review | 9 days | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000162289699) |
 | Snowflake | Commercial Solutions Engineer - Acquisition | FutureSite-DE-Berlin | Not stated | Review | 10 days | [Apply](https://jobs.ashbyhq.com/snowflake/f86b9707-4718-43ed-99b8-29913a9118fd) |
@@ -264,7 +264,6 @@ Age is measured from when this tracker first saw the posting (`first_seen`), whi
 | Tailscale | Customer Reliability Engineer | Remote (United States) | Not stated | Review | 3 weeks | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4715160005) |
 | Snowflake | Cloud Support Engineer - Japanese Speaking | CA-Ontario-Toronto | Not stated | Review | 3 weeks | [Apply](https://jobs.ashbyhq.com/snowflake/1e128d1a-b3d5-4ff3-8b34-60a81165d27f) |
 | ServiceNow | Technical Support Engineer - Moveworks | Bangalore, IN | Not stated | Review | 6 days | [Apply](https://jobs.smartrecruiters.com/Servicenow/744000162831529) |
-| Tanium | Technical Support Engineer (TSE) Intern | Addison, TX (Hybrid) | Not stated | Review | 3 weeks | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176322) |
 
 ---
 
